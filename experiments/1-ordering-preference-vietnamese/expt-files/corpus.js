@@ -36,16 +36,16 @@ var adjectives = _.shuffle([
 
 // to fix "{"Noun":"apple", "NounClass":"food", "Classifier", "XXX"}" in future
 var nouns = [
-		{"Noun":"táo", "NounClass":"food", "Classifier", "XXX"},
-		{"Noun":"chuối", "NounClass":"food"},
-		{"Noun":"cà rốt", "NounClass":"food"},
-		{"Noun":"phô mai", "NounClass":"food"},
-		{"Noun":"cà chua", "NounClass":"food"},								
-		{"Noun":"ghế", "NounClass":"furniture"},								
-		{"Noun":"tủ", "NounClass":"furniture"},								
-		{"Noun":"quạt máy", "NounClass":"furniture"},								
-		{"Noun":"ti-vi", "NounClass":"furniture"},								
-		{"Noun":"bàn", "NounClass":"furniture"}								
+		{"Noun":"táo", "NounClass":"food", "Classifier":"XXX"},
+		// {"Noun":"chuối", "NounClass":"food"},
+		// {"Noun":"cà rốt", "NounClass":"food"},
+		// {"Noun":"phô mai", "NounClass":"food"},
+		// {"Noun":"cà chua", "NounClass":"food"},								
+		// {"Noun":"ghế", "NounClass":"furniture"},								
+		// {"Noun":"tủ", "NounClass":"furniture"},								
+		// {"Noun":"quạt máy", "NounClass":"furniture"},								
+		// {"Noun":"ti-vi", "NounClass":"furniture"},								
+		// {"Noun":"bàn", "NounClass":"furniture"}								
 ];
 
 var stimuli =  makeStims();
@@ -61,11 +61,14 @@ function makeStims() {
 			stims.push(
 				{
 					"Predicate1":pred1.Predicate,
+					"Predicate1English":pred1.EnglishPredicate,
 					"Class1":pred1.Class,	
 					"Predicate2":pred2.Predicate,
+					"Predicate2English":pred2.EnglishPredicate,
 					"Class2":pred2.Class,			
 					"Noun":noun.Noun,
-					"NounClass":noun.NounClass
+					"NounClass":noun.NounClass,
+					"Classifier":noun.Classifier
 				}			
 			);
 		}

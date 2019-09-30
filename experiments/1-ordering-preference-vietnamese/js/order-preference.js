@@ -29,56 +29,16 @@ function make_slides(f) {
       $(".err").hide();
       this.init_sliders();      
       exp.sliderPost = null;
-      // $('input[name="sense"]:checked').attr('checked',false);
-      this.stim = stim; //FRED: allows you to access stim in helpers
-      //var noun_data = _.sample(corpus.Noun)
-      //this.noun_data = noun_data;
-      //var noun = noun_data.noun;
-      //var animacy = noun_data.animacy;
-
-      // this.verbs = _.shuffle(["is","is not"])
-
-      var names_list = _.shuffle(names);
-
-      var man1 = names_list[0];
-      var man2 = names_list[1];
-
-      $(".man1").html(man1);
-
-      $(".man2").html(man2);
+      this.stim = stim; //allows you to access stim in helpers
 
       $(".noun").html(stim.Noun);
 
-      //$(".woman1").html(woman1);
+      $(".low").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate1 + " " + stim.Predicate2 + "\"");
 
-      //$(".woman2").html(man2);
+      $(".high").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate2 + " " + stim.Predicate1 + "\"");
+      
+		  this.n_sliders = 1;
 
-      $(".low").html("\"the "+ stim.Predicate2 + " " + stim.Predicate1 + " " + stim.Noun + "\"");
-
-      $(".high").html("\"the "+ stim.Predicate1 + " " + stim.Predicate2 + " " + stim.Noun + "\"");
-
-      // $(".utterance1").html("\"That "+ stim.Noun + " " + this.verbs[0] + " " + stim.Predicate + ".\"");
-
-      // $(".utterance2").html("\"You're wrong. That "+ stim.Noun + " " + this.verbs[1] + " "  + stim.Predicate + ".\"");
-
-//      this.sentence_types = _.shuffle(["yes","no"]);
-//      this.sentence_types = ["no","yes"];
-//      var sentences = {
-//        "yes": "Yes, it's a matter of opinion.",
-//        "no": "No, somebody must be wrong.",
-//      };
-
-//      this.n_sliders = this.sentence_types.length;
-		this.n_sliders = 1;
-//      $(".slider_row").remove();
-//      for (var i=0; i<this.n_sliders; i++) {
-//        var sentence_type_left = this.sentence_types[0];
-//        var sentence_type_left = this.sentence_types[1];        
-//        var sentence_left = sentences[sentence_type_left];
-//        var sentence_right = sentences[sentence_type_right];        
-//        $("#multi_slider_table").append('<tr class="slider_row"><td class="slider_target" id="sentence0">' + "<font size='4'>" + sentence_left + "</font>" + '</td><td colspan="2"><div id="slider0" class="slider">-------[ ]--------</div></td><td class="slider_target" id="sentence1">' + "<font size='4'>" + sentence_right + "</font>" + '</td></tr>');
-//        utils.match_row_height("#multi_slider_table", ".slider_target");
-//      }
 
     },
 
@@ -106,9 +66,12 @@ function make_slides(f) {
         exp.data_trials.push({
           "response" : exp.sliderPost,
           "noun" : this.stim.Noun,  
-          "nounclass" : this.stim.NounClass,        
+          "nounclass" : this.stim.NounClass,  
+          "classifier" : this.stim.Classifier,      
           "predicate1" : this.stim.Predicate1,
+          "predicate1English" : this.stim.Predicate1English,
           "predicate2" : this.stim.Predicate2,
+          "predicate2English" : this.stim.Predicate2English,
           "class1" : this.stim.Class1,
           "class2" : this.stim.Class2,                     
           "slide_number" : exp.phase
