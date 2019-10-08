@@ -34,18 +34,18 @@ var adjectives = _.shuffle([
 		{"Predicate":"vuông", "EnglishPredicate": "square", "Class":"shape"}
 ]);
 
-// to fix "{"Noun":"apple", "NounClass":"food", "Classifier", "XXX"}" in future
+//added classifiers
 var nouns = [
-		{"Noun":"táo", "NounClass":"food", "Classifier":"XXX"},
-		// {"Noun":"chuối", "NounClass":"food"},
-		// {"Noun":"cà rốt", "NounClass":"food"},
-		// {"Noun":"phô mai", "NounClass":"food"},
-		// {"Noun":"cà chua", "NounClass":"food"},								
-		// {"Noun":"ghế", "NounClass":"furniture"},								
-		// {"Noun":"tủ", "NounClass":"furniture"},								
-		// {"Noun":"quạt máy", "NounClass":"furniture"},								
-		// {"Noun":"ti-vi", "NounClass":"furniture"},								
-		// {"Noun":"bàn", "NounClass":"furniture"}								
+		{"Noun":"táo", "NounClass":"food", "Classifier":"quả"},
+		{"Noun":"chuối", "NounClass":"food", "Classifier":"quả"},
+		{"Noun":"cà rốt", "NounClass":"food", "Classifier":"củ"},
+		{"Noun":"phô mai", "NounClass":"food", "Classifier":"lát"},
+		{"Noun":"cà chua", "NounClass":"food", "Classifier":"quả"},								
+		{"Noun":"ghế", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"tủ", "NounClass":"furniture", "Classifier":"cái"},								
+		{"Noun":"quạt máy", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"ti-vi", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"bàn", "NounClass":"furniture", "Classifier":"cái"}								
 ];
 
 var stimuli =  makeStims();
@@ -68,7 +68,7 @@ function makeStims() {
 					"Class2":pred2.Class,			
 					"Noun":noun.Noun,
 					"NounClass":noun.NounClass,
-					"Classifier":noun.Classifier
+					"Classifier":noun.Classifier,
 				}			
 			);
 		}
