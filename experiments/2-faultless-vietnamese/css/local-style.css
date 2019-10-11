@@ -1,6 +1,6 @@
 .slider {
   /* default is width 400 and margin 10 */
-	width: 175;
+	width: 200;
 	margin: 10px;
 }
 
@@ -13,7 +13,6 @@
 
 .slide {
     padding-top: 36px;
-    width: 750px;
     /*padding-bottom: 50px;*/
 
 }

@@ -1,0 +1,2341 @@
+predicate2,nounclass,class2,slide_number,response,class1,predicate2English,predicate1English,noun,Answer.time_in_minutes,classifier,workerid,predicate1
+cũ,food,age,3,0.81,quality,old,bad,cà rốt,1.3616,củ,0,tệ
+mắc,food,quality,4,0.8,color,expensive,green,cà rốt,1.3616,củ,0,màu xanh lá
+màu tím,furniture,color,5,0.81,size,purple,long,quạt máy,1.3616,chiếc,0,dài
+tệ,furniture,quality,6,0.72,nationality,bad,german,bàn,1.3616,cái,0,Đức
+hư,furniture,age,7,0.85,color,rotten,blue,ghế,1.3616,chiếc,0,màu xanh dương
+nhỏ,food,size,8,0.15,texture,small,smooth,táo,1.3616,quả,0,trơn
+tươi,food,age,9,0.75,color,fresh,green,phô mai,1.3616,lát,0,màu xanh lá
+màu vàng,food,color,10,0.77,size,yellow,small,cà rốt,1.3616,củ,0,nhỏ
+màu vàng,food,color,11,0.84,nationality,yellow,french,cà rốt,1.3616,củ,0,Pháp
+cũ,furniture,age,12,0.73,nationality,old,german,ghế,1.3616,chiếc,0,Đức
+mắc,food,quality,13,0.81,color,expensive,blue,cà chua,1.3616,quả,0,màu xanh dương
+mềm,furniture,texture,14,0.74,size,soft,big,quạt máy,1.3616,chiếc,0,to
+màu nâu,food,color,15,0.73,quality,brown,bad,chuối,1.3616,quả,0,tệ
+tệ,furniture,quality,16,0.87,shape,bad,round,tủ,1.3616,cái,0,tròn
+màu vàng,food,color,17,0.6,nationality,yellow,german,cà chua,1.3616,quả,0,Đức
+màu xanh dương,food,color,18,0.58,age,blue,rotten,cà chua,1.3616,quả,0,hư
+mắc,furniture,quality,19,0.6,color,expensive,green,ghế,1.3616,chiếc,0,màu xanh lá
+nhỏ,furniture,size,20,0.73,age,small,old,ti-vi,1.3616,chiếc,0,cũ
+vuông,furniture,shape,21,0.16,color,square,brown,ghế,1.3616,chiếc,0,màu nâu
+to,food,size,22,0.9,color,big,green,chuối,1.3616,quả,0,màu xanh lá
+màu đỏ,furniture,color,23,0.62,size,red,short,ghế,1.3616,chiếc,0,ngắn
+màu đỏ,food,color,24,0.75,size,red,long,chuối,1.3616,quả,0,dài
+to,food,size,25,0.72,color,big,brown,cà rốt,1.3616,củ,0,màu nâu
+màu nâu,furniture,color,26,0.8,size,brown,heavy,ghế,1.3616,chiếc,0,nặng
+màu xanh lá,food,color,27,0.89,texture,green,soft,cà chua,1.3616,quả,0,mềm
+vuông,food,shape,28,0.81,color,square,yellow,cà chua,1.3616,quả,0,màu vàng
+tệ,furniture,quality,3,0.5,color,bad,brown,bàn,4.632916666666667,cái,1,màu nâu
+to,furniture,size,4,0.45,age,big,rotten,bàn,4.632916666666667,cái,1,hư
+tròn,furniture,shape,5,0.48,color,round,brown,bàn,4.632916666666667,cái,1,màu nâu
+màu nâu,food,color,6,0.26,nationality,brown,german,táo,4.632916666666667,quả,1,Đức
+mềm,food,texture,7,0.75,age,soft,fresh,cà chua,4.632916666666667,quả,1,tươi
+vuông,furniture,shape,8,0.41,size,square,small,ti-vi,4.632916666666667,chiếc,1,nhỏ
+vuông,food,shape,9,0.67,color,square,yellow,cà rốt,4.632916666666667,củ,1,màu vàng
+tươi,furniture,age,10,0.41,size,fresh,light,ghế,4.632916666666667,chiếc,1,nhẹ
+mới,furniture,age,11,0.72,size,new,long,bàn,4.632916666666667,cái,1,dài
+cũ,food,age,12,0.25,shape,old,round,táo,4.632916666666667,quả,1,tròn
+mềm,furniture,texture,13,0.75,color,soft,yellow,tủ,4.632916666666667,cái,1,màu vàng
+màu tím,food,color,14,0.58,quality,purple,expensive,táo,4.632916666666667,quả,1,mắc
+vuông,food,shape,15,0.53,color,square,yellow,chuối,4.632916666666667,quả,1,màu vàng
+hư,furniture,age,16,0.37,size,rotten,long,tủ,4.632916666666667,cái,1,dài
+màu đỏ,furniture,color,17,0.66,size,red,short,bàn,4.632916666666667,cái,1,ngắn
+Pháp,food,nationality,18,0.33,texture,french,smooth,chuối,4.632916666666667,quả,1,trơn
+tròn,furniture,shape,19,0.25,color,round,red,bàn,4.632916666666667,cái,1,màu đỏ
+mềm,food,texture,20,0.63,quality,soft,bad,táo,4.632916666666667,quả,1,tệ
+tệ,furniture,quality,21,0.3,texture,bad,soft,bàn,4.632916666666667,cái,1,mềm
+to,food,size,22,0.7,nationality,big,german,cà rốt,4.632916666666667,củ,1,Đức
+nhỏ,furniture,size,23,0.24,nationality,small,american,ti-vi,4.632916666666667,chiếc,1,Mỹ
+nặng,furniture,size,24,0.53,texture,heavy,hard,bàn,4.632916666666667,cái,1,rắn
+màu vàng,food,color,25,0.18,quality,yellow,bad,chuối,4.632916666666667,quả,1,tệ
+màu nâu,furniture,color,26,0.65,quality,brown,expensive,bàn,4.632916666666667,cái,1,mắc
+Đức,food,nationality,27,0.35,color,german,red,cà rốt,4.632916666666667,củ,1,màu đỏ
+nhỏ,furniture,size,28,0.7,color,small,red,bàn,4.632916666666667,cái,1,màu đỏ
+mềm,furniture,texture,3,0.68,color,soft,brown,ghế,2.2534833333333335,chiếc,2,màu nâu
+màu đỏ,furniture,color,4,0.77,age,red,new,quạt máy,2.2534833333333335,chiếc,2,mới
+màu nâu,food,color,5,0.88,texture,brown,hard,chuối,2.2534833333333335,quả,2,rắn
+mới,furniture,age,6,0.54,color,new,green,tủ,2.2534833333333335,cái,2,màu xanh lá
+mới,food,age,7,0.86,texture,new,soft,chuối,2.2534833333333335,quả,2,mềm
+trơn,furniture,texture,8,0.41,color,smooth,green,bàn,2.2534833333333335,cái,2,màu xanh lá
+hư,furniture,age,9,0.88,size,rotten,short,tủ,2.2534833333333335,cái,2,ngắn
+mắc,furniture,quality,10,0.33,color,expensive,red,tủ,2.2534833333333335,cái,2,màu đỏ
+màu xanh dương,food,color,11,0.8,nationality,blue,french,cà rốt,2.2534833333333335,củ,2,Pháp
+tệ,food,quality,12,0.53,size,bad,small,chuối,2.2534833333333335,quả,2,nhỏ
+tròn,food,shape,13,0.79,quality,round,expensive,cà chua,2.2534833333333335,quả,2,mắc
+Mỹ,furniture,nationality,14,0.59,color,american,purple,quạt máy,2.2534833333333335,chiếc,2,màu tím
+rắn,furniture,texture,15,0.84,size,hard,heavy,quạt máy,2.2534833333333335,chiếc,2,nặng
+Pháp,furniture,nationality,16,0.54,color,french,purple,ghế,2.2534833333333335,chiếc,2,màu tím
+mới,food,age,17,0.93,texture,new,smooth,chuối,2.2534833333333335,quả,2,trơn
+tệ,food,quality,18,0.63,color,bad,yellow,táo,2.2534833333333335,quả,2,màu vàng
+màu xanh dương,furniture,color,19,0.97,size,blue,heavy,bàn,2.2534833333333335,cái,2,nặng
+tệ,furniture,quality,20,0.61,texture,bad,hard,tủ,2.2534833333333335,cái,2,rắn
+Mỹ,furniture,nationality,21,0.73,shape,american,round,bàn,2.2534833333333335,cái,2,tròn
+cũ,food,age,22,0.55,size,old,small,cà chua,2.2534833333333335,quả,2,nhỏ
+màu đỏ,food,color,23,0.84,texture,red,smooth,chuối,2.2534833333333335,quả,2,trơn
+nhỏ,furniture,size,24,0.58,shape,small,round,tủ,2.2534833333333335,cái,2,tròn
+nhẹ,furniture,size,25,0.9,shape,light,square,bàn,2.2534833333333335,cái,2,vuông
+màu đỏ,food,color,26,0.56,texture,red,hard,chuối,2.2534833333333335,quả,2,rắn
+màu xanh dương,food,color,27,0.81,shape,blue,square,chuối,2.2534833333333335,quả,2,vuông
+cũ,food,age,28,0.51,color,old,purple,phô mai,2.2534833333333335,lát,2,màu tím
+Mỹ,furniture,nationality,3,0.64,quality,american,bad,quạt máy,2.53755,chiếc,3,tệ
+màu xanh dương,furniture,color,4,0.91,shape,blue,square,quạt máy,2.53755,chiếc,3,vuông
+màu đỏ,food,color,5,0.47,quality,red,expensive,chuối,2.53755,quả,3,mắc
+to,furniture,size,6,0.68,nationality,big,french,tủ,2.53755,cái,3,Pháp
+mềm,food,texture,7,0.77,age,soft,fresh,chuối,2.53755,quả,3,tươi
+dài,food,size,8,0.45,shape,long,round,cà rốt,2.53755,củ,3,tròn
+màu vàng,food,color,9,0.73,nationality,yellow,german,chuối,2.53755,quả,3,Đức
+tròn,food,shape,10,0.78,texture,round,soft,phô mai,2.53755,lát,3,mềm
+màu nâu,furniture,color,11,0.76,age,brown,rotten,quạt máy,2.53755,chiếc,3,hư
+màu đỏ,furniture,color,12,0.81,size,red,big,quạt máy,2.53755,chiếc,3,to
+màu vàng,furniture,color,13,0.84,nationality,yellow,french,tủ,2.53755,cái,3,Pháp
+Pháp,food,nationality,14,0.76,quality,french,bad,cà rốt,2.53755,củ,3,tệ
+ngắn,furniture,size,15,0.81,texture,short,hard,tủ,2.53755,cái,3,rắn
+tệ,food,quality,16,0.19,nationality,bad,german,chuối,2.53755,quả,3,Đức
+rắn,food,texture,17,0.75,age,hard,old,cà rốt,2.53755,củ,3,cũ
+màu đỏ,food,color,18,0.76,shape,red,round,táo,2.53755,quả,3,tròn
+to,furniture,size,19,0.73,color,big,green,ghế,2.53755,chiếc,3,màu xanh lá
+hư,furniture,age,20,0.73,color,rotten,purple,tủ,2.53755,cái,3,màu tím
+Mỹ,food,nationality,21,0.78,color,american,brown,phô mai,2.53755,lát,3,màu nâu
+ngắn,food,size,22,0.76,age,short,rotten,táo,2.53755,quả,3,hư
+Pháp,food,nationality,23,0.78,color,french,yellow,táo,2.53755,quả,3,màu vàng
+nặng,furniture,size,24,0.82,color,heavy,yellow,ghế,2.53755,chiếc,3,màu vàng
+màu tím,furniture,color,25,0.54,size,purple,big,tủ,2.53755,cái,3,to
+tròn,food,shape,26,0.75,size,round,short,phô mai,2.53755,lát,3,ngắn
+màu xanh dương,furniture,color,27,0.77,age,blue,new,tủ,2.53755,cái,3,mới
+Đức,furniture,nationality,28,0.8,color,german,green,bàn,2.53755,cái,3,màu xanh lá
+màu xanh lá,furniture,color,3,0.46,nationality,green,american,ti-vi,1.6718,chiếc,4,Mỹ
+Mỹ,furniture,nationality,4,0.61,texture,american,hard,quạt máy,1.6718,chiếc,4,rắn
+Đức,food,nationality,5,0.49,age,german,new,cà rốt,1.6718,củ,4,mới
+Đức,food,nationality,6,0.91,size,german,short,phô mai,1.6718,lát,4,ngắn
+hư,food,age,7,0.06,size,rotten,light,cà chua,1.6718,quả,4,nhẹ
+Mỹ,furniture,nationality,8,0.52,texture,american,soft,quạt máy,1.6718,chiếc,4,mềm
+màu xanh lá,furniture,color,9,0.53,size,green,short,quạt máy,1.6718,chiếc,4,ngắn
+mềm,food,texture,10,0.97,nationality,soft,french,cà rốt,1.6718,củ,4,Pháp
+màu xanh lá,food,color,11,0.52,size,green,light,táo,1.6718,quả,4,nhẹ
+tươi,furniture,age,12,0.52,color,fresh,purple,quạt máy,1.6718,chiếc,4,màu tím
+ngắn,furniture,size,13,0.11,nationality,short,german,quạt máy,1.6718,chiếc,4,Đức
+màu xanh dương,furniture,color,14,0.99,nationality,blue,american,tủ,1.6718,cái,4,Mỹ
+cũ,furniture,age,15,0.51,shape,old,square,ti-vi,1.6718,chiếc,4,vuông
+trơn,furniture,texture,16,0.53,size,smooth,light,ti-vi,1.6718,chiếc,4,nhẹ
+mắc,food,quality,17,0.49,color,expensive,red,cà chua,1.6718,quả,4,màu đỏ
+màu đỏ,food,color,18,0.54,texture,red,smooth,phô mai,1.6718,lát,4,trơn
+màu xanh dương,food,color,19,0.09,nationality,blue,german,chuối,1.6718,quả,4,Đức
+nặng,food,size,20,0.97,shape,heavy,round,cà rốt,1.6718,củ,4,tròn
+màu tím,furniture,color,21,0.24,size,purple,heavy,bàn,1.6718,cái,4,nặng
+vuông,food,shape,22,0.5,size,square,short,táo,1.6718,quả,4,ngắn
+rắn,furniture,texture,23,0.76,size,hard,short,tủ,1.6718,cái,4,ngắn
+cũ,furniture,age,24,0.61,nationality,old,french,tủ,1.6718,cái,4,Pháp
+mới,furniture,age,25,0.39,color,new,blue,ti-vi,1.6718,chiếc,4,màu xanh dương
+trơn,furniture,texture,26,0.84,age,smooth,rotten,bàn,1.6718,cái,4,hư
+Đức,food,nationality,27,0.06,color,german,green,cà chua,1.6718,quả,4,màu xanh lá
+màu xanh dương,furniture,color,28,0.05,nationality,blue,german,ti-vi,1.6718,chiếc,4,Đức
+rắn,furniture,texture,3,0.45,nationality,hard,french,ti-vi,9.637916666666667,chiếc,5,Pháp
+mềm,furniture,texture,4,0.78,nationality,soft,american,tủ,9.637916666666667,cái,5,Mỹ
+Đức,food,nationality,5,0.35,color,german,blue,phô mai,9.637916666666667,lát,5,màu xanh dương
+trơn,food,texture,6,0.49,age,smooth,old,táo,9.637916666666667,quả,5,cũ
+mắc,food,quality,7,0.58,shape,expensive,round,phô mai,9.637916666666667,lát,5,tròn
+mắc,furniture,quality,8,0.41,size,expensive,heavy,quạt máy,9.637916666666667,chiếc,5,nặng
+tròn,food,shape,9,0.68,color,round,purple,táo,9.637916666666667,quả,5,màu tím
+tròn,food,shape,10,0.49,age,round,rotten,táo,9.637916666666667,quả,5,hư
+Đức,food,nationality,11,0.38,quality,german,bad,cà chua,9.637916666666667,quả,5,tệ
+mới,furniture,age,12,0.7,color,new,red,bàn,9.637916666666667,cái,5,màu đỏ
+ngắn,food,size,13,0.47,shape,short,round,cà chua,9.637916666666667,quả,5,tròn
+màu đỏ,food,color,14,0.55,age,red,rotten,chuối,9.637916666666667,quả,5,hư
+to,food,size,15,0.81,nationality,big,american,cà rốt,9.637916666666667,củ,5,Mỹ
+nhẹ,food,size,16,0.41,quality,light,expensive,cà rốt,9.637916666666667,củ,5,mắc
+Mỹ,food,nationality,17,0.7,size,american,short,cà chua,9.637916666666667,quả,5,ngắn
+mắc,furniture,quality,18,0.45,size,expensive,long,bàn,9.637916666666667,cái,5,dài
+Pháp,furniture,nationality,19,0.65,quality,french,expensive,ti-vi,9.637916666666667,chiếc,5,mắc
+tươi,food,age,20,0.44,nationality,fresh,german,cà chua,9.637916666666667,quả,5,Đức
+mắc,food,quality,21,0.66,size,expensive,big,cà chua,9.637916666666667,quả,5,to
+vuông,food,shape,22,0.45,nationality,square,german,phô mai,9.637916666666667,lát,5,Đức
+vuông,furniture,shape,23,0.71,texture,square,hard,bàn,9.637916666666667,cái,5,rắn
+tròn,food,shape,24,0.47,color,round,yellow,phô mai,9.637916666666667,lát,5,màu vàng
+nhẹ,furniture,size,25,0.21,age,light,new,ghế,9.637916666666667,chiếc,5,mới
+mềm,furniture,texture,26,0.68,shape,soft,square,ghế,9.637916666666667,chiếc,5,vuông
+nhỏ,food,size,27,0.56,shape,small,square,cà rốt,9.637916666666667,củ,5,vuông
+to,food,size,28,0.66,age,big,old,phô mai,9.637916666666667,lát,5,cũ
+Đức,food,nationality,3,0.52,size,german,small,chuối,3.9714,quả,6,nhỏ
+trơn,furniture,texture,4,0.72,color,smooth,green,quạt máy,3.9714,chiếc,6,màu xanh lá
+ngắn,furniture,size,5,0.72,texture,short,smooth,quạt máy,3.9714,chiếc,6,trơn
+Pháp,food,nationality,6,0.49,size,french,short,phô mai,3.9714,lát,6,ngắn
+to,furniture,size,7,0.78,age,big,old,ti-vi,3.9714,chiếc,6,cũ
+mềm,food,texture,8,0.51,age,soft,fresh,phô mai,3.9714,lát,6,tươi
+Mỹ,food,nationality,9,0.71,size,american,small,chuối,3.9714,quả,6,nhỏ
+mềm,food,texture,10,0.46,color,soft,green,cà chua,3.9714,quả,6,màu xanh lá
+mới,food,age,11,0.75,color,new,green,cà chua,3.9714,quả,6,màu xanh lá
+to,food,size,12,0.58,quality,big,expensive,cà rốt,3.9714,củ,6,mắc
+tròn,food,shape,13,0.81,nationality,round,french,táo,3.9714,quả,6,Pháp
+màu tím,food,color,14,0.54,shape,purple,square,phô mai,3.9714,lát,6,vuông
+mới,food,age,15,0.82,color,new,blue,cà chua,3.9714,quả,6,màu xanh dương
+màu vàng,food,color,16,0.36,texture,yellow,hard,táo,3.9714,quả,6,rắn
+tươi,food,age,17,0.69,color,fresh,brown,phô mai,3.9714,lát,6,màu nâu
+Mỹ,furniture,nationality,18,0.45,color,american,green,ghế,3.9714,chiếc,6,màu xanh lá
+tươi,furniture,age,19,0.69,color,fresh,green,tủ,3.9714,cái,6,màu xanh lá
+màu vàng,food,color,20,0.39,quality,yellow,bad,cà rốt,3.9714,củ,6,tệ
+tròn,furniture,shape,21,0.66,color,round,yellow,quạt máy,3.9714,chiếc,6,màu vàng
+màu vàng,furniture,color,22,0.37,quality,yellow,bad,ti-vi,3.9714,chiếc,6,tệ
+nhẹ,furniture,size,23,0.73,texture,light,hard,ghế,3.9714,chiếc,6,rắn
+Đức,food,nationality,24,0.39,color,german,brown,phô mai,3.9714,lát,6,màu nâu
+Đức,food,nationality,25,0.69,texture,german,hard,phô mai,3.9714,lát,6,rắn
+trơn,furniture,texture,26,0.56,size,smooth,light,ti-vi,3.9714,chiếc,6,nhẹ
+màu nâu,food,color,27,0.78,size,brown,short,chuối,3.9714,quả,6,ngắn
+mới,food,age,28,0.55,size,new,big,cà chua,3.9714,quả,6,to
+Đức,food,nationality,3,0.67,color,german,blue,cà chua,3.2480166666666666,quả,7,màu xanh dương
+tệ,furniture,quality,4,0.42,age,bad,old,ghế,3.2480166666666666,chiếc,7,cũ
+Mỹ,furniture,nationality,5,0.32,age,american,old,ghế,3.2480166666666666,chiếc,7,cũ
+mới,furniture,age,6,0.48,size,new,short,ti-vi,3.2480166666666666,chiếc,7,ngắn
+Đức,food,nationality,7,0.5,quality,german,expensive,phô mai,3.2480166666666666,lát,7,mắc
+mềm,furniture,texture,8,0.59,age,soft,fresh,quạt máy,3.2480166666666666,chiếc,7,tươi
+mềm,food,texture,9,0.33,size,soft,long,táo,3.2480166666666666,quả,7,dài
+màu xanh dương,furniture,color,10,0.6,size,blue,short,quạt máy,3.2480166666666666,chiếc,7,ngắn
+vuông,food,shape,11,0.36,age,square,old,cà rốt,3.2480166666666666,củ,7,cũ
+màu nâu,food,color,12,0.3,shape,brown,round,phô mai,3.2480166666666666,lát,7,tròn
+tệ,furniture,quality,13,0.52,nationality,bad,american,bàn,3.2480166666666666,cái,7,Mỹ
+Pháp,furniture,nationality,14,0.56,texture,french,smooth,ti-vi,3.2480166666666666,chiếc,7,trơn
+màu xanh dương,furniture,color,15,0.59,size,blue,long,tủ,3.2480166666666666,cái,7,dài
+nặng,food,size,16,0.42,color,heavy,brown,chuối,3.2480166666666666,quả,7,màu nâu
+ngắn,furniture,size,17,0.59,age,short,old,bàn,3.2480166666666666,cái,7,cũ
+màu tím,furniture,color,18,0.55,shape,purple,square,quạt máy,3.2480166666666666,chiếc,7,vuông
+màu xanh lá,furniture,color,19,0.64,quality,green,expensive,tủ,3.2480166666666666,cái,7,mắc
+rắn,food,texture,20,0.59,age,hard,fresh,cà chua,3.2480166666666666,quả,7,tươi
+nặng,furniture,size,21,0.56,color,heavy,brown,bàn,3.2480166666666666,cái,7,màu nâu
+mềm,food,texture,22,0.62,age,soft,rotten,cà chua,3.2480166666666666,quả,7,hư
+tròn,food,shape,23,0.56,texture,round,smooth,táo,3.2480166666666666,quả,7,trơn
+nặng,food,size,24,0.56,texture,heavy,hard,chuối,3.2480166666666666,quả,7,rắn
+to,furniture,size,25,0.29,texture,big,hard,tủ,3.2480166666666666,cái,7,rắn
+màu tím,food,color,26,0.46,shape,purple,square,táo,3.2480166666666666,quả,7,vuông
+vuông,furniture,shape,27,0.37,nationality,square,american,ghế,3.2480166666666666,chiếc,7,Mỹ
+mới,furniture,age,28,0.44,color,new,red,quạt máy,3.2480166666666666,chiếc,7,màu đỏ
+trơn,food,texture,3,1,color,smooth,red,cà chua,5.597816666666667,quả,8,màu đỏ
+vuông,food,shape,4,1,color,square,yellow,chuối,5.597816666666667,quả,8,màu vàng
+màu nâu,furniture,color,5,0,nationality,brown,french,ti-vi,5.597816666666667,chiếc,8,Pháp
+tươi,food,age,6,1,color,fresh,purple,phô mai,5.597816666666667,lát,8,màu tím
+màu nâu,furniture,color,7,1,age,brown,rotten,ghế,5.597816666666667,chiếc,8,hư
+tệ,food,quality,8,1,color,bad,green,cà chua,5.597816666666667,quả,8,màu xanh lá
+mềm,food,texture,9,1,color,soft,red,phô mai,5.597816666666667,lát,8,màu đỏ
+màu vàng,furniture,color,10,1,size,yellow,heavy,bàn,5.597816666666667,cái,8,nặng
+cũ,furniture,age,11,1,color,old,blue,tủ,5.597816666666667,cái,8,màu xanh dương
+màu đỏ,food,color,12,0,texture,red,soft,cà rốt,5.597816666666667,củ,8,mềm
+tệ,furniture,quality,13,1,color,bad,green,ti-vi,5.597816666666667,chiếc,8,màu xanh lá
+mắc,food,quality,14,0,size,expensive,heavy,cà chua,5.597816666666667,quả,8,nặng
+cũ,food,age,15,1,color,old,purple,táo,5.597816666666667,quả,8,màu tím
+màu nâu,furniture,color,16,0,texture,brown,soft,ti-vi,5.597816666666667,chiếc,8,mềm
+màu xanh lá,furniture,color,17,0,size,green,big,ti-vi,5.597816666666667,chiếc,8,to
+ngắn,furniture,size,18,1,age,short,rotten,tủ,5.597816666666667,cái,8,hư
+dài,food,size,19,1,age,long,rotten,cà chua,5.597816666666667,quả,8,hư
+nặng,food,size,20,0,age,heavy,new,phô mai,5.597816666666667,lát,8,mới
+mềm,furniture,texture,21,0,size,soft,heavy,bàn,5.597816666666667,cái,8,nặng
+màu tím,food,color,22,0,nationality,purple,german,táo,5.597816666666667,quả,8,Đức
+Pháp,furniture,nationality,23,1,color,french,purple,quạt máy,5.597816666666667,chiếc,8,màu tím
+Pháp,furniture,nationality,24,1,color,french,brown,ghế,5.597816666666667,chiếc,8,màu nâu
+màu xanh lá,food,color,25,0,nationality,green,german,chuối,5.597816666666667,quả,8,Đức
+trơn,food,texture,26,1,shape,smooth,round,táo,5.597816666666667,quả,8,tròn
+Đức,food,nationality,27,1,size,german,small,cà rốt,5.597816666666667,củ,8,nhỏ
+nặng,food,size,28,0,nationality,heavy,german,cà chua,5.597816666666667,quả,8,Đức
+mắc,food,quality,3,0.55,texture,expensive,hard,cà rốt,2.7977166666666666,củ,9,rắn
+màu xanh dương,food,color,4,0.82,quality,blue,expensive,cà rốt,2.7977166666666666,củ,9,mắc
+nặng,food,size,5,0.76,color,heavy,yellow,cà chua,2.7977166666666666,quả,9,màu vàng
+vuông,furniture,shape,6,0.41,texture,square,soft,bàn,2.7977166666666666,cái,9,mềm
+cũ,furniture,age,7,0.64,size,old,small,tủ,2.7977166666666666,cái,9,nhỏ
+nhỏ,furniture,size,8,0.72,nationality,small,american,ti-vi,2.7977166666666666,chiếc,9,Mỹ
+vuông,furniture,shape,9,0.73,size,square,big,ghế,2.7977166666666666,chiếc,9,to
+mới,furniture,age,10,0.73,shape,new,square,quạt máy,2.7977166666666666,chiếc,9,vuông
+ngắn,furniture,size,11,0.8,age,short,old,ti-vi,2.7977166666666666,chiếc,9,cũ
+màu xanh lá,furniture,color,12,0.26,age,green,fresh,ghế,2.7977166666666666,chiếc,9,tươi
+to,food,size,13,0.6,age,big,new,phô mai,2.7977166666666666,lát,9,mới
+nặng,furniture,size,14,0.65,nationality,heavy,french,tủ,2.7977166666666666,cái,9,Pháp
+mềm,furniture,texture,15,0.77,nationality,soft,german,bàn,2.7977166666666666,cái,9,Đức
+nặng,furniture,size,16,0.77,nationality,heavy,german,bàn,2.7977166666666666,cái,9,Đức
+ngắn,furniture,size,17,0.74,shape,short,round,tủ,2.7977166666666666,cái,9,tròn
+màu nâu,furniture,color,18,0.84,size,brown,heavy,bàn,2.7977166666666666,cái,9,nặng
+to,food,size,19,0.73,age,big,old,cà chua,2.7977166666666666,quả,9,cũ
+mắc,furniture,quality,20,0.8,size,expensive,light,ti-vi,2.7977166666666666,chiếc,9,nhẹ
+mềm,furniture,texture,21,0.77,color,soft,yellow,ti-vi,2.7977166666666666,chiếc,9,màu vàng
+to,furniture,size,22,0.43,color,big,green,bàn,2.7977166666666666,cái,9,màu xanh lá
+nặng,food,size,23,0.71,texture,heavy,hard,chuối,2.7977166666666666,quả,9,rắn
+Đức,furniture,nationality,24,0.68,color,german,green,tủ,2.7977166666666666,cái,9,màu xanh lá
+màu xanh lá,furniture,color,25,0.84,texture,green,hard,tủ,2.7977166666666666,cái,9,rắn
+Pháp,furniture,nationality,26,0.68,color,french,green,tủ,2.7977166666666666,cái,9,màu xanh lá
+màu xanh dương,furniture,color,27,0.63,age,blue,fresh,tủ,2.7977166666666666,cái,9,tươi
+màu tím,food,color,28,0.73,nationality,purple,french,cà chua,2.7977166666666666,quả,9,Pháp
+hư,food,age,3,0.58,texture,rotten,soft,chuối,3.2344666666666666,quả,10,mềm
+màu tím,food,color,4,0.32,age,purple,fresh,phô mai,3.2344666666666666,lát,10,tươi
+Pháp,food,nationality,5,0.84,size,french,long,cà rốt,3.2344666666666666,củ,10,dài
+nhỏ,furniture,size,6,0.56,texture,small,smooth,ti-vi,3.2344666666666666,chiếc,10,trơn
+mắc,food,quality,7,0.79,color,expensive,green,phô mai,3.2344666666666666,lát,10,màu xanh lá
+mắc,food,quality,8,0.23,age,expensive,old,chuối,3.2344666666666666,quả,10,cũ
+to,food,size,9,0.49,color,big,red,táo,3.2344666666666666,quả,10,màu đỏ
+tròn,furniture,shape,10,0.16,nationality,round,french,quạt máy,3.2344666666666666,chiếc,10,Pháp
+màu tím,furniture,color,11,0.71,shape,purple,round,tủ,3.2344666666666666,cái,10,tròn
+màu tím,furniture,color,12,0.35,texture,purple,soft,ti-vi,3.2344666666666666,chiếc,10,mềm
+mắc,furniture,quality,13,0.76,color,expensive,green,tủ,3.2344666666666666,cái,10,màu xanh lá
+vuông,food,shape,14,0.32,color,square,red,táo,3.2344666666666666,quả,10,màu đỏ
+mắc,furniture,quality,15,0.67,color,expensive,blue,quạt máy,3.2344666666666666,chiếc,10,màu xanh dương
+màu nâu,furniture,color,16,0.45,nationality,brown,american,bàn,3.2344666666666666,cái,10,Mỹ
+dài,food,size,17,0.7,color,long,yellow,cà chua,3.2344666666666666,quả,10,màu vàng
+nhẹ,food,size,18,0.4,nationality,light,german,phô mai,3.2344666666666666,lát,10,Đức
+mắc,food,quality,19,0.84,size,expensive,light,chuối,3.2344666666666666,quả,10,nhẹ
+cũ,furniture,age,20,0.57,texture,old,soft,ti-vi,3.2344666666666666,chiếc,10,mềm
+nhỏ,furniture,size,21,0.84,shape,small,square,tủ,3.2344666666666666,cái,10,vuông
+nhỏ,furniture,size,22,0.36,age,small,new,ti-vi,3.2344666666666666,chiếc,10,mới
+mới,food,age,23,0.72,texture,new,soft,chuối,3.2344666666666666,quả,10,mềm
+cũ,furniture,age,24,0.42,quality,old,expensive,tủ,3.2344666666666666,cái,10,mắc
+màu xanh dương,furniture,color,25,0.55,shape,blue,round,quạt máy,3.2344666666666666,chiếc,10,tròn
+mắc,food,quality,26,0.4,size,expensive,heavy,phô mai,3.2344666666666666,lát,10,nặng
+Mỹ,furniture,nationality,27,0.62,color,american,brown,tủ,3.2344666666666666,cái,10,màu nâu
+trơn,food,texture,28,0.48,color,smooth,brown,cà rốt,3.2344666666666666,củ,10,màu nâu
+mới,furniture,age,3,0.28,nationality,new,german,ti-vi,1.1918,chiếc,11,Đức
+mới,furniture,age,4,0.54,color,new,green,tủ,1.1918,cái,11,màu xanh lá
+dài,food,size,5,0.58,nationality,long,french,chuối,1.1918,quả,11,Pháp
+màu xanh dương,food,color,6,0.45,size,blue,light,cà chua,1.1918,quả,11,nhẹ
+cũ,furniture,age,7,0.56,color,old,green,tủ,1.1918,cái,11,màu xanh lá
+cũ,food,age,8,0.49,size,old,light,cà rốt,1.1918,củ,11,nhẹ
+tệ,food,quality,9,0.59,color,bad,blue,táo,1.1918,quả,11,màu xanh dương
+màu xanh dương,food,color,10,0.66,size,blue,short,chuối,1.1918,quả,11,ngắn
+Đức,furniture,nationality,11,0.47,color,german,green,quạt máy,1.1918,chiếc,11,màu xanh lá
+nặng,furniture,size,12,0.62,quality,heavy,bad,tủ,1.1918,cái,11,tệ
+ngắn,food,size,13,0.44,quality,short,expensive,cà chua,1.1918,quả,11,mắc
+tệ,food,quality,14,0.58,age,bad,new,chuối,1.1918,quả,11,mới
+vuông,food,shape,15,0.58,age,square,rotten,cà chua,1.1918,quả,11,hư
+rắn,furniture,texture,16,0.6,age,hard,fresh,tủ,1.1918,cái,11,tươi
+màu xanh lá,food,color,17,0.58,nationality,green,american,táo,1.1918,quả,11,Mỹ
+màu vàng,food,color,18,0.65,size,yellow,light,chuối,1.1918,quả,11,nhẹ
+tươi,furniture,age,19,0.5,nationality,fresh,american,ghế,1.1918,chiếc,11,Mỹ
+Đức,furniture,nationality,20,0.51,texture,german,soft,quạt máy,1.1918,chiếc,11,mềm
+rắn,furniture,texture,21,0.59,shape,hard,round,ghế,1.1918,chiếc,11,tròn
+màu xanh lá,furniture,color,22,0.5,age,green,fresh,tủ,1.1918,cái,11,tươi
+mắc,furniture,quality,23,0.61,nationality,expensive,american,ti-vi,1.1918,chiếc,11,Mỹ
+Đức,food,nationality,24,0.5,color,german,yellow,cà chua,1.1918,quả,11,màu vàng
+màu nâu,furniture,color,25,0.58,age,brown,fresh,ti-vi,1.1918,chiếc,11,tươi
+cũ,furniture,age,26,0.5,quality,old,bad,tủ,1.1918,cái,11,tệ
+tươi,food,age,27,0.66,texture,fresh,hard,cà chua,1.1918,quả,11,rắn
+màu đỏ,furniture,color,28,0.54,size,red,small,bàn,1.1918,cái,11,nhỏ
+cũ,furniture,age,3,0.73,color,old,brown,bàn,3.7499666666666664,cái,12,màu nâu
+màu xanh dương,food,color,4,0.49,size,blue,small,táo,3.7499666666666664,quả,12,nhỏ
+mắc,furniture,quality,5,0.23,shape,expensive,round,ti-vi,3.7499666666666664,chiếc,12,tròn
+Pháp,food,nationality,6,0.94,size,french,big,cà chua,3.7499666666666664,quả,12,to
+hư,food,age,7,0.5,color,rotten,blue,táo,3.7499666666666664,quả,12,màu xanh dương
+tươi,furniture,age,8,0.51,shape,fresh,square,quạt máy,3.7499666666666664,chiếc,12,vuông
+màu nâu,furniture,color,9,0.31,size,brown,light,ti-vi,3.7499666666666664,chiếc,12,nhẹ
+màu nâu,food,color,10,0.8,shape,brown,square,cà rốt,3.7499666666666664,củ,12,vuông
+cũ,furniture,age,11,0.86,quality,old,expensive,tủ,3.7499666666666664,cái,12,mắc
+Đức,food,nationality,12,0.95,color,german,yellow,táo,3.7499666666666664,quả,12,màu vàng
+màu vàng,food,color,13,0.85,size,yellow,big,cà chua,3.7499666666666664,quả,12,to
+màu xanh lá,food,color,14,0.53,shape,green,square,táo,3.7499666666666664,quả,12,vuông
+to,furniture,size,15,0.37,age,big,old,bàn,3.7499666666666664,cái,12,cũ
+trơn,furniture,texture,16,0.76,size,smooth,small,tủ,3.7499666666666664,cái,12,nhỏ
+tươi,food,age,17,0.89,nationality,fresh,german,cà rốt,3.7499666666666664,củ,12,Đức
+rắn,food,texture,18,0.19,nationality,hard,french,táo,3.7499666666666664,quả,12,Pháp
+cũ,furniture,age,19,0.53,shape,old,round,bàn,3.7499666666666664,cái,12,tròn
+Đức,furniture,nationality,20,0.83,age,german,fresh,tủ,3.7499666666666664,cái,12,tươi
+màu nâu,furniture,color,21,0.52,age,brown,rotten,tủ,3.7499666666666664,cái,12,hư
+tròn,furniture,shape,22,0.63,color,round,red,ti-vi,3.7499666666666664,chiếc,12,màu đỏ
+màu xanh lá,food,color,23,0.51,size,green,small,cà chua,3.7499666666666664,quả,12,nhỏ
+màu đỏ,food,color,24,0.72,size,red,heavy,chuối,3.7499666666666664,quả,12,nặng
+Mỹ,food,nationality,25,0.74,texture,american,hard,táo,3.7499666666666664,quả,12,rắn
+ngắn,furniture,size,26,0.45,color,short,red,tủ,3.7499666666666664,cái,12,màu đỏ
+nhỏ,food,size,27,0.64,age,small,new,cà chua,3.7499666666666664,quả,12,mới
+màu vàng,food,color,28,0.51,age,yellow,rotten,cà rốt,3.7499666666666664,củ,12,hư
+ngắn,food,size,3,0.69,texture,short,soft,cà rốt,3.4666166666666665,củ,13,mềm
+ngắn,food,size,4,0.64,age,short,new,phô mai,3.4666166666666665,lát,13,mới
+mới,food,age,5,0.78,nationality,new,french,cà rốt,3.4666166666666665,củ,13,Pháp
+Đức,furniture,nationality,6,0.56,shape,german,square,tủ,3.4666166666666665,cái,13,vuông
+màu xanh lá,food,color,7,0.62,age,green,rotten,cà chua,3.4666166666666665,quả,13,hư
+mới,furniture,age,8,0.66,size,new,short,tủ,3.4666166666666665,cái,13,ngắn
+màu nâu,food,color,9,0.65,size,brown,big,chuối,3.4666166666666665,quả,13,to
+nặng,food,size,10,0.68,color,heavy,green,chuối,3.4666166666666665,quả,13,màu xanh lá
+nặng,food,size,11,0.68,quality,heavy,expensive,cà chua,3.4666166666666665,quả,13,mắc
+vuông,furniture,shape,12,0.68,color,square,yellow,ghế,3.4666166666666665,chiếc,13,màu vàng
+vuông,food,shape,13,0.67,size,square,short,táo,3.4666166666666665,quả,13,ngắn
+Pháp,furniture,nationality,14,0.67,color,french,brown,ghế,3.4666166666666665,chiếc,13,màu nâu
+ngắn,furniture,size,15,0.73,color,short,purple,ti-vi,3.4666166666666665,chiếc,13,màu tím
+màu xanh lá,food,color,16,0.67,age,green,fresh,táo,3.4666166666666665,quả,13,tươi
+tròn,furniture,shape,17,0.72,nationality,round,german,bàn,3.4666166666666665,cái,13,Đức
+nặng,food,size,18,0.75,texture,heavy,hard,chuối,3.4666166666666665,quả,13,rắn
+nặng,furniture,size,19,0.47,color,heavy,brown,tủ,3.4666166666666665,cái,13,màu nâu
+dài,furniture,size,20,0.76,age,long,fresh,quạt máy,3.4666166666666665,chiếc,13,tươi
+mềm,furniture,texture,21,0.72,quality,soft,bad,ghế,3.4666166666666665,chiếc,13,tệ
+màu vàng,food,color,22,0.77,texture,yellow,hard,phô mai,3.4666166666666665,lát,13,rắn
+màu tím,furniture,color,23,0.73,shape,purple,square,ti-vi,3.4666166666666665,chiếc,13,vuông
+tươi,furniture,age,24,0.75,color,fresh,red,ti-vi,3.4666166666666665,chiếc,13,màu đỏ
+ngắn,food,size,25,0.75,quality,short,expensive,chuối,3.4666166666666665,quả,13,mắc
+ngắn,furniture,size,26,0.75,nationality,short,american,ghế,3.4666166666666665,chiếc,13,Mỹ
+mắc,furniture,quality,27,0.75,texture,expensive,soft,ti-vi,3.4666166666666665,chiếc,13,mềm
+trơn,food,texture,28,0.72,color,smooth,purple,phô mai,3.4666166666666665,lát,13,màu tím
+Pháp,furniture,nationality,3,0.49,age,french,rotten,quạt máy,8.1875,chiếc,14,hư
+nhỏ,food,size,4,0.9,age,small,new,chuối,8.1875,quả,14,mới
+Đức,food,nationality,5,0.8,age,german,old,táo,8.1875,quả,14,cũ
+ngắn,furniture,size,6,0.58,color,short,blue,ghế,8.1875,chiếc,14,màu xanh dương
+nhỏ,food,size,7,0.72,color,small,green,cà chua,8.1875,quả,14,màu xanh lá
+vuông,food,shape,8,0.82,age,square,old,chuối,8.1875,quả,14,cũ
+màu tím,food,color,9,0.77,size,purple,long,cà chua,8.1875,quả,14,dài
+màu đỏ,furniture,color,10,0.81,texture,red,hard,tủ,8.1875,cái,14,rắn
+nặng,food,size,11,0.69,texture,heavy,soft,phô mai,8.1875,lát,14,mềm
+nặng,furniture,size,12,0.86,nationality,heavy,french,ghế,8.1875,chiếc,14,Pháp
+mềm,food,texture,13,0.74,size,soft,long,cà chua,8.1875,quả,14,dài
+nhỏ,food,size,14,0.74,texture,small,hard,táo,8.1875,quả,14,rắn
+màu nâu,food,color,15,0.82,shape,brown,square,cà chua,8.1875,quả,14,vuông
+hư,food,age,16,0.73,nationality,rotten,german,táo,8.1875,quả,14,Đức
+Pháp,furniture,nationality,17,0.85,color,french,green,ghế,8.1875,chiếc,14,màu xanh lá
+to,furniture,size,18,0.69,age,big,rotten,tủ,8.1875,cái,14,hư
+ngắn,food,size,19,0.9,color,short,brown,cà chua,8.1875,quả,14,màu nâu
+rắn,food,texture,20,0.81,age,hard,rotten,chuối,8.1875,quả,14,hư
+màu đỏ,food,color,21,0.77,size,red,big,chuối,8.1875,quả,14,to
+mềm,food,texture,22,0.73,size,soft,big,phô mai,8.1875,lát,14,to
+màu đỏ,furniture,color,23,0.88,texture,red,smooth,ti-vi,8.1875,chiếc,14,trơn
+vuông,food,shape,24,0.88,size,square,heavy,phô mai,8.1875,lát,14,nặng
+Mỹ,furniture,nationality,25,0.79,size,american,light,ghế,8.1875,chiếc,14,nhẹ
+rắn,food,texture,26,0.84,nationality,hard,american,phô mai,8.1875,lát,14,Mỹ
+hư,furniture,age,27,0.82,color,rotten,purple,bàn,8.1875,cái,14,màu tím
+Đức,furniture,nationality,28,0.88,size,german,small,ti-vi,8.1875,chiếc,14,nhỏ
+màu xanh dương,furniture,color,3,0.39,texture,blue,hard,bàn,9.633133333333333,cái,15,rắn
+ngắn,food,size,4,0.38,color,short,red,cà rốt,9.633133333333333,củ,15,màu đỏ
+tươi,food,age,5,0.5,color,fresh,blue,phô mai,9.633133333333333,lát,15,màu xanh dương
+cũ,furniture,age,6,0.66,size,old,light,ti-vi,9.633133333333333,chiếc,15,nhẹ
+tươi,food,age,7,0.58,size,fresh,heavy,chuối,9.633133333333333,quả,15,nặng
+vuông,furniture,shape,8,0.52,quality,square,expensive,quạt máy,9.633133333333333,chiếc,15,mắc
+màu xanh lá,furniture,color,9,0.67,texture,green,soft,tủ,9.633133333333333,cái,15,mềm
+nhỏ,food,size,10,0.62,shape,small,round,phô mai,9.633133333333333,lát,15,tròn
+ngắn,food,size,11,0.72,color,short,blue,cà chua,9.633133333333333,quả,15,màu xanh dương
+màu xanh dương,food,color,12,0.73,texture,blue,hard,phô mai,9.633133333333333,lát,15,rắn
+màu xanh dương,food,color,13,0.46,age,blue,rotten,chuối,9.633133333333333,quả,15,hư
+hư,food,age,14,0.65,quality,rotten,bad,cà chua,9.633133333333333,quả,15,tệ
+dài,food,size,15,0.48,age,long,new,phô mai,9.633133333333333,lát,15,mới
+màu xanh lá,furniture,color,16,0.6,size,green,small,ghế,9.633133333333333,chiếc,15,nhỏ
+màu đỏ,food,color,17,0.68,size,red,light,cà chua,9.633133333333333,quả,15,nhẹ
+rắn,furniture,texture,18,0.77,color,hard,brown,quạt máy,9.633133333333333,chiếc,15,màu nâu
+màu xanh dương,furniture,color,19,0.62,size,blue,light,bàn,9.633133333333333,cái,15,nhẹ
+mắc,furniture,quality,20,0.61,texture,expensive,hard,ghế,9.633133333333333,chiếc,15,rắn
+dài,food,size,21,0.69,nationality,long,french,phô mai,9.633133333333333,lát,15,Pháp
+trơn,furniture,texture,22,0.76,color,smooth,yellow,quạt máy,9.633133333333333,chiếc,15,màu vàng
+màu nâu,furniture,color,23,0.72,nationality,brown,french,ti-vi,9.633133333333333,chiếc,15,Pháp
+nhỏ,furniture,size,24,0.65,nationality,small,american,tủ,9.633133333333333,cái,15,Mỹ
+dài,furniture,size,25,0.65,color,long,blue,bàn,9.633133333333333,cái,15,màu xanh dương
+màu xanh dương,food,color,26,0.68,size,blue,small,chuối,9.633133333333333,quả,15,nhỏ
+mới,food,age,27,0.81,texture,new,soft,cà rốt,9.633133333333333,củ,15,mềm
+nặng,food,size,28,0.49,nationality,heavy,american,cà chua,9.633133333333333,quả,15,Mỹ
+Đức,furniture,nationality,3,0.77,size,german,short,ghế,5.146716666666666,chiếc,16,ngắn
+rắn,furniture,texture,4,0.86,age,hard,new,ti-vi,5.146716666666666,chiếc,16,mới
+nhỏ,furniture,size,5,0.62,color,small,brown,ghế,5.146716666666666,chiếc,16,màu nâu
+dài,food,size,6,0.88,quality,long,bad,cà rốt,5.146716666666666,củ,16,tệ
+Mỹ,food,nationality,7,0.63,shape,american,square,phô mai,5.146716666666666,lát,16,vuông
+mắc,food,quality,8,0.92,color,expensive,red,chuối,5.146716666666666,quả,16,màu đỏ
+màu đỏ,food,color,9,0.69,age,red,rotten,phô mai,5.146716666666666,lát,16,hư
+tệ,furniture,quality,10,0.93,shape,bad,square,quạt máy,5.146716666666666,chiếc,16,vuông
+to,food,size,11,0.68,color,big,purple,phô mai,5.146716666666666,lát,16,màu tím
+Mỹ,furniture,nationality,12,0.89,shape,american,square,ghế,5.146716666666666,chiếc,16,vuông
+vuông,furniture,shape,13,0.85,color,square,blue,tủ,5.146716666666666,cái,16,màu xanh dương
+màu đỏ,food,color,14,0.84,size,red,big,cà rốt,5.146716666666666,củ,16,to
+hư,food,age,15,0.84,shape,rotten,round,táo,5.146716666666666,quả,16,tròn
+tươi,food,age,16,0.65,size,fresh,light,chuối,5.146716666666666,quả,16,nhẹ
+màu xanh dương,food,color,17,0.89,size,blue,long,chuối,5.146716666666666,quả,16,dài
+nhỏ,food,size,18,0.79,texture,small,smooth,cà chua,5.146716666666666,quả,16,trơn
+Mỹ,food,nationality,19,0.8,size,american,heavy,cà rốt,5.146716666666666,củ,16,nặng
+nhẹ,food,size,20,0.73,color,light,blue,chuối,5.146716666666666,quả,16,màu xanh dương
+nặng,food,size,21,0.88,age,heavy,fresh,cà chua,5.146716666666666,quả,16,tươi
+Pháp,food,nationality,22,0.68,age,french,new,táo,5.146716666666666,quả,16,mới
+trơn,furniture,texture,23,0.94,color,smooth,brown,quạt máy,5.146716666666666,chiếc,16,màu nâu
+cũ,furniture,age,24,0.74,shape,old,square,ti-vi,5.146716666666666,chiếc,16,vuông
+nặng,furniture,size,25,0.88,texture,heavy,hard,ti-vi,5.146716666666666,chiếc,16,rắn
+ngắn,food,size,26,0.79,texture,short,soft,cà chua,5.146716666666666,quả,16,mềm
+màu đỏ,furniture,color,27,0.83,quality,red,expensive,ghế,5.146716666666666,chiếc,16,mắc
+tệ,food,quality,28,0.82,age,bad,fresh,phô mai,5.146716666666666,lát,16,tươi
+trơn,food,texture,3,0.83,shape,smooth,round,cà chua,2.14805,quả,17,tròn
+tươi,food,age,4,0.5,nationality,fresh,american,táo,2.14805,quả,17,Mỹ
+màu vàng,food,color,5,0.82,size,yellow,long,cà rốt,2.14805,củ,17,dài
+mắc,food,quality,6,0.71,size,expensive,light,phô mai,2.14805,lát,17,nhẹ
+màu tím,furniture,color,7,0.69,nationality,purple,american,quạt máy,2.14805,chiếc,17,Mỹ
+tròn,food,shape,8,0.76,quality,round,expensive,táo,2.14805,quả,17,mắc
+Đức,food,nationality,9,0.73,shape,german,round,cà rốt,2.14805,củ,17,tròn
+tròn,furniture,shape,10,0.66,size,round,small,ti-vi,2.14805,chiếc,17,nhỏ
+mắc,furniture,quality,11,0.81,color,expensive,brown,ghế,2.14805,chiếc,17,màu nâu
+tệ,furniture,quality,12,0.69,age,bad,old,ti-vi,2.14805,chiếc,17,cũ
+tròn,furniture,shape,13,0.83,size,round,small,ti-vi,2.14805,chiếc,17,nhỏ
+tệ,food,quality,14,0.77,color,bad,yellow,cà chua,2.14805,quả,17,màu vàng
+tệ,food,quality,15,0.73,color,bad,blue,cà rốt,2.14805,củ,17,màu xanh dương
+mới,furniture,age,16,0.71,color,new,purple,tủ,2.14805,cái,17,màu tím
+vuông,food,shape,17,0.79,texture,square,smooth,phô mai,2.14805,lát,17,trơn
+màu tím,furniture,color,18,0.61,size,purple,big,bàn,2.14805,cái,17,to
+to,food,size,19,0.78,color,big,blue,phô mai,2.14805,lát,17,màu xanh dương
+màu tím,food,color,20,0.73,shape,purple,square,cà chua,2.14805,quả,17,vuông
+ngắn,furniture,size,21,0.77,nationality,short,american,bàn,2.14805,cái,17,Mỹ
+mắc,food,quality,22,0.72,size,expensive,long,phô mai,2.14805,lát,17,dài
+trơn,furniture,texture,23,0.69,color,smooth,purple,ghế,2.14805,chiếc,17,màu tím
+trơn,furniture,texture,24,0.71,age,smooth,old,quạt máy,2.14805,chiếc,17,cũ
+to,food,size,25,0.8,age,big,old,cà chua,2.14805,quả,17,cũ
+to,food,size,26,0.74,color,big,brown,chuối,2.14805,quả,17,màu nâu
+nặng,food,size,27,0.78,age,heavy,rotten,táo,2.14805,quả,17,hư
+tươi,food,age,28,0.69,nationality,fresh,french,táo,2.14805,quả,17,Pháp
+màu tím,furniture,color,3,0.38,nationality,purple,french,quạt máy,0.9912166666666666,chiếc,18,Pháp
+màu xanh dương,furniture,color,4,0.64,size,blue,short,tủ,0.9912166666666666,cái,18,ngắn
+trơn,furniture,texture,5,0.41,age,smooth,old,tủ,0.9912166666666666,cái,18,cũ
+Đức,food,nationality,6,0.75,age,german,fresh,táo,0.9912166666666666,quả,18,tươi
+nặng,food,size,7,0.15,color,heavy,green,chuối,0.9912166666666666,quả,18,màu xanh lá
+nhỏ,food,size,8,0.74,quality,small,bad,cà chua,0.9912166666666666,quả,18,tệ
+màu xanh lá,furniture,color,9,0.31,nationality,green,american,tủ,0.9912166666666666,cái,18,Mỹ
+tệ,food,quality,10,0.95,size,bad,small,táo,0.9912166666666666,quả,18,nhỏ
+mềm,food,texture,11,0.14,size,soft,small,táo,0.9912166666666666,quả,18,nhỏ
+Pháp,furniture,nationality,12,0.53,quality,french,expensive,ghế,0.9912166666666666,chiếc,18,mắc
+rắn,food,texture,13,0.78,nationality,hard,french,chuối,0.9912166666666666,quả,18,Pháp
+Mỹ,food,nationality,14,0.39,size,american,small,cà rốt,0.9912166666666666,củ,18,nhỏ
+trơn,furniture,texture,15,0.17,nationality,smooth,french,ghế,0.9912166666666666,chiếc,18,Pháp
+hư,food,age,16,0.51,color,rotten,purple,táo,0.9912166666666666,quả,18,màu tím
+dài,furniture,size,17,0.83,texture,long,soft,tủ,0.9912166666666666,cái,18,mềm
+to,food,size,18,0.22,texture,big,smooth,cà chua,0.9912166666666666,quả,18,trơn
+mới,furniture,age,19,0.7,color,new,brown,ti-vi,0.9912166666666666,chiếc,18,màu nâu
+nhỏ,food,size,20,0.94,color,small,brown,chuối,0.9912166666666666,quả,18,màu nâu
+màu đỏ,food,color,21,0.23,nationality,red,german,phô mai,0.9912166666666666,lát,18,Đức
+tươi,food,age,22,0.47,texture,fresh,hard,cà rốt,0.9912166666666666,củ,18,rắn
+Mỹ,furniture,nationality,23,0.39,size,american,long,quạt máy,0.9912166666666666,chiếc,18,dài
+tệ,food,quality,24,0.73,nationality,bad,french,táo,0.9912166666666666,quả,18,Pháp
+màu xanh dương,food,color,25,0.18,nationality,blue,french,chuối,0.9912166666666666,quả,18,Pháp
+rắn,furniture,texture,26,0.97,size,hard,short,ti-vi,0.9912166666666666,chiếc,18,ngắn
+vuông,food,shape,27,0.04,size,square,light,táo,0.9912166666666666,quả,18,nhẹ
+ngắn,furniture,size,28,0.83,nationality,short,american,quạt máy,0.9912166666666666,chiếc,18,Mỹ
+rắn,furniture,texture,3,0.8,nationality,hard,french,ghế,2.9863666666666666,chiếc,19,Pháp
+Đức,furniture,nationality,4,0.58,age,german,new,ghế,2.9863666666666666,chiếc,19,mới
+tệ,furniture,quality,5,0.69,texture,bad,smooth,quạt máy,2.9863666666666666,chiếc,19,trơn
+Pháp,food,nationality,6,0.69,color,french,blue,táo,2.9863666666666666,quả,19,màu xanh dương
+trơn,food,texture,7,0.77,age,smooth,old,táo,2.9863666666666666,quả,19,cũ
+ngắn,furniture,size,8,0.83,age,short,fresh,bàn,2.9863666666666666,cái,19,tươi
+Đức,furniture,nationality,9,0.74,age,german,rotten,ghế,2.9863666666666666,chiếc,19,hư
+màu vàng,food,color,10,0.64,quality,yellow,bad,táo,2.9863666666666666,quả,19,tệ
+màu tím,furniture,color,11,0.73,texture,purple,smooth,quạt máy,2.9863666666666666,chiếc,19,trơn
+nhẹ,food,size,12,0.62,color,light,brown,chuối,2.9863666666666666,quả,19,màu nâu
+màu đỏ,furniture,color,13,0.82,age,red,new,bàn,2.9863666666666666,cái,19,mới
+nhỏ,food,size,14,0.72,texture,small,hard,cà chua,2.9863666666666666,quả,19,rắn
+màu nâu,food,color,15,0.76,size,brown,small,chuối,2.9863666666666666,quả,19,nhỏ
+tệ,furniture,quality,16,0.81,color,bad,brown,ghế,2.9863666666666666,chiếc,19,màu nâu
+tệ,food,quality,17,0.68,nationality,bad,american,táo,2.9863666666666666,quả,19,Mỹ
+vuông,food,shape,18,0.58,color,square,yellow,cà rốt,2.9863666666666666,củ,19,màu vàng
+Đức,food,nationality,19,0.8,texture,german,smooth,cà rốt,2.9863666666666666,củ,19,trơn
+rắn,food,texture,20,0.4,nationality,hard,french,phô mai,2.9863666666666666,lát,19,Pháp
+rắn,food,texture,21,0.79,color,hard,green,phô mai,2.9863666666666666,lát,19,màu xanh lá
+nhỏ,food,size,22,0.78,texture,small,soft,phô mai,2.9863666666666666,lát,19,mềm
+mắc,furniture,quality,23,0.51,color,expensive,brown,quạt máy,2.9863666666666666,chiếc,19,màu nâu
+nặng,furniture,size,24,0.8,nationality,heavy,american,quạt máy,2.9863666666666666,chiếc,19,Mỹ
+vuông,food,shape,25,0.64,color,square,brown,táo,2.9863666666666666,quả,19,màu nâu
+màu xanh dương,food,color,26,0.81,nationality,blue,french,chuối,2.9863666666666666,quả,19,Pháp
+tròn,food,shape,27,0.64,color,round,red,phô mai,2.9863666666666666,lát,19,màu đỏ
+màu vàng,food,color,28,0.84,size,yellow,big,cà chua,2.9863666666666666,quả,19,to
+tròn,furniture,shape,3,0.73,size,round,heavy,ti-vi,10.795883333333334,chiếc,20,nặng
+tươi,furniture,age,4,0.72,color,fresh,green,quạt máy,10.795883333333334,chiếc,20,màu xanh lá
+nặng,food,size,5,0.84,age,heavy,old,cà rốt,10.795883333333334,củ,20,cũ
+hư,food,age,6,0.11,texture,rotten,hard,phô mai,10.795883333333334,lát,20,rắn
+tệ,food,quality,7,0.17,size,bad,heavy,phô mai,10.795883333333334,lát,20,nặng
+vuông,food,shape,8,0.49,size,square,long,cà rốt,10.795883333333334,củ,20,dài
+trơn,food,texture,9,0.9,color,smooth,green,phô mai,10.795883333333334,lát,20,màu xanh lá
+tệ,food,quality,10,0.56,color,bad,yellow,phô mai,10.795883333333334,lát,20,màu vàng
+ngắn,food,size,11,0.71,age,short,new,chuối,10.795883333333334,quả,20,mới
+tệ,food,quality,12,0.86,color,bad,brown,phô mai,10.795883333333334,lát,20,màu nâu
+nhẹ,furniture,size,13,0.16,age,light,old,quạt máy,10.795883333333334,chiếc,20,cũ
+mắc,furniture,quality,14,0.76,texture,expensive,hard,ti-vi,10.795883333333334,chiếc,20,rắn
+màu nâu,furniture,color,15,0.84,size,brown,heavy,ti-vi,10.795883333333334,chiếc,20,nặng
+Đức,furniture,nationality,16,0.52,shape,german,round,bàn,10.795883333333334,cái,20,tròn
+Mỹ,food,nationality,17,0.63,color,american,yellow,táo,10.795883333333334,quả,20,màu vàng
+nhỏ,food,size,18,0.24,texture,small,hard,phô mai,10.795883333333334,lát,20,rắn
+màu tím,furniture,color,19,0.16,nationality,purple,french,tủ,10.795883333333334,cái,20,Pháp
+nhỏ,furniture,size,20,0.34,quality,small,bad,ghế,10.795883333333334,chiếc,20,tệ
+màu nâu,furniture,color,21,0.16,size,brown,long,ti-vi,10.795883333333334,chiếc,20,dài
+màu xanh dương,furniture,color,22,0.88,size,blue,short,tủ,10.795883333333334,cái,20,ngắn
+nặng,furniture,size,23,0.76,color,heavy,purple,ghế,10.795883333333334,chiếc,20,màu tím
+mới,furniture,age,24,0.34,size,new,small,tủ,10.795883333333334,cái,20,nhỏ
+dài,food,size,25,0.68,texture,long,hard,phô mai,10.795883333333334,lát,20,rắn
+mới,food,age,26,0.69,texture,new,soft,táo,10.795883333333334,quả,20,mềm
+tươi,furniture,age,27,0.91,size,fresh,long,quạt máy,10.795883333333334,chiếc,20,dài
+màu nâu,food,color,28,0.76,size,brown,big,chuối,10.795883333333334,quả,20,to
+mắc,food,quality,3,0.61,age,expensive,fresh,phô mai,7.2506,lát,21,tươi
+rắn,food,texture,4,0.81,age,hard,old,cà chua,7.2506,quả,21,cũ
+hư,food,age,5,0.72,size,rotten,short,chuối,7.2506,quả,21,ngắn
+Mỹ,food,nationality,6,0.89,color,american,yellow,phô mai,7.2506,lát,21,màu vàng
+mắc,furniture,quality,7,0.78,color,expensive,yellow,ghế,7.2506,chiếc,21,màu vàng
+hư,furniture,age,8,0.89,color,rotten,brown,ghế,7.2506,chiếc,21,màu nâu
+màu đỏ,food,color,9,0.85,nationality,red,french,cà chua,7.2506,quả,21,Pháp
+vuông,furniture,shape,10,0.73,quality,square,expensive,ti-vi,7.2506,chiếc,21,mắc
+Mỹ,food,nationality,11,0.81,color,american,brown,cà rốt,7.2506,củ,21,màu nâu
+nặng,furniture,size,12,0.84,quality,heavy,expensive,tủ,7.2506,cái,21,mắc
+nặng,food,size,13,0.76,color,heavy,brown,chuối,7.2506,quả,21,màu nâu
+nhẹ,food,size,14,0.79,color,light,brown,chuối,7.2506,quả,21,màu nâu
+Pháp,furniture,nationality,15,0.79,age,french,fresh,ghế,7.2506,chiếc,21,tươi
+ngắn,food,size,16,0.86,color,short,green,cà chua,7.2506,quả,21,màu xanh lá
+to,food,size,17,0.75,quality,big,bad,cà chua,7.2506,quả,21,tệ
+mềm,food,texture,18,0.79,nationality,soft,french,phô mai,7.2506,lát,21,Pháp
+trơn,furniture,texture,19,0.82,nationality,smooth,german,ti-vi,7.2506,chiếc,21,Đức
+tròn,furniture,shape,20,0.77,color,round,green,quạt máy,7.2506,chiếc,21,màu xanh lá
+cũ,furniture,age,21,0.83,texture,old,hard,tủ,7.2506,cái,21,rắn
+Đức,furniture,nationality,22,0.8,texture,german,hard,ti-vi,7.2506,chiếc,21,rắn
+màu xanh dương,furniture,color,23,0.91,texture,blue,smooth,ghế,7.2506,chiếc,21,trơn
+hư,food,age,24,0.81,size,rotten,long,táo,7.2506,quả,21,dài
+trơn,food,texture,25,0.82,nationality,smooth,american,cà chua,7.2506,quả,21,Mỹ
+màu vàng,food,color,26,0.84,texture,yellow,smooth,chuối,7.2506,quả,21,trơn
+Mỹ,furniture,nationality,27,0.85,size,american,small,quạt máy,7.2506,chiếc,21,nhỏ
+màu đỏ,furniture,color,28,0.85,size,red,small,bàn,7.2506,cái,21,nhỏ
+Mỹ,furniture,nationality,3,0.39,age,american,rotten,ghế,2.608816666666667,chiếc,22,hư
+mới,furniture,age,4,0.87,quality,new,bad,ghế,2.608816666666667,chiếc,22,tệ
+mới,food,age,5,0.3,size,new,big,táo,2.608816666666667,quả,22,to
+hư,furniture,age,6,0.63,size,rotten,small,ghế,2.608816666666667,chiếc,22,nhỏ
+mềm,furniture,texture,7,0.58,color,soft,yellow,quạt máy,2.608816666666667,chiếc,22,màu vàng
+Đức,furniture,nationality,8,0.21,age,german,rotten,tủ,2.608816666666667,cái,22,hư
+Pháp,food,nationality,9,0.72,age,french,old,táo,2.608816666666667,quả,22,cũ
+nhẹ,furniture,size,10,0.29,age,light,rotten,bàn,2.608816666666667,cái,22,hư
+mới,food,age,11,0.56,color,new,purple,cà chua,2.608816666666667,quả,22,màu tím
+tròn,food,shape,12,0.84,age,round,new,táo,2.608816666666667,quả,22,mới
+Mỹ,furniture,nationality,13,0.16,size,american,light,ti-vi,2.608816666666667,chiếc,22,nhẹ
+mềm,furniture,texture,14,0.46,color,soft,brown,bàn,2.608816666666667,cái,22,màu nâu
+vuông,furniture,shape,15,0.7,size,square,long,tủ,2.608816666666667,cái,22,dài
+Pháp,furniture,nationality,16,0.14,texture,french,smooth,quạt máy,2.608816666666667,chiếc,22,trơn
+nặng,food,size,17,0.64,color,heavy,green,cà rốt,2.608816666666667,củ,22,màu xanh lá
+mới,food,age,18,0.92,size,new,small,cà chua,2.608816666666667,quả,22,nhỏ
+cũ,food,age,19,0.57,size,old,short,phô mai,2.608816666666667,lát,22,ngắn
+mới,furniture,age,20,0.33,texture,new,smooth,ghế,2.608816666666667,chiếc,22,trơn
+trơn,food,texture,21,0.54,age,smooth,new,cà rốt,2.608816666666667,củ,22,mới
+mềm,food,texture,22,0.82,size,soft,short,cà rốt,2.608816666666667,củ,22,ngắn
+cũ,food,age,23,0.21,nationality,old,german,cà chua,2.608816666666667,quả,22,Đức
+tươi,food,age,24,0.78,texture,fresh,soft,chuối,2.608816666666667,quả,22,mềm
+nhẹ,food,size,25,0.53,nationality,light,german,táo,2.608816666666667,quả,22,Đức
+cũ,food,age,26,0.8,shape,old,round,phô mai,2.608816666666667,lát,22,tròn
+hư,furniture,age,27,0.49,size,rotten,heavy,ti-vi,2.608816666666667,chiếc,22,nặng
+mới,furniture,age,28,0.75,texture,new,hard,ghế,2.608816666666667,chiếc,22,rắn
+nặng,furniture,size,3,0.79,quality,heavy,expensive,ti-vi,15.12925,chiếc,23,mắc
+mới,furniture,age,4,0.14,texture,new,hard,bàn,15.12925,cái,23,rắn
+màu tím,food,color,5,0.92,quality,purple,bad,phô mai,15.12925,lát,23,tệ
+Mỹ,furniture,nationality,6,0.76,color,american,brown,tủ,15.12925,cái,23,màu nâu
+tròn,food,shape,7,0.08,nationality,round,french,phô mai,15.12925,lát,23,Pháp
+nhẹ,food,size,8,0.01,shape,light,square,phô mai,15.12925,lát,23,vuông
+rắn,furniture,texture,9,0.04,size,hard,small,quạt máy,15.12925,chiếc,23,nhỏ
+màu vàng,food,color,10,0.95,size,yellow,small,chuối,15.12925,quả,23,nhỏ
+màu xanh lá,food,color,11,0.75,size,green,big,cà chua,15.12925,quả,23,to
+tươi,food,age,12,0.04,nationality,fresh,german,táo,15.12925,quả,23,Đức
+màu vàng,furniture,color,13,0.72,age,yellow,new,bàn,15.12925,cái,23,mới
+rắn,furniture,texture,14,0.87,quality,hard,expensive,ghế,15.12925,chiếc,23,mắc
+màu nâu,food,color,15,0.09,age,brown,rotten,chuối,15.12925,quả,23,hư
+mới,food,age,16,0.74,size,new,big,cà chua,15.12925,quả,23,to
+mềm,furniture,texture,17,0.69,shape,soft,square,ghế,15.12925,chiếc,23,vuông
+rắn,food,texture,18,0.92,size,hard,short,cà rốt,15.12925,củ,23,ngắn
+Pháp,food,nationality,19,1,color,french,yellow,phô mai,15.12925,lát,23,màu vàng
+màu vàng,furniture,color,20,0.96,nationality,yellow,german,bàn,15.12925,cái,23,Đức
+rắn,food,texture,21,0,nationality,hard,french,cà chua,15.12925,quả,23,Pháp
+màu vàng,furniture,color,22,0.95,shape,yellow,square,bàn,15.12925,cái,23,vuông
+Mỹ,furniture,nationality,23,0.92,age,american,new,bàn,15.12925,cái,23,mới
+tròn,food,shape,24,0.04,age,round,rotten,chuối,15.12925,quả,23,hư
+vuông,food,shape,25,0.05,color,square,purple,cà chua,15.12925,quả,23,màu tím
+vuông,furniture,shape,26,0.86,nationality,square,american,bàn,15.12925,cái,23,Mỹ
+mắc,furniture,quality,27,0.13,nationality,expensive,american,ti-vi,15.12925,chiếc,23,Mỹ
+Đức,food,nationality,28,0.99,texture,german,soft,táo,15.12925,quả,23,mềm
+mới,food,age,3,0.74,size,new,short,cà chua,8.8581,quả,24,ngắn
+nặng,food,size,4,0.77,age,heavy,new,cà rốt,8.8581,củ,24,mới
+mềm,food,texture,5,0.71,shape,soft,square,táo,8.8581,quả,24,vuông
+mắc,furniture,quality,6,0.78,size,expensive,light,ti-vi,8.8581,chiếc,24,nhẹ
+vuông,furniture,shape,7,0.77,age,square,fresh,tủ,8.8581,cái,24,tươi
+tròn,food,shape,8,0.72,texture,round,soft,táo,8.8581,quả,24,mềm
+màu đỏ,food,color,9,0.82,size,red,long,phô mai,8.8581,lát,24,dài
+hư,furniture,age,10,0.8,nationality,rotten,american,quạt máy,8.8581,chiếc,24,Mỹ
+tệ,furniture,quality,11,0.85,shape,bad,square,ghế,8.8581,chiếc,24,vuông
+trơn,furniture,texture,12,0.91,color,smooth,purple,tủ,8.8581,cái,24,màu tím
+mới,furniture,age,13,0.74,nationality,new,german,ghế,8.8581,chiếc,24,Đức
+Đức,furniture,nationality,14,0.77,size,german,short,bàn,8.8581,cái,24,ngắn
+trơn,food,texture,15,0.8,nationality,smooth,american,táo,8.8581,quả,24,Mỹ
+cũ,furniture,age,16,0.77,color,old,brown,bàn,8.8581,cái,24,màu nâu
+dài,furniture,size,17,0.76,age,long,new,bàn,8.8581,cái,24,mới
+to,furniture,size,18,0.81,texture,big,hard,ti-vi,8.8581,chiếc,24,rắn
+tươi,furniture,age,19,0.78,quality,fresh,expensive,ghế,8.8581,chiếc,24,mắc
+hư,furniture,age,20,0.79,texture,rotten,smooth,bàn,8.8581,cái,24,trơn
+nhẹ,food,size,21,0.8,color,light,purple,phô mai,8.8581,lát,24,màu tím
+rắn,food,texture,22,0.78,nationality,hard,german,cà rốt,8.8581,củ,24,Đức
+mới,food,age,23,0.78,shape,new,round,táo,8.8581,quả,24,tròn
+trơn,food,texture,24,0.8,size,smooth,short,táo,8.8581,quả,24,ngắn
+dài,food,size,25,0.83,color,long,brown,táo,8.8581,quả,24,màu nâu
+mắc,food,quality,26,0.79,color,expensive,red,phô mai,8.8581,lát,24,màu đỏ
+to,food,size,27,0.88,shape,big,square,táo,8.8581,quả,24,vuông
+mềm,food,texture,28,0.84,quality,soft,bad,chuối,8.8581,quả,24,tệ
+nhẹ,furniture,size,3,0.66,age,light,old,bàn,7.25655,cái,25,cũ
+vuông,furniture,shape,4,0.75,texture,square,smooth,ti-vi,7.25655,chiếc,25,trơn
+màu nâu,furniture,color,5,0.74,age,brown,old,tủ,7.25655,cái,25,cũ
+tệ,furniture,quality,6,0.82,size,bad,long,bàn,7.25655,cái,25,dài
+nặng,furniture,size,7,0.76,texture,heavy,soft,ti-vi,7.25655,chiếc,25,mềm
+tươi,food,age,8,0.74,quality,fresh,bad,chuối,7.25655,quả,25,tệ
+dài,furniture,size,9,0.75,color,long,brown,ghế,7.25655,chiếc,25,màu nâu
+màu xanh dương,furniture,color,10,0.76,shape,blue,square,ti-vi,7.25655,chiếc,25,vuông
+rắn,food,texture,11,0.76,age,hard,fresh,chuối,7.25655,quả,25,tươi
+mắc,food,quality,12,0.72,texture,expensive,smooth,cà chua,7.25655,quả,25,trơn
+tròn,furniture,shape,13,0.8,size,round,big,quạt máy,7.25655,chiếc,25,to
+Đức,furniture,nationality,14,0.82,color,german,yellow,quạt máy,7.25655,chiếc,25,màu vàng
+nặng,food,size,15,0.8,color,heavy,red,cà rốt,7.25655,củ,25,màu đỏ
+Đức,furniture,nationality,16,0.72,size,german,long,ghế,7.25655,chiếc,25,dài
+mới,furniture,age,17,0.87,color,new,red,ghế,7.25655,chiếc,25,màu đỏ
+màu nâu,furniture,color,18,0.67,quality,brown,bad,quạt máy,7.25655,chiếc,25,tệ
+Pháp,food,nationality,19,0.73,color,french,green,phô mai,7.25655,lát,25,màu xanh lá
+nặng,furniture,size,20,0.78,quality,heavy,expensive,ti-vi,7.25655,chiếc,25,mắc
+rắn,food,texture,21,0.81,age,hard,fresh,chuối,7.25655,quả,25,tươi
+cũ,food,age,22,0.76,size,old,short,táo,7.25655,quả,25,ngắn
+mới,food,age,23,0.76,color,new,green,cà chua,7.25655,quả,25,màu xanh lá
+vuông,food,shape,24,0.71,size,square,big,chuối,7.25655,quả,25,to
+màu đỏ,food,color,25,0.76,quality,red,bad,chuối,7.25655,quả,25,tệ
+tệ,furniture,quality,26,0.73,color,bad,yellow,bàn,7.25655,cái,25,màu vàng
+màu nâu,food,color,27,0.8,age,brown,old,táo,7.25655,quả,25,cũ
+tròn,furniture,shape,28,0.8,color,round,brown,tủ,7.25655,cái,25,màu nâu
+màu xanh lá,furniture,color,3,0.76,size,green,short,ti-vi,6.867366666666666,chiếc,26,ngắn
+tệ,food,quality,4,0.7,color,bad,yellow,táo,6.867366666666666,quả,26,màu vàng
+trơn,furniture,texture,5,0.54,nationality,smooth,french,bàn,6.867366666666666,cái,26,Pháp
+nặng,furniture,size,6,0.58,color,heavy,yellow,tủ,6.867366666666666,cái,26,màu vàng
+màu đỏ,furniture,color,7,0.63,age,red,fresh,bàn,6.867366666666666,cái,26,tươi
+màu nâu,furniture,color,8,0.73,age,brown,rotten,bàn,6.867366666666666,cái,26,hư
+màu đỏ,food,color,9,0.67,age,red,fresh,chuối,6.867366666666666,quả,26,tươi
+vuông,food,shape,10,0.63,nationality,square,french,phô mai,6.867366666666666,lát,26,Pháp
+hư,food,age,11,0.53,size,rotten,heavy,cà chua,6.867366666666666,quả,26,nặng
+màu vàng,furniture,color,12,0.67,age,yellow,fresh,ti-vi,6.867366666666666,chiếc,26,tươi
+màu vàng,food,color,13,0.74,quality,yellow,bad,phô mai,6.867366666666666,lát,26,tệ
+hư,furniture,age,14,0.66,color,rotten,blue,quạt máy,6.867366666666666,chiếc,26,màu xanh dương
+màu nâu,furniture,color,15,0.68,shape,brown,round,quạt máy,6.867366666666666,chiếc,26,tròn
+mắc,furniture,quality,16,0.76,color,expensive,yellow,ghế,6.867366666666666,chiếc,26,màu vàng
+ngắn,food,size,17,0.74,texture,short,soft,cà chua,6.867366666666666,quả,26,mềm
+màu vàng,furniture,color,18,0.8,size,yellow,light,quạt máy,6.867366666666666,chiếc,26,nhẹ
+Đức,furniture,nationality,19,0.79,color,german,brown,ghế,6.867366666666666,chiếc,26,màu nâu
+màu tím,food,color,20,0.8,nationality,purple,german,cà chua,6.867366666666666,quả,26,Đức
+tệ,food,quality,21,0.72,shape,bad,square,cà chua,6.867366666666666,quả,26,vuông
+tệ,furniture,quality,22,0.7,nationality,bad,french,ghế,6.867366666666666,chiếc,26,Pháp
+màu đỏ,food,color,23,0.86,shape,red,square,táo,6.867366666666666,quả,26,vuông
+tệ,furniture,quality,24,0.85,age,bad,new,tủ,6.867366666666666,cái,26,mới
+tròn,furniture,shape,25,0.84,color,round,brown,quạt máy,6.867366666666666,chiếc,26,màu nâu
+tươi,furniture,age,26,0.69,size,fresh,long,ti-vi,6.867366666666666,chiếc,26,dài
+màu đỏ,furniture,color,27,0.79,quality,red,expensive,quạt máy,6.867366666666666,chiếc,26,mắc
+to,furniture,size,28,0.8,color,big,green,ti-vi,6.867366666666666,chiếc,26,màu xanh lá
+nặng,furniture,size,3,0.37,nationality,heavy,german,tủ,1.8471333333333333,cái,27,Đức
+màu xanh dương,food,color,4,0.34,texture,blue,soft,cà chua,1.8471333333333333,quả,27,mềm
+trơn,furniture,texture,5,0.41,nationality,smooth,american,ghế,1.8471333333333333,chiếc,27,Mỹ
+mềm,food,texture,6,0.34,shape,soft,round,cà chua,1.8471333333333333,quả,27,tròn
+dài,food,size,7,0.64,nationality,long,american,chuối,1.8471333333333333,quả,27,Mỹ
+mắc,food,quality,8,0.27,age,expensive,old,táo,1.8471333333333333,quả,27,cũ
+mềm,food,texture,9,0.34,color,soft,yellow,cà chua,1.8471333333333333,quả,27,màu vàng
+tươi,food,age,10,0.37,size,fresh,light,cà rốt,1.8471333333333333,củ,27,nhẹ
+rắn,furniture,texture,11,0.35,quality,hard,expensive,bàn,1.8471333333333333,cái,27,mắc
+tươi,furniture,age,12,0.19,color,fresh,red,quạt máy,1.8471333333333333,chiếc,27,màu đỏ
+tròn,food,shape,13,0.52,color,round,yellow,cà rốt,1.8471333333333333,củ,27,màu vàng
+màu nâu,furniture,color,14,0.39,nationality,brown,german,tủ,1.8471333333333333,cái,27,Đức
+màu xanh dương,food,color,15,0.33,nationality,blue,american,chuối,1.8471333333333333,quả,27,Mỹ
+màu xanh lá,food,color,16,0.45,age,green,rotten,chuối,1.8471333333333333,quả,27,hư
+màu vàng,food,color,17,0.74,size,yellow,short,chuối,1.8471333333333333,quả,27,ngắn
+màu tím,food,color,18,0.41,texture,purple,smooth,táo,1.8471333333333333,quả,27,trơn
+tươi,furniture,age,19,0.46,quality,fresh,bad,quạt máy,1.8471333333333333,chiếc,27,tệ
+Đức,food,nationality,20,0.34,color,german,red,phô mai,1.8471333333333333,lát,27,màu đỏ
+màu vàng,food,color,21,0.57,shape,yellow,square,táo,1.8471333333333333,quả,27,vuông
+màu xanh lá,furniture,color,22,0.3,nationality,green,german,tủ,1.8471333333333333,cái,27,Đức
+màu đỏ,furniture,color,23,0.57,age,red,old,bàn,1.8471333333333333,cái,27,cũ
+nhỏ,furniture,size,24,0.34,age,small,rotten,bàn,1.8471333333333333,cái,27,hư
+hư,furniture,age,25,0.43,shape,rotten,square,quạt máy,1.8471333333333333,chiếc,27,vuông
+mắc,food,quality,26,0.41,color,expensive,yellow,táo,1.8471333333333333,quả,27,màu vàng
+tròn,furniture,shape,27,0.32,color,round,blue,ghế,1.8471333333333333,chiếc,27,màu xanh dương
+tròn,furniture,shape,28,0.51,size,round,long,ghế,1.8471333333333333,chiếc,27,dài
+cũ,food,age,3,0.9,shape,old,round,phô mai,8.996516666666666,lát,28,tròn
+rắn,furniture,texture,4,0.86,nationality,hard,french,quạt máy,8.996516666666666,chiếc,28,Pháp
+nặng,food,size,5,0.1,color,heavy,green,cà chua,8.996516666666666,quả,28,màu xanh lá
+Mỹ,furniture,nationality,6,0.9,color,american,green,tủ,8.996516666666666,cái,28,màu xanh lá
+màu vàng,furniture,color,7,0.05,size,yellow,big,tủ,8.996516666666666,cái,28,to
+hư,food,age,8,0.06,color,rotten,blue,táo,8.996516666666666,quả,28,màu xanh dương
+mới,food,age,9,0.33,nationality,new,german,chuối,8.996516666666666,quả,28,Đức
+ngắn,furniture,size,10,0.52,age,short,fresh,ti-vi,8.996516666666666,chiếc,28,tươi
+màu tím,food,color,11,0.2,age,purple,new,chuối,8.996516666666666,quả,28,mới
+rắn,furniture,texture,12,0.72,color,hard,blue,quạt máy,8.996516666666666,chiếc,28,màu xanh dương
+nặng,furniture,size,13,0.75,color,heavy,brown,bàn,8.996516666666666,cái,28,màu nâu
+nhỏ,food,size,14,0.25,shape,small,round,phô mai,8.996516666666666,lát,28,tròn
+nhẹ,furniture,size,15,0.75,color,light,green,ghế,8.996516666666666,chiếc,28,màu xanh lá
+vuông,food,shape,16,0.74,color,square,yellow,cà chua,8.996516666666666,quả,28,màu vàng
+tệ,food,quality,17,0.53,size,bad,big,táo,8.996516666666666,quả,28,to
+mắc,food,quality,18,0.82,shape,expensive,square,cà chua,8.996516666666666,quả,28,vuông
+màu tím,furniture,color,19,0.16,size,purple,short,ti-vi,8.996516666666666,chiếc,28,ngắn
+nặng,furniture,size,20,0.21,nationality,heavy,american,quạt máy,8.996516666666666,chiếc,28,Mỹ
+mềm,food,texture,21,0.45,quality,soft,bad,táo,8.996516666666666,quả,28,tệ
+hư,furniture,age,22,0.74,color,rotten,green,tủ,8.996516666666666,cái,28,màu xanh lá
+nhẹ,food,size,23,0.47,age,light,new,phô mai,8.996516666666666,lát,28,mới
+nhỏ,furniture,size,24,0.84,color,small,brown,ghế,8.996516666666666,chiếc,28,màu nâu
+Đức,food,nationality,25,0.77,age,german,fresh,chuối,8.996516666666666,quả,28,tươi
+màu xanh dương,food,color,26,0.22,size,blue,small,chuối,8.996516666666666,quả,28,nhỏ
+cũ,furniture,age,27,0.64,size,old,small,bàn,8.996516666666666,cái,28,nhỏ
+nặng,food,size,28,0.68,color,heavy,purple,cà rốt,8.996516666666666,củ,28,màu tím
+Pháp,food,nationality,3,0.76,color,french,red,chuối,1.5919666666666668,quả,29,màu đỏ
+tươi,furniture,age,4,0.83,texture,fresh,soft,quạt máy,1.5919666666666668,chiếc,29,mềm
+màu xanh lá,furniture,color,5,0.79,age,green,fresh,ti-vi,1.5919666666666668,chiếc,29,tươi
+hư,furniture,age,6,0.89,color,rotten,brown,tủ,1.5919666666666668,cái,29,màu nâu
+to,food,size,7,0.76,quality,big,bad,cà rốt,1.5919666666666668,củ,29,tệ
+màu xanh lá,furniture,color,8,0.87,shape,green,round,quạt máy,1.5919666666666668,chiếc,29,tròn
+to,furniture,size,9,0.74,texture,big,hard,quạt máy,1.5919666666666668,chiếc,29,rắn
+màu tím,food,color,10,0.84,quality,purple,expensive,cà chua,1.5919666666666668,quả,29,mắc
+ngắn,food,size,11,0.78,age,short,old,cà rốt,1.5919666666666668,củ,29,cũ
+mềm,food,texture,12,0.89,color,soft,red,chuối,1.5919666666666668,quả,29,màu đỏ
+Mỹ,food,nationality,13,0.79,quality,american,bad,cà chua,1.5919666666666668,quả,29,tệ
+rắn,furniture,texture,14,0.87,size,hard,big,bàn,1.5919666666666668,cái,29,to
+nặng,furniture,size,15,0.84,color,heavy,blue,ghế,1.5919666666666668,chiếc,29,màu xanh dương
+hư,furniture,age,16,0.88,texture,rotten,hard,bàn,1.5919666666666668,cái,29,rắn
+màu xanh dương,food,color,17,0.79,size,blue,long,chuối,1.5919666666666668,quả,29,dài
+tròn,furniture,shape,18,0.83,nationality,round,french,ghế,1.5919666666666668,chiếc,29,Pháp
+màu xanh lá,furniture,color,19,0.79,quality,green,bad,tủ,1.5919666666666668,cái,29,tệ
+màu nâu,food,color,20,0.76,quality,brown,bad,cà chua,1.5919666666666668,quả,29,tệ
+tệ,food,quality,21,0.74,color,bad,blue,chuối,1.5919666666666668,quả,29,màu xanh dương
+Pháp,furniture,nationality,22,0.7,quality,french,expensive,ghế,1.5919666666666668,chiếc,29,mắc
+mắc,food,quality,23,0.62,color,expensive,green,táo,1.5919666666666668,quả,29,màu xanh lá
+ngắn,food,size,24,0.8,quality,short,bad,cà chua,1.5919666666666668,quả,29,tệ
+tệ,furniture,quality,25,0.83,size,bad,big,tủ,1.5919666666666668,cái,29,to
+vuông,food,shape,26,0.58,size,square,short,phô mai,1.5919666666666668,lát,29,ngắn
+trơn,food,texture,27,0.79,color,smooth,purple,cà chua,1.5919666666666668,quả,29,màu tím
+Đức,food,nationality,28,0.66,size,german,light,chuối,1.5919666666666668,quả,29,nhẹ
+nặng,food,size,3,0.54,texture,heavy,smooth,chuối,1.81495,quả,30,trơn
+hư,food,age,4,0.54,color,rotten,yellow,cà rốt,1.81495,củ,30,màu vàng
+mới,furniture,age,5,0.53,color,new,green,bàn,1.81495,cái,30,màu xanh lá
+màu nâu,food,color,6,0.54,size,brown,big,cà chua,1.81495,quả,30,to
+nhẹ,furniture,size,7,0.54,quality,light,expensive,ghế,1.81495,chiếc,30,mắc
+màu xanh lá,furniture,color,8,0.51,size,green,long,ti-vi,1.81495,chiếc,30,dài
+màu nâu,food,color,9,0.47,size,brown,big,cà rốt,1.81495,củ,30,to
+to,food,size,10,0.47,age,big,new,chuối,1.81495,quả,30,mới
+nhẹ,food,size,11,0.58,color,light,blue,táo,1.81495,quả,30,màu xanh dương
+rắn,food,texture,12,0.56,color,hard,blue,phô mai,1.81495,lát,30,màu xanh dương
+Mỹ,furniture,nationality,13,0.49,color,american,purple,ghế,1.81495,chiếc,30,màu tím
+nhẹ,food,size,14,0.56,color,light,blue,cà rốt,1.81495,củ,30,màu xanh dương
+ngắn,food,size,15,0.5,color,short,green,phô mai,1.81495,lát,30,màu xanh lá
+mềm,food,texture,16,0.58,quality,soft,expensive,táo,1.81495,quả,30,mắc
+mắc,food,quality,17,0.5,size,expensive,big,táo,1.81495,quả,30,to
+Pháp,food,nationality,18,0.55,shape,french,round,cà chua,1.81495,quả,30,tròn
+dài,food,size,19,0.6,color,long,yellow,cà rốt,1.81495,củ,30,màu vàng
+màu đỏ,furniture,color,20,0.51,age,red,old,quạt máy,1.81495,chiếc,30,cũ
+nhẹ,food,size,21,0.63,texture,light,smooth,chuối,1.81495,quả,30,trơn
+rắn,furniture,texture,22,0.58,size,hard,long,ghế,1.81495,chiếc,30,dài
+tươi,furniture,age,23,0.56,size,fresh,long,ti-vi,1.81495,chiếc,30,dài
+mắc,furniture,quality,24,0.63,age,expensive,fresh,ghế,1.81495,chiếc,30,tươi
+mềm,furniture,texture,25,0.56,color,soft,yellow,tủ,1.81495,cái,30,màu vàng
+nặng,furniture,size,26,0.64,quality,heavy,bad,ghế,1.81495,chiếc,30,tệ
+Đức,furniture,nationality,27,0.6,texture,german,soft,tủ,1.81495,cái,30,mềm
+rắn,furniture,texture,28,0.63,shape,hard,square,tủ,1.81495,cái,30,vuông
+màu tím,food,color,3,0.6,age,purple,new,cà rốt,5.4850666666666665,củ,31,mới
+mềm,furniture,texture,4,0.67,color,soft,green,bàn,5.4850666666666665,cái,31,màu xanh lá
+mới,furniture,age,5,0.56,size,new,long,bàn,5.4850666666666665,cái,31,dài
+dài,furniture,size,6,0.53,nationality,long,american,bàn,5.4850666666666665,cái,31,Mỹ
+hư,food,age,7,0.53,texture,rotten,soft,phô mai,5.4850666666666665,lát,31,mềm
+tệ,furniture,quality,8,0.36,color,bad,yellow,ti-vi,5.4850666666666665,chiếc,31,màu vàng
+vuông,food,shape,9,0.47,age,square,new,cà rốt,5.4850666666666665,củ,31,mới
+màu đỏ,furniture,color,10,0.58,texture,red,hard,ti-vi,5.4850666666666665,chiếc,31,rắn
+màu vàng,furniture,color,11,0.59,texture,yellow,smooth,ti-vi,5.4850666666666665,chiếc,31,trơn
+màu tím,furniture,color,12,0.56,age,purple,old,ti-vi,5.4850666666666665,chiếc,31,cũ
+trơn,food,texture,13,0.54,size,smooth,long,táo,5.4850666666666665,quả,31,dài
+màu xanh lá,food,color,14,0.56,texture,green,smooth,cà chua,5.4850666666666665,quả,31,trơn
+nặng,furniture,size,15,0.58,color,heavy,green,ti-vi,5.4850666666666665,chiếc,31,màu xanh lá
+nhỏ,furniture,size,16,0.53,age,small,fresh,quạt máy,5.4850666666666665,chiếc,31,tươi
+ngắn,food,size,17,0.53,color,short,red,chuối,5.4850666666666665,quả,31,màu đỏ
+mới,food,age,18,0.49,color,new,blue,táo,5.4850666666666665,quả,31,màu xanh dương
+màu nâu,furniture,color,19,0.53,quality,brown,bad,bàn,5.4850666666666665,cái,31,tệ
+cũ,furniture,age,20,0.57,nationality,old,french,tủ,5.4850666666666665,cái,31,Pháp
+dài,food,size,21,0.53,quality,long,bad,táo,5.4850666666666665,quả,31,tệ
+màu xanh dương,food,color,22,0.44,size,blue,short,chuối,5.4850666666666665,quả,31,ngắn
+rắn,furniture,texture,23,0.64,size,hard,long,bàn,5.4850666666666665,cái,31,dài
+mới,food,age,24,0.69,color,new,brown,cà rốt,5.4850666666666665,củ,31,màu nâu
+trơn,furniture,texture,25,0.62,color,smooth,blue,ghế,5.4850666666666665,chiếc,31,màu xanh dương
+ngắn,food,size,26,0.51,texture,short,soft,táo,5.4850666666666665,quả,31,mềm
+Đức,furniture,nationality,27,0.59,age,german,new,tủ,5.4850666666666665,cái,31,mới
+tệ,food,quality,28,0.53,age,bad,old,táo,5.4850666666666665,quả,31,cũ
+màu nâu,furniture,color,3,0.51,age,brown,old,quạt máy,1.7148166666666667,chiếc,32,cũ
+mềm,furniture,texture,4,0.27,quality,soft,bad,bàn,1.7148166666666667,cái,32,tệ
+Pháp,food,nationality,5,0.74,texture,french,smooth,cà chua,1.7148166666666667,quả,32,trơn
+màu vàng,food,color,6,0.41,age,yellow,old,cà rốt,1.7148166666666667,củ,32,cũ
+tệ,furniture,quality,7,0.69,color,bad,green,tủ,1.7148166666666667,cái,32,màu xanh lá
+to,food,size,8,0.21,nationality,big,american,cà rốt,1.7148166666666667,củ,32,Mỹ
+cũ,furniture,age,9,0.82,size,old,big,tủ,1.7148166666666667,cái,32,to
+cũ,food,age,10,0.44,color,old,yellow,phô mai,1.7148166666666667,lát,32,màu vàng
+nhẹ,furniture,size,11,0.23,texture,light,soft,bàn,1.7148166666666667,cái,32,mềm
+màu đỏ,furniture,color,12,0.78,texture,red,hard,tủ,1.7148166666666667,cái,32,rắn
+nhỏ,furniture,size,13,0.53,quality,small,expensive,ti-vi,1.7148166666666667,chiếc,32,mắc
+nhẹ,furniture,size,14,0.38,color,light,yellow,ti-vi,1.7148166666666667,chiếc,32,màu vàng
+Mỹ,furniture,nationality,15,0.69,size,american,short,ti-vi,1.7148166666666667,chiếc,32,ngắn
+Pháp,furniture,nationality,16,0.34,color,french,purple,quạt máy,1.7148166666666667,chiếc,32,màu tím
+Pháp,furniture,nationality,17,0.57,age,french,fresh,ghế,1.7148166666666667,chiếc,32,tươi
+màu xanh lá,food,color,18,0.41,age,green,new,táo,1.7148166666666667,quả,32,mới
+nhỏ,furniture,size,19,0.74,nationality,small,french,ti-vi,1.7148166666666667,chiếc,32,Pháp
+mắc,food,quality,20,0.42,age,expensive,new,cà rốt,1.7148166666666667,củ,32,mới
+mắc,furniture,quality,21,0.72,size,expensive,long,quạt máy,1.7148166666666667,chiếc,32,dài
+nặng,furniture,size,22,0.65,texture,heavy,smooth,bàn,1.7148166666666667,cái,32,trơn
+mềm,furniture,texture,23,0.4,nationality,soft,american,tủ,1.7148166666666667,cái,32,Mỹ
+trơn,food,texture,24,0.67,nationality,smooth,french,cà rốt,1.7148166666666667,củ,32,Pháp
+màu xanh lá,food,color,25,0.44,size,green,short,cà rốt,1.7148166666666667,củ,32,ngắn
+màu tím,furniture,color,26,0.54,size,purple,light,quạt máy,1.7148166666666667,chiếc,32,nhẹ
+rắn,furniture,texture,27,0.16,age,hard,fresh,bàn,1.7148166666666667,cái,32,tươi
+mới,furniture,age,28,0.77,nationality,new,american,quạt máy,1.7148166666666667,chiếc,32,Mỹ
+mắc,furniture,quality,3,0.33,texture,expensive,smooth,bàn,5.314933333333333,cái,33,trơn
+trơn,furniture,texture,4,0.76,size,smooth,long,bàn,5.314933333333333,cái,33,dài
+màu nâu,food,color,5,0.11,size,brown,long,chuối,5.314933333333333,quả,33,dài
+màu vàng,food,color,6,0.38,texture,yellow,hard,chuối,5.314933333333333,quả,33,rắn
+cũ,furniture,age,7,0.14,size,old,light,ghế,5.314933333333333,chiếc,33,nhẹ
+màu xanh dương,food,color,8,0.76,nationality,blue,german,phô mai,5.314933333333333,lát,33,Đức
+trơn,food,texture,9,0.49,color,smooth,blue,cà chua,5.314933333333333,quả,33,màu xanh dương
+rắn,food,texture,10,0.22,age,hard,new,táo,5.314933333333333,quả,33,mới
+dài,food,size,11,0.85,quality,long,expensive,táo,5.314933333333333,quả,33,mắc
+màu tím,food,color,12,0.17,age,purple,rotten,chuối,5.314933333333333,quả,33,hư
+dài,food,size,13,0.55,nationality,long,american,cà chua,5.314933333333333,quả,33,Mỹ
+nhẹ,furniture,size,14,0.87,texture,light,soft,quạt máy,5.314933333333333,chiếc,33,mềm
+dài,food,size,15,0.16,nationality,long,american,cà chua,5.314933333333333,quả,33,Mỹ
+màu xanh dương,food,color,16,0.79,quality,blue,bad,phô mai,5.314933333333333,lát,33,tệ
+rắn,furniture,texture,17,0.48,color,hard,purple,bàn,5.314933333333333,cái,33,màu tím
+to,furniture,size,18,0.86,age,big,new,ti-vi,5.314933333333333,chiếc,33,mới
+tròn,furniture,shape,19,0.2,color,round,yellow,tủ,5.314933333333333,cái,33,màu vàng
+màu tím,food,color,20,0.81,age,purple,old,phô mai,5.314933333333333,lát,33,cũ
+nặng,food,size,21,0.33,age,heavy,fresh,phô mai,5.314933333333333,lát,33,tươi
+tròn,food,shape,22,0.66,nationality,round,american,cà rốt,5.314933333333333,củ,33,Mỹ
+tròn,food,shape,23,0.12,size,round,heavy,táo,5.314933333333333,quả,33,nặng
+màu xanh lá,food,color,24,0.44,size,green,heavy,cà chua,5.314933333333333,quả,33,nặng
+mới,food,age,25,0.83,color,new,green,phô mai,5.314933333333333,lát,33,màu xanh lá
+Pháp,food,nationality,26,0.29,texture,french,soft,cà chua,5.314933333333333,quả,33,mềm
+to,furniture,size,27,0.38,age,big,new,ghế,5.314933333333333,chiếc,33,mới
+nặng,food,size,28,0.68,age,heavy,fresh,chuối,5.314933333333333,quả,33,tươi
+mắc,furniture,quality,3,0.78,texture,expensive,hard,tủ,4.082083333333333,cái,34,rắn
+trơn,food,texture,4,0.69,size,smooth,heavy,phô mai,4.082083333333333,lát,34,nặng
+màu nâu,furniture,color,5,0.74,nationality,brown,german,tủ,4.082083333333333,cái,34,Đức
+rắn,furniture,texture,6,0.74,age,hard,old,ghế,4.082083333333333,chiếc,34,cũ
+tròn,food,shape,7,0.63,texture,round,hard,cà rốt,4.082083333333333,củ,34,rắn
+dài,food,size,8,0.79,color,long,blue,chuối,4.082083333333333,quả,34,màu xanh dương
+màu tím,food,color,9,0.6,size,purple,small,cà rốt,4.082083333333333,củ,34,nhỏ
+màu xanh lá,furniture,color,10,0.57,age,green,new,bàn,4.082083333333333,cái,34,mới
+mới,furniture,age,11,0.55,size,new,small,tủ,4.082083333333333,cái,34,nhỏ
+Pháp,furniture,nationality,12,0.59,quality,french,expensive,bàn,4.082083333333333,cái,34,mắc
+mềm,furniture,texture,13,0.49,color,soft,yellow,tủ,4.082083333333333,cái,34,màu vàng
+ngắn,food,size,14,0.56,age,short,new,cà rốt,4.082083333333333,củ,34,mới
+tệ,furniture,quality,15,0.6,size,bad,light,ghế,4.082083333333333,chiếc,34,nhẹ
+màu vàng,furniture,color,16,0.43,size,yellow,light,bàn,4.082083333333333,cái,34,nhẹ
+mắc,food,quality,17,0.58,color,expensive,purple,phô mai,4.082083333333333,lát,34,màu tím
+tươi,food,age,18,0.6,nationality,fresh,german,phô mai,4.082083333333333,lát,34,Đức
+hư,furniture,age,19,0.5,size,rotten,big,quạt máy,4.082083333333333,chiếc,34,to
+to,furniture,size,20,0.65,age,big,new,bàn,4.082083333333333,cái,34,mới
+ngắn,food,size,21,0.43,nationality,short,german,cà chua,4.082083333333333,quả,34,Đức
+to,furniture,size,22,0.57,age,big,rotten,bàn,4.082083333333333,cái,34,hư
+Mỹ,food,nationality,23,0.55,color,american,blue,cà chua,4.082083333333333,quả,34,màu xanh dương
+dài,food,size,24,0.4,age,long,new,chuối,4.082083333333333,quả,34,mới
+màu xanh dương,furniture,color,25,0.8,texture,blue,smooth,quạt máy,4.082083333333333,chiếc,34,trơn
+tươi,food,age,26,0.56,size,fresh,small,cà chua,4.082083333333333,quả,34,nhỏ
+hư,furniture,age,27,0.53,color,rotten,purple,bàn,4.082083333333333,cái,34,màu tím
+trơn,furniture,texture,28,0.45,size,smooth,short,ghế,4.082083333333333,chiếc,34,ngắn
+tệ,furniture,quality,3,0.66,age,bad,old,ti-vi,5.443616666666666,chiếc,35,cũ
+nhỏ,food,size,4,0.75,age,small,old,cà chua,5.443616666666666,quả,35,cũ
+cũ,furniture,age,5,0.71,shape,old,round,ti-vi,5.443616666666666,chiếc,35,tròn
+tệ,food,quality,6,0.79,age,bad,rotten,chuối,5.443616666666666,quả,35,hư
+màu đỏ,food,color,7,0.69,texture,red,soft,cà chua,5.443616666666666,quả,35,mềm
+Đức,food,nationality,8,0.63,age,german,rotten,phô mai,5.443616666666666,lát,35,hư
+mắc,furniture,quality,9,0.67,nationality,expensive,german,ti-vi,5.443616666666666,chiếc,35,Đức
+dài,food,size,10,0.67,nationality,long,german,phô mai,5.443616666666666,lát,35,Đức
+màu vàng,furniture,color,11,0.62,texture,yellow,smooth,ghế,5.443616666666666,chiếc,35,trơn
+màu đỏ,furniture,color,12,0.63,size,red,light,ti-vi,5.443616666666666,chiếc,35,nhẹ
+màu xanh lá,food,color,13,0.62,size,green,long,cà rốt,5.443616666666666,củ,35,dài
+cũ,furniture,age,14,0.69,size,old,small,ghế,5.443616666666666,chiếc,35,nhỏ
+tươi,food,age,15,0.5,texture,fresh,smooth,cà chua,5.443616666666666,quả,35,trơn
+nặng,furniture,size,16,0.64,age,heavy,fresh,ghế,5.443616666666666,chiếc,35,tươi
+nặng,furniture,size,17,0.57,age,heavy,new,ghế,5.443616666666666,chiếc,35,mới
+cũ,furniture,age,18,0.55,nationality,old,french,ti-vi,5.443616666666666,chiếc,35,Pháp
+Mỹ,furniture,nationality,19,0.6,color,american,green,ti-vi,5.443616666666666,chiếc,35,màu xanh lá
+tươi,furniture,age,20,0.6,size,fresh,light,quạt máy,5.443616666666666,chiếc,35,nhẹ
+dài,furniture,size,21,0.76,texture,long,smooth,ghế,5.443616666666666,chiếc,35,trơn
+nặng,food,size,22,0.58,color,heavy,purple,cà chua,5.443616666666666,quả,35,màu tím
+vuông,food,shape,23,0.66,age,square,rotten,táo,5.443616666666666,quả,35,hư
+mắc,food,quality,24,0.6,texture,expensive,hard,cà chua,5.443616666666666,quả,35,rắn
+nhẹ,furniture,size,25,0.59,texture,light,hard,bàn,5.443616666666666,cái,35,rắn
+màu xanh lá,food,color,26,0.52,size,green,light,phô mai,5.443616666666666,lát,35,nhẹ
+trơn,furniture,texture,27,0.55,size,smooth,small,bàn,5.443616666666666,cái,35,nhỏ
+màu xanh dương,furniture,color,28,0.55,size,blue,short,bàn,5.443616666666666,cái,35,ngắn
+màu tím,furniture,color,3,0.74,age,purple,rotten,ghế,3.2178333333333335,chiếc,36,hư
+tròn,furniture,shape,4,0.86,quality,round,expensive,bàn,3.2178333333333335,cái,36,mắc
+màu đỏ,food,color,5,0.72,nationality,red,german,cà chua,3.2178333333333335,quả,36,Đức
+rắn,food,texture,6,0.84,age,hard,old,chuối,3.2178333333333335,quả,36,cũ
+nặng,food,size,7,0.86,nationality,heavy,french,cà rốt,3.2178333333333335,củ,36,Pháp
+rắn,food,texture,8,0.67,color,hard,brown,cà chua,3.2178333333333335,quả,36,màu nâu
+nhẹ,food,size,9,0.77,age,light,old,phô mai,3.2178333333333335,lát,36,cũ
+màu xanh lá,food,color,10,0.76,shape,green,round,phô mai,3.2178333333333335,lát,36,tròn
+mới,furniture,age,11,0.71,quality,new,expensive,bàn,3.2178333333333335,cái,36,mắc
+dài,furniture,size,12,0.73,texture,long,soft,bàn,3.2178333333333335,cái,36,mềm
+tròn,food,shape,13,0.75,color,round,green,cà chua,3.2178333333333335,quả,36,màu xanh lá
+cũ,food,age,14,0.85,color,old,red,cà rốt,3.2178333333333335,củ,36,màu đỏ
+mắc,food,quality,15,0.72,age,expensive,new,táo,3.2178333333333335,quả,36,mới
+Mỹ,food,nationality,16,0.73,age,american,old,táo,3.2178333333333335,quả,36,cũ
+màu xanh dương,food,color,17,0.93,size,blue,big,chuối,3.2178333333333335,quả,36,to
+nhỏ,food,size,18,0.79,age,small,fresh,cà chua,3.2178333333333335,quả,36,tươi
+Pháp,furniture,nationality,19,0.68,color,french,green,bàn,3.2178333333333335,cái,36,màu xanh lá
+rắn,food,texture,20,0.63,quality,hard,bad,cà rốt,3.2178333333333335,củ,36,tệ
+hư,furniture,age,21,0.74,size,rotten,light,ghế,3.2178333333333335,chiếc,36,nhẹ
+rắn,furniture,texture,22,0.71,shape,hard,square,quạt máy,3.2178333333333335,chiếc,36,vuông
+nhẹ,furniture,size,23,0.78,color,light,red,quạt máy,3.2178333333333335,chiếc,36,màu đỏ
+tròn,food,shape,24,0.63,color,round,blue,cà rốt,3.2178333333333335,củ,36,màu xanh dương
+cũ,furniture,age,25,0.79,size,old,heavy,ti-vi,3.2178333333333335,chiếc,36,nặng
+nặng,food,size,26,0.82,nationality,heavy,american,phô mai,3.2178333333333335,lát,36,Mỹ
+tươi,furniture,age,27,0.76,quality,fresh,expensive,ti-vi,3.2178333333333335,chiếc,36,mắc
+mắc,food,quality,28,0.76,texture,expensive,hard,chuối,3.2178333333333335,quả,36,rắn
+màu xanh dương,food,color,3,0.59,nationality,blue,french,cà rốt,4.354333333333333,củ,37,Pháp
+nặng,food,size,4,0.77,shape,heavy,square,cà chua,4.354333333333333,quả,37,vuông
+to,food,size,5,0.3,age,big,old,chuối,4.354333333333333,quả,37,cũ
+hư,food,age,6,0.72,color,rotten,purple,táo,4.354333333333333,quả,37,màu tím
+nhỏ,food,size,7,0.36,color,small,purple,táo,4.354333333333333,quả,37,màu tím
+rắn,food,texture,8,0.64,nationality,hard,french,táo,4.354333333333333,quả,37,Pháp
+mới,food,age,9,0.65,color,new,blue,chuối,4.354333333333333,quả,37,màu xanh dương
+to,furniture,size,10,0.32,nationality,big,french,tủ,4.354333333333333,cái,37,Pháp
+vuông,furniture,shape,11,0.74,nationality,square,german,quạt máy,4.354333333333333,chiếc,37,Đức
+mắc,furniture,quality,12,0.32,age,expensive,rotten,ghế,4.354333333333333,chiếc,37,hư
+mắc,food,quality,13,0.77,size,expensive,big,táo,4.354333333333333,quả,37,to
+rắn,food,texture,14,0.69,size,hard,small,phô mai,4.354333333333333,lát,37,nhỏ
+màu nâu,furniture,color,15,0.37,size,brown,small,ti-vi,4.354333333333333,chiếc,37,nhỏ
+nhỏ,furniture,size,16,0.66,shape,small,round,quạt máy,4.354333333333333,chiếc,37,tròn
+to,food,size,17,0.53,color,big,yellow,cà rốt,4.354333333333333,củ,37,màu vàng
+mới,food,age,18,0.69,size,new,short,táo,4.354333333333333,quả,37,ngắn
+trơn,food,texture,19,0.66,size,smooth,small,phô mai,4.354333333333333,lát,37,nhỏ
+trơn,furniture,texture,20,0.43,color,smooth,red,ghế,4.354333333333333,chiếc,37,màu đỏ
+màu nâu,furniture,color,21,0.66,shape,brown,round,bàn,4.354333333333333,cái,37,tròn
+nhẹ,food,size,22,0.71,color,light,brown,chuối,4.354333333333333,quả,37,màu nâu
+Mỹ,furniture,nationality,23,0.72,size,american,light,ti-vi,4.354333333333333,chiếc,37,nhẹ
+nặng,furniture,size,24,0.7,color,heavy,yellow,ti-vi,4.354333333333333,chiếc,37,màu vàng
+tươi,furniture,age,25,0.8,shape,fresh,square,ti-vi,4.354333333333333,chiếc,37,vuông
+tươi,food,age,26,0.84,nationality,fresh,german,phô mai,4.354333333333333,lát,37,Đức
+tròn,food,shape,27,0.7,age,round,fresh,chuối,4.354333333333333,quả,37,tươi
+Pháp,food,nationality,28,0.75,shape,french,round,táo,4.354333333333333,quả,37,tròn
+màu vàng,food,color,3,0.33,shape,yellow,square,phô mai,6.752116666666667,lát,38,vuông
+hư,furniture,age,4,0.55,size,rotten,big,bàn,6.752116666666667,cái,38,to
+tệ,furniture,quality,5,0.34,color,bad,yellow,bàn,6.752116666666667,cái,38,màu vàng
+hư,furniture,age,6,0.61,size,rotten,big,bàn,6.752116666666667,cái,38,to
+mới,food,age,7,0.52,size,new,short,cà rốt,6.752116666666667,củ,38,ngắn
+mới,food,age,8,0.23,size,new,light,cà rốt,6.752116666666667,củ,38,nhẹ
+nhẹ,furniture,size,9,0.62,quality,light,bad,tủ,6.752116666666667,cái,38,tệ
+Đức,furniture,nationality,10,0.25,color,german,blue,bàn,6.752116666666667,cái,38,màu xanh dương
+ngắn,food,size,11,0.64,age,short,new,cà chua,6.752116666666667,quả,38,mới
+tươi,furniture,age,12,0.27,size,fresh,heavy,tủ,6.752116666666667,cái,38,nặng
+mắc,furniture,quality,13,0.68,shape,expensive,square,ghế,6.752116666666667,chiếc,38,vuông
+Mỹ,furniture,nationality,14,0.21,age,american,new,quạt máy,6.752116666666667,chiếc,38,mới
+nhẹ,furniture,size,15,0.58,shape,light,square,quạt máy,6.752116666666667,chiếc,38,vuông
+dài,furniture,size,16,0.38,nationality,long,american,tủ,6.752116666666667,cái,38,Mỹ
+nặng,food,size,17,0.72,quality,heavy,bad,phô mai,6.752116666666667,lát,38,tệ
+Mỹ,furniture,nationality,18,0.27,shape,american,round,bàn,6.752116666666667,cái,38,tròn
+trơn,furniture,texture,19,0.69,age,smooth,fresh,bàn,6.752116666666667,cái,38,tươi
+ngắn,food,size,20,0.29,age,short,new,cà rốt,6.752116666666667,củ,38,mới
+ngắn,food,size,21,0.49,color,short,brown,táo,6.752116666666667,quả,38,màu nâu
+Pháp,food,nationality,22,0.22,color,french,purple,táo,6.752116666666667,quả,38,màu tím
+vuông,furniture,shape,23,0.69,nationality,square,american,ti-vi,6.752116666666667,chiếc,38,Mỹ
+trơn,food,texture,24,0.28,color,smooth,yellow,cà rốt,6.752116666666667,củ,38,màu vàng
+cũ,furniture,age,25,0.47,nationality,old,german,ghế,6.752116666666667,chiếc,38,Đức
+màu xanh lá,food,color,26,0.05,nationality,green,french,phô mai,6.752116666666667,lát,38,Pháp
+trơn,food,texture,27,0.71,color,smooth,purple,chuối,6.752116666666667,quả,38,màu tím
+to,furniture,size,28,0.55,nationality,big,french,ghế,6.752116666666667,chiếc,38,Pháp
+rắn,furniture,texture,3,0.91,quality,hard,expensive,ghế,4.6443666666666665,chiếc,39,mắc
+tệ,furniture,quality,4,0.77,color,bad,red,tủ,4.6443666666666665,cái,39,màu đỏ
+vuông,furniture,shape,5,0.63,nationality,square,french,quạt máy,4.6443666666666665,chiếc,39,Pháp
+tròn,food,shape,6,0.8,age,round,new,cà chua,4.6443666666666665,quả,39,mới
+vuông,food,shape,7,0.54,quality,square,bad,phô mai,4.6443666666666665,lát,39,tệ
+vuông,food,shape,8,0.71,texture,square,hard,cà chua,4.6443666666666665,quả,39,rắn
+màu nâu,furniture,color,9,0.89,size,brown,short,ghế,4.6443666666666665,chiếc,39,ngắn
+Đức,furniture,nationality,10,0.74,size,german,light,ghế,4.6443666666666665,chiếc,39,nhẹ
+to,food,size,11,0.58,color,big,purple,cà rốt,4.6443666666666665,củ,39,màu tím
+Pháp,furniture,nationality,12,0.8,color,french,brown,tủ,4.6443666666666665,cái,39,màu nâu
+tệ,furniture,quality,13,0.78,color,bad,blue,tủ,4.6443666666666665,cái,39,màu xanh dương
+mắc,furniture,quality,14,0.88,color,expensive,purple,ghế,4.6443666666666665,chiếc,39,màu tím
+trơn,food,texture,15,0.74,age,smooth,rotten,cà rốt,4.6443666666666665,củ,39,hư
+màu xanh lá,food,color,16,0.62,size,green,heavy,cà chua,4.6443666666666665,quả,39,nặng
+màu xanh lá,food,color,17,0.8,age,green,old,phô mai,4.6443666666666665,lát,39,cũ
+vuông,food,shape,18,0.75,texture,square,smooth,phô mai,4.6443666666666665,lát,39,trơn
+vuông,furniture,shape,19,0.8,quality,square,bad,tủ,4.6443666666666665,cái,39,tệ
+mới,furniture,age,20,0.67,color,new,brown,quạt máy,4.6443666666666665,chiếc,39,màu nâu
+trơn,food,texture,21,0.79,size,smooth,heavy,cà chua,4.6443666666666665,quả,39,nặng
+dài,food,size,22,0.56,age,long,rotten,phô mai,4.6443666666666665,lát,39,hư
+Pháp,food,nationality,23,0.69,shape,french,square,phô mai,4.6443666666666665,lát,39,vuông
+màu xanh dương,food,color,24,0.8,texture,blue,hard,cà rốt,4.6443666666666665,củ,39,rắn
+hư,furniture,age,25,0.89,color,rotten,red,ti-vi,4.6443666666666665,chiếc,39,màu đỏ
+cũ,food,age,26,0.79,size,old,long,chuối,4.6443666666666665,quả,39,dài
+vuông,furniture,shape,27,0.85,size,square,light,ghế,4.6443666666666665,chiếc,39,nhẹ
+màu đỏ,furniture,color,28,0.81,size,red,long,ti-vi,4.6443666666666665,chiếc,39,dài
+mềm,furniture,texture,3,1,size,soft,long,ghế,22.47533333333333,chiếc,40,dài
+trơn,furniture,texture,4,0.81,nationality,smooth,german,ghế,22.47533333333333,chiếc,40,Đức
+tươi,furniture,age,5,0.5,nationality,fresh,german,ghế,22.47533333333333,chiếc,40,Đức
+tệ,food,quality,6,0.16,nationality,bad,american,cà rốt,22.47533333333333,củ,40,Mỹ
+màu nâu,food,color,7,0.6,shape,brown,round,cà rốt,22.47533333333333,củ,40,tròn
+Đức,food,nationality,8,0.47,size,german,light,cà chua,22.47533333333333,quả,40,nhẹ
+Pháp,furniture,nationality,9,0.36,size,french,small,ghế,22.47533333333333,chiếc,40,nhỏ
+trơn,furniture,texture,10,0.37,size,smooth,big,quạt máy,22.47533333333333,chiếc,40,to
+Mỹ,furniture,nationality,11,0.65,size,american,short,bàn,22.47533333333333,cái,40,ngắn
+tròn,food,shape,12,0.34,quality,round,expensive,cà rốt,22.47533333333333,củ,40,mắc
+màu xanh lá,food,color,13,0.69,age,green,fresh,cà chua,22.47533333333333,quả,40,tươi
+vuông,food,shape,14,0.34,nationality,square,german,cà rốt,22.47533333333333,củ,40,Đức
+rắn,food,texture,15,0.44,color,hard,yellow,táo,22.47533333333333,quả,40,màu vàng
+Pháp,furniture,nationality,16,0.29,age,french,fresh,ti-vi,22.47533333333333,chiếc,40,tươi
+vuông,furniture,shape,17,0.31,age,square,new,tủ,22.47533333333333,cái,40,mới
+tròn,furniture,shape,18,0.38,color,round,purple,ti-vi,22.47533333333333,chiếc,40,màu tím
+Pháp,furniture,nationality,19,0.62,shape,french,square,ghế,22.47533333333333,chiếc,40,vuông
+mềm,furniture,texture,20,0.37,size,soft,light,tủ,22.47533333333333,cái,40,nhẹ
+rắn,food,texture,21,0.42,size,hard,small,chuối,22.47533333333333,quả,40,nhỏ
+tươi,food,age,22,0.53,size,fresh,heavy,cà chua,22.47533333333333,quả,40,nặng
+màu xanh lá,furniture,color,23,0.7,texture,green,soft,tủ,22.47533333333333,cái,40,mềm
+cũ,furniture,age,24,0.36,texture,old,soft,tủ,22.47533333333333,cái,40,mềm
+tròn,furniture,shape,25,0.35,nationality,round,american,ti-vi,22.47533333333333,chiếc,40,Mỹ
+nặng,food,size,26,0.42,texture,heavy,smooth,phô mai,22.47533333333333,lát,40,trơn
+màu xanh lá,food,color,27,0.46,quality,green,bad,phô mai,22.47533333333333,lát,40,tệ
+màu vàng,food,color,28,0.47,shape,yellow,round,cà rốt,22.47533333333333,củ,40,tròn
+cũ,furniture,age,3,0.49,quality,old,bad,bàn,2.05545,cái,41,tệ
+nhẹ,food,size,4,0.75,color,light,brown,táo,2.05545,quả,41,màu nâu
+màu xanh dương,food,color,5,0.83,size,blue,small,cà chua,2.05545,quả,41,nhỏ
+Pháp,food,nationality,6,0.45,age,french,new,cà rốt,2.05545,củ,41,mới
+cũ,food,age,7,0.73,color,old,purple,cà chua,2.05545,quả,41,màu tím
+vuông,furniture,shape,8,0.84,color,square,green,quạt máy,2.05545,chiếc,41,màu xanh lá
+Đức,furniture,nationality,9,0.3,quality,german,expensive,ti-vi,2.05545,chiếc,41,mắc
+nặng,food,size,10,0.51,color,heavy,brown,cà chua,2.05545,quả,41,màu nâu
+rắn,furniture,texture,11,0.59,shape,hard,round,quạt máy,2.05545,chiếc,41,tròn
+vuông,food,shape,12,0.79,size,square,light,phô mai,2.05545,lát,41,nhẹ
+mềm,food,texture,13,0.14,color,soft,red,cà rốt,2.05545,củ,41,màu đỏ
+nặng,food,size,14,0.41,shape,heavy,round,cà rốt,2.05545,củ,41,tròn
+mới,food,age,15,0.57,nationality,new,french,phô mai,2.05545,lát,41,Pháp
+tệ,furniture,quality,16,0.7,age,bad,fresh,quạt máy,2.05545,chiếc,41,tươi
+màu đỏ,food,color,17,0.46,size,red,light,phô mai,2.05545,lát,41,nhẹ
+Pháp,furniture,nationality,18,0.74,color,french,purple,bàn,2.05545,cái,41,màu tím
+tệ,food,quality,19,0.37,nationality,bad,french,cà rốt,2.05545,củ,41,Pháp
+hư,furniture,age,20,0.66,nationality,rotten,american,bàn,2.05545,cái,41,Mỹ
+nhỏ,furniture,size,21,0.33,texture,small,smooth,ti-vi,2.05545,chiếc,41,trơn
+nhỏ,food,size,22,0.66,shape,small,round,cà rốt,2.05545,củ,41,tròn
+tươi,furniture,age,23,0.45,color,fresh,yellow,ti-vi,2.05545,chiếc,41,màu vàng
+nặng,food,size,24,0.65,color,heavy,purple,cà chua,2.05545,quả,41,màu tím
+cũ,food,age,25,0.33,texture,old,hard,phô mai,2.05545,lát,41,rắn
+nhẹ,furniture,size,26,0.59,nationality,light,french,ti-vi,2.05545,chiếc,41,Pháp
+nhỏ,furniture,size,27,0.31,color,small,brown,ti-vi,2.05545,chiếc,41,màu nâu
+nhỏ,food,size,28,0.58,quality,small,expensive,phô mai,2.05545,lát,41,mắc
+màu tím,furniture,color,3,0.06,nationality,purple,german,ghế,4.212016666666667,chiếc,42,Đức
+tươi,food,age,4,0.93,texture,fresh,hard,phô mai,4.212016666666667,lát,42,rắn
+Đức,food,nationality,5,0.03,size,german,short,cà rốt,4.212016666666667,củ,42,ngắn
+tươi,food,age,6,0.05,nationality,fresh,american,cà rốt,4.212016666666667,củ,42,Mỹ
+rắn,food,texture,7,0.95,color,hard,yellow,chuối,4.212016666666667,quả,42,màu vàng
+màu vàng,furniture,color,8,0.06,shape,yellow,square,quạt máy,4.212016666666667,chiếc,42,vuông
+Đức,furniture,nationality,9,0.9,size,german,small,tủ,4.212016666666667,cái,42,nhỏ
+Mỹ,food,nationality,10,0.57,quality,american,expensive,phô mai,4.212016666666667,lát,42,mắc
+tươi,food,age,11,0.92,texture,fresh,hard,cà chua,4.212016666666667,quả,42,rắn
+dài,furniture,size,12,0.93,quality,long,expensive,quạt máy,4.212016666666667,chiếc,42,mắc
+màu nâu,furniture,color,13,0.93,size,brown,light,ti-vi,4.212016666666667,chiếc,42,nhẹ
+Pháp,food,nationality,14,0.84,color,french,blue,táo,4.212016666666667,quả,42,màu xanh dương
+tròn,furniture,shape,15,0.85,quality,round,bad,ghế,4.212016666666667,chiếc,42,tệ
+tươi,furniture,age,16,0.78,quality,fresh,bad,ghế,4.212016666666667,chiếc,42,tệ
+vuông,furniture,shape,17,0.02,nationality,square,german,ti-vi,4.212016666666667,chiếc,42,Đức
+màu nâu,furniture,color,18,0.83,texture,brown,soft,ghế,4.212016666666667,chiếc,42,mềm
+trơn,furniture,texture,19,0.89,color,smooth,yellow,tủ,4.212016666666667,cái,42,màu vàng
+vuông,food,shape,20,0.84,age,square,rotten,cà chua,4.212016666666667,quả,42,hư
+hư,food,age,21,0.94,color,rotten,purple,cà chua,4.212016666666667,quả,42,màu tím
+ngắn,food,size,22,0.87,color,short,red,cà rốt,4.212016666666667,củ,42,màu đỏ
+Đức,furniture,nationality,23,0.92,shape,german,round,quạt máy,4.212016666666667,chiếc,42,tròn
+to,furniture,size,24,0.2,texture,big,hard,bàn,4.212016666666667,cái,42,rắn
+mắc,food,quality,25,0.09,size,expensive,long,chuối,4.212016666666667,quả,42,dài
+Đức,furniture,nationality,26,0.05,texture,german,hard,ghế,4.212016666666667,chiếc,42,rắn
+rắn,furniture,texture,27,0.1,age,hard,fresh,bàn,4.212016666666667,cái,42,tươi
+mắc,furniture,quality,28,0.1,size,expensive,short,ti-vi,4.212016666666667,chiếc,42,ngắn
+tròn,furniture,shape,3,0.58,color,round,red,ghế,10.24,chiếc,43,màu đỏ
+dài,furniture,size,4,0.65,quality,long,bad,ghế,10.24,chiếc,43,tệ
+màu nâu,furniture,color,5,0.1,quality,brown,bad,ti-vi,10.24,chiếc,43,tệ
+dài,furniture,size,6,0.77,shape,long,square,ghế,10.24,chiếc,43,vuông
+tròn,furniture,shape,7,0.74,color,round,green,ti-vi,10.24,chiếc,43,màu xanh lá
+tươi,food,age,8,0.82,color,fresh,green,cà rốt,10.24,củ,43,màu xanh lá
+rắn,furniture,texture,9,0.17,color,hard,yellow,ti-vi,10.24,chiếc,43,màu vàng
+nhẹ,furniture,size,10,0.84,shape,light,square,tủ,10.24,cái,43,vuông
+Đức,food,nationality,11,0.2,texture,german,hard,chuối,10.24,quả,43,rắn
+màu xanh dương,furniture,color,12,0.79,age,blue,old,tủ,10.24,cái,43,cũ
+tươi,furniture,age,13,0.22,color,fresh,purple,quạt máy,10.24,chiếc,43,màu tím
+Pháp,food,nationality,14,0.68,texture,french,soft,cà rốt,10.24,củ,43,mềm
+tươi,furniture,age,15,0.36,nationality,fresh,american,tủ,10.24,cái,43,Mỹ
+ngắn,furniture,size,16,0.77,texture,short,smooth,ti-vi,10.24,chiếc,43,trơn
+trơn,furniture,texture,17,0.3,size,smooth,small,quạt máy,10.24,chiếc,43,nhỏ
+tròn,food,shape,18,0.87,size,round,light,phô mai,10.24,lát,43,nhẹ
+tươi,food,age,19,0.18,nationality,fresh,american,táo,10.24,quả,43,Mỹ
+mềm,furniture,texture,20,0.78,size,soft,small,bàn,10.24,cái,43,nhỏ
+nặng,food,size,21,0.08,color,heavy,blue,cà rốt,10.24,củ,43,màu xanh dương
+mềm,furniture,texture,22,0.86,shape,soft,square,quạt máy,10.24,chiếc,43,vuông
+Pháp,furniture,nationality,23,0.16,age,french,rotten,ghế,10.24,chiếc,43,hư
+Đức,furniture,nationality,24,0.82,color,german,green,ghế,10.24,chiếc,43,màu xanh lá
+hư,furniture,age,25,0.3,color,rotten,brown,ghế,10.24,chiếc,43,màu nâu
+màu xanh dương,food,color,26,0.83,shape,blue,round,phô mai,10.24,lát,43,tròn
+màu tím,furniture,color,27,0.09,quality,purple,expensive,ti-vi,10.24,chiếc,43,mắc
+Mỹ,furniture,nationality,28,0.64,size,american,light,quạt máy,10.24,chiếc,43,nhẹ
+màu xanh lá,furniture,color,3,0.33,shape,green,square,ghế,1.8239333333333334,chiếc,44,vuông
+ngắn,furniture,size,4,0.6,age,short,new,tủ,1.8239333333333334,cái,44,mới
+mềm,furniture,texture,5,0.65,size,soft,short,tủ,1.8239333333333334,cái,44,ngắn
+Mỹ,food,nationality,6,0.72,age,american,fresh,táo,1.8239333333333334,quả,44,tươi
+cũ,furniture,age,7,0.65,quality,old,expensive,bàn,1.8239333333333334,cái,44,mắc
+tệ,food,quality,8,0.6,age,bad,old,táo,1.8239333333333334,quả,44,cũ
+cũ,furniture,age,9,0.65,color,old,green,quạt máy,1.8239333333333334,chiếc,44,màu xanh lá
+màu xanh lá,furniture,color,10,0.64,age,green,new,quạt máy,1.8239333333333334,chiếc,44,mới
+mới,food,age,11,0.7,shape,new,round,cà rốt,1.8239333333333334,củ,44,tròn
+màu tím,food,color,12,0.71,shape,purple,round,cà chua,1.8239333333333334,quả,44,tròn
+tươi,food,age,13,0.63,color,fresh,blue,táo,1.8239333333333334,quả,44,màu xanh dương
+hư,furniture,age,14,0.61,nationality,rotten,german,tủ,1.8239333333333334,cái,44,Đức
+màu xanh dương,food,color,15,0.67,size,blue,short,cà chua,1.8239333333333334,quả,44,ngắn
+màu tím,furniture,color,16,0.69,age,purple,rotten,ghế,1.8239333333333334,chiếc,44,hư
+nhỏ,food,size,17,0.7,quality,small,bad,cà chua,1.8239333333333334,quả,44,tệ
+to,food,size,18,0.72,color,big,brown,phô mai,1.8239333333333334,lát,44,màu nâu
+trơn,food,texture,19,0.69,nationality,smooth,american,chuối,1.8239333333333334,quả,44,Mỹ
+Pháp,food,nationality,20,0.65,size,french,heavy,phô mai,1.8239333333333334,lát,44,nặng
+nặng,food,size,21,0.7,shape,heavy,round,phô mai,1.8239333333333334,lát,44,tròn
+mắc,furniture,quality,22,0.64,nationality,expensive,american,ghế,1.8239333333333334,chiếc,44,Mỹ
+tệ,furniture,quality,23,0.69,nationality,bad,american,quạt máy,1.8239333333333334,chiếc,44,Mỹ
+nhỏ,furniture,size,24,0.73,shape,small,round,ghế,1.8239333333333334,chiếc,44,tròn
+tệ,furniture,quality,25,0.68,nationality,bad,american,bàn,1.8239333333333334,cái,44,Mỹ
+ngắn,food,size,26,0.7,shape,short,square,chuối,1.8239333333333334,quả,44,vuông
+cũ,food,age,27,0.76,color,old,green,cà chua,1.8239333333333334,quả,44,màu xanh lá
+màu xanh dương,furniture,color,28,0.66,size,blue,long,quạt máy,1.8239333333333334,chiếc,44,dài
+màu xanh dương,food,color,3,0.38,nationality,blue,german,chuối,3.1042833333333335,quả,45,Đức
+Mỹ,furniture,nationality,4,0.67,age,american,fresh,tủ,3.1042833333333335,cái,45,tươi
+mềm,furniture,texture,5,0.27,age,soft,fresh,quạt máy,3.1042833333333335,chiếc,45,tươi
+Mỹ,furniture,nationality,6,0.73,texture,american,smooth,ti-vi,3.1042833333333335,chiếc,45,trơn
+màu xanh lá,food,color,7,0.29,texture,green,soft,cà chua,3.1042833333333335,quả,45,mềm
+nặng,furniture,size,8,0.66,age,heavy,new,ghế,3.1042833333333335,chiếc,45,mới
+mềm,furniture,texture,9,0.27,nationality,soft,american,tủ,3.1042833333333335,cái,45,Mỹ
+hư,food,age,10,0.76,quality,rotten,bad,táo,3.1042833333333335,quả,45,tệ
+tròn,food,shape,11,0.36,nationality,round,german,phô mai,3.1042833333333335,lát,45,Đức
+tệ,food,quality,12,0.55,nationality,bad,german,cà rốt,3.1042833333333335,củ,45,Đức
+hư,food,age,13,0.19,nationality,rotten,french,chuối,3.1042833333333335,quả,45,Pháp
+mắc,food,quality,14,0.76,color,expensive,brown,cà rốt,3.1042833333333335,củ,45,màu nâu
+hư,furniture,age,15,0.32,texture,rotten,hard,ti-vi,3.1042833333333335,chiếc,45,rắn
+Đức,food,nationality,16,0.59,age,german,rotten,cà rốt,3.1042833333333335,củ,45,hư
+mềm,food,texture,17,0.41,size,soft,big,táo,3.1042833333333335,quả,45,to
+màu nâu,furniture,color,18,0.79,age,brown,new,bàn,3.1042833333333335,cái,45,mới
+trơn,food,texture,19,0.4,size,smooth,heavy,cà chua,3.1042833333333335,quả,45,nặng
+trơn,furniture,texture,20,0.68,size,smooth,long,quạt máy,3.1042833333333335,chiếc,45,dài
+trơn,furniture,texture,21,0.34,shape,smooth,square,bàn,3.1042833333333335,cái,45,vuông
+màu xanh dương,food,color,22,0.67,age,blue,new,chuối,3.1042833333333335,quả,45,mới
+ngắn,food,size,23,0.41,nationality,short,german,phô mai,3.1042833333333335,lát,45,Đức
+cũ,furniture,age,24,0.66,shape,old,square,tủ,3.1042833333333335,cái,45,vuông
+vuông,furniture,shape,25,0.33,quality,square,bad,tủ,3.1042833333333335,cái,45,tệ
+tệ,furniture,quality,26,0.59,texture,bad,smooth,ti-vi,3.1042833333333335,chiếc,45,trơn
+nặng,furniture,size,27,0.3,quality,heavy,bad,tủ,3.1042833333333335,cái,45,tệ
+rắn,furniture,texture,28,0.64,color,hard,green,ghế,3.1042833333333335,chiếc,45,màu xanh lá
+màu xanh lá,food,color,3,0.7,age,green,new,phô mai,9.17895,lát,46,mới
+nặng,food,size,4,0.16,color,heavy,green,cà rốt,9.17895,củ,46,màu xanh lá
+Đức,food,nationality,5,0.74,size,german,light,chuối,9.17895,quả,46,nhẹ
+dài,furniture,size,6,0,nationality,long,american,bàn,9.17895,cái,46,Mỹ
+vuông,food,shape,7,0.91,texture,square,soft,phô mai,9.17895,lát,46,mềm
+tệ,food,quality,8,0.14,texture,bad,smooth,phô mai,9.17895,lát,46,trơn
+tròn,food,shape,9,0.12,nationality,round,american,táo,9.17895,quả,46,Mỹ
+tệ,furniture,quality,10,0.16,shape,bad,round,bàn,9.17895,cái,46,tròn
+Đức,furniture,nationality,11,0.87,texture,german,smooth,quạt máy,9.17895,chiếc,46,trơn
+Pháp,food,nationality,12,0.2,age,french,fresh,cà chua,9.17895,quả,46,tươi
+mới,furniture,age,13,0.07,shape,new,square,ghế,9.17895,chiếc,46,vuông
+mềm,furniture,texture,14,0.81,color,soft,yellow,bàn,9.17895,cái,46,màu vàng
+vuông,food,shape,15,0.86,quality,square,expensive,chuối,9.17895,quả,46,mắc
+màu nâu,food,color,16,0.12,shape,brown,round,táo,9.17895,quả,46,tròn
+trơn,food,texture,17,0.85,size,smooth,small,chuối,9.17895,quả,46,nhỏ
+tệ,furniture,quality,18,0.13,age,bad,old,ti-vi,9.17895,chiếc,46,cũ
+ngắn,furniture,size,19,0.86,quality,short,bad,ti-vi,9.17895,chiếc,46,tệ
+nhỏ,furniture,size,20,0.14,shape,small,square,ghế,9.17895,chiếc,46,vuông
+màu đỏ,furniture,color,21,0,size,red,small,tủ,9.17895,cái,46,nhỏ
+ngắn,furniture,size,22,0.07,nationality,short,french,quạt máy,9.17895,chiếc,46,Pháp
+tệ,food,quality,23,0.08,nationality,bad,american,táo,9.17895,quả,46,Mỹ
+tệ,furniture,quality,24,0.12,shape,bad,square,tủ,9.17895,cái,46,vuông
+tệ,food,quality,25,0.11,size,bad,small,phô mai,9.17895,lát,46,nhỏ
+to,food,size,26,0.11,nationality,big,american,phô mai,9.17895,lát,46,Mỹ
+màu vàng,food,color,27,0.8,quality,yellow,bad,táo,9.17895,quả,46,tệ
+trơn,food,texture,28,0.78,quality,smooth,expensive,cà chua,9.17895,quả,46,mắc
+Đức,furniture,nationality,3,0.81,size,german,small,quạt máy,1.9733166666666666,chiếc,47,nhỏ
+ngắn,furniture,size,4,0.78,nationality,short,american,ghế,1.9733166666666666,chiếc,47,Mỹ
+vuông,food,shape,5,0.91,size,square,heavy,phô mai,1.9733166666666666,lát,47,nặng
+màu nâu,furniture,color,6,0.67,quality,brown,bad,quạt máy,1.9733166666666666,chiếc,47,tệ
+nặng,food,size,7,0.54,age,heavy,fresh,cà chua,1.9733166666666666,quả,47,tươi
+tệ,furniture,quality,8,0.73,color,bad,red,ghế,1.9733166666666666,chiếc,47,màu đỏ
+màu đỏ,furniture,color,9,0.6,size,red,long,ti-vi,1.9733166666666666,chiếc,47,dài
+Đức,food,nationality,10,0.85,size,german,heavy,phô mai,1.9733166666666666,lát,47,nặng
+to,food,size,11,0.73,quality,big,bad,cà rốt,1.9733166666666666,củ,47,tệ
+Mỹ,furniture,nationality,12,0.88,texture,american,smooth,bàn,1.9733166666666666,cái,47,trơn
+màu xanh lá,furniture,color,13,0.66,age,green,rotten,quạt máy,1.9733166666666666,chiếc,47,hư
+mắc,furniture,quality,14,0.75,color,expensive,yellow,bàn,1.9733166666666666,cái,47,màu vàng
+màu xanh dương,food,color,15,0.59,age,blue,new,chuối,1.9733166666666666,quả,47,mới
+ngắn,food,size,16,0.81,nationality,short,french,phô mai,1.9733166666666666,lát,47,Pháp
+dài,food,size,17,0.86,quality,long,bad,chuối,1.9733166666666666,quả,47,tệ
+vuông,furniture,shape,18,0.76,color,square,blue,ghế,1.9733166666666666,chiếc,47,màu xanh dương
+rắn,food,texture,19,0.73,size,hard,long,táo,1.9733166666666666,quả,47,dài
+ngắn,furniture,size,20,0.81,color,short,purple,ghế,1.9733166666666666,chiếc,47,màu tím
+Đức,furniture,nationality,21,0.81,color,german,yellow,quạt máy,1.9733166666666666,chiếc,47,màu vàng
+dài,food,size,22,0.77,color,long,blue,táo,1.9733166666666666,quả,47,màu xanh dương
+mắc,furniture,quality,23,0.87,color,expensive,green,ghế,1.9733166666666666,chiếc,47,màu xanh lá
+tròn,furniture,shape,24,0.76,nationality,round,french,bàn,1.9733166666666666,cái,47,Pháp
+to,food,size,25,0.85,quality,big,bad,cà rốt,1.9733166666666666,củ,47,tệ
+tròn,food,shape,26,0.79,age,round,new,táo,1.9733166666666666,quả,47,mới
+trơn,furniture,texture,27,0.78,size,smooth,short,ghế,1.9733166666666666,chiếc,47,ngắn
+tròn,furniture,shape,28,0.7,color,round,blue,quạt máy,1.9733166666666666,chiếc,47,màu xanh dương
+màu xanh lá,food,color,3,0.85,age,green,fresh,phô mai,8.848366666666667,lát,48,tươi
+nhẹ,food,size,4,0.75,age,light,old,táo,8.848366666666667,quả,48,cũ
+dài,food,size,5,0.63,nationality,long,german,cà chua,8.848366666666667,quả,48,Đức
+màu tím,furniture,color,6,0.8,nationality,purple,american,tủ,8.848366666666667,cái,48,Mỹ
+cũ,furniture,age,7,0.68,shape,old,round,tủ,8.848366666666667,cái,48,tròn
+dài,furniture,size,8,0.57,color,long,purple,bàn,8.848366666666667,cái,48,màu tím
+vuông,furniture,shape,9,0.67,color,square,green,ti-vi,8.848366666666667,chiếc,48,màu xanh lá
+màu vàng,food,color,10,0.85,nationality,yellow,german,chuối,8.848366666666667,quả,48,Đức
+Mỹ,food,nationality,11,0.67,texture,american,soft,cà rốt,8.848366666666667,củ,48,mềm
+vuông,food,shape,12,0.82,size,square,short,chuối,8.848366666666667,quả,48,ngắn
+màu xanh lá,food,color,13,0.72,size,green,long,cà rốt,8.848366666666667,củ,48,dài
+vuông,furniture,shape,14,0.87,size,square,light,ti-vi,8.848366666666667,chiếc,48,nhẹ
+màu xanh lá,furniture,color,15,0.74,quality,green,bad,tủ,8.848366666666667,cái,48,tệ
+màu đỏ,food,color,16,0.84,texture,red,hard,cà chua,8.848366666666667,quả,48,rắn
+màu tím,food,color,17,0.76,size,purple,small,chuối,8.848366666666667,quả,48,nhỏ
+nhẹ,furniture,size,18,0.7,texture,light,smooth,ti-vi,8.848366666666667,chiếc,48,trơn
+màu đỏ,food,color,19,0.85,age,red,new,táo,8.848366666666667,quả,48,mới
+rắn,food,texture,20,0.66,size,hard,heavy,cà chua,8.848366666666667,quả,48,nặng
+Đức,furniture,nationality,21,0.78,texture,german,hard,ti-vi,8.848366666666667,chiếc,48,rắn
+Pháp,furniture,nationality,22,0.68,shape,french,square,tủ,8.848366666666667,cái,48,vuông
+ngắn,furniture,size,23,0.87,color,short,red,ti-vi,8.848366666666667,chiếc,48,màu đỏ
+tệ,food,quality,24,0.74,texture,bad,soft,cà chua,8.848366666666667,quả,48,mềm
+rắn,furniture,texture,25,0.82,size,hard,short,ti-vi,8.848366666666667,chiếc,48,ngắn
+màu xanh lá,food,color,26,0.79,age,green,fresh,phô mai,8.848366666666667,lát,48,tươi
+dài,food,size,27,0.87,texture,long,soft,chuối,8.848366666666667,quả,48,mềm
+nặng,furniture,size,28,0.74,nationality,heavy,french,tủ,8.848366666666667,cái,48,Pháp
+hư,furniture,age,3,0.64,texture,rotten,soft,tủ,8.130733333333334,cái,49,mềm
+Mỹ,food,nationality,4,0.62,texture,american,smooth,chuối,8.130733333333334,quả,49,trơn
+nhỏ,food,size,5,0.37,age,small,fresh,cà chua,8.130733333333334,quả,49,tươi
+tươi,food,age,6,0.53,quality,fresh,expensive,chuối,8.130733333333334,quả,49,mắc
+màu tím,food,color,7,0.73,size,purple,big,cà chua,8.130733333333334,quả,49,to
+vuông,food,shape,8,0.52,size,square,big,cà rốt,8.130733333333334,củ,49,to
+tệ,furniture,quality,9,0.35,age,bad,fresh,bàn,8.130733333333334,cái,49,tươi
+to,furniture,size,10,0.56,shape,big,square,tủ,8.130733333333334,cái,49,vuông
+rắn,food,texture,11,0.7,size,hard,light,táo,8.130733333333334,quả,49,nhẹ
+tròn,furniture,shape,12,0.22,size,round,small,tủ,8.130733333333334,cái,49,nhỏ
+tươi,furniture,age,13,0.57,quality,fresh,expensive,bàn,8.130733333333334,cái,49,mắc
+mềm,food,texture,14,0.74,color,soft,green,cà rốt,8.130733333333334,củ,49,màu xanh lá
+cũ,furniture,age,15,0.39,size,old,short,quạt máy,8.130733333333334,chiếc,49,ngắn
+Pháp,food,nationality,16,0.18,size,french,light,phô mai,8.130733333333334,lát,49,nhẹ
+màu đỏ,furniture,color,17,0.36,age,red,rotten,ti-vi,8.130733333333334,chiếc,49,hư
+ngắn,furniture,size,18,0.77,age,short,fresh,quạt máy,8.130733333333334,chiếc,49,tươi
+rắn,furniture,texture,19,0.54,age,hard,new,bàn,8.130733333333334,cái,49,mới
+nặng,food,size,20,0.35,nationality,heavy,french,chuối,8.130733333333334,quả,49,Pháp
+rắn,furniture,texture,21,0.48,nationality,hard,american,ghế,8.130733333333334,chiếc,49,Mỹ
+tệ,furniture,quality,22,0.69,nationality,bad,french,quạt máy,8.130733333333334,chiếc,49,Pháp
+tươi,furniture,age,23,0.7,size,fresh,small,tủ,8.130733333333334,cái,49,nhỏ
+Pháp,food,nationality,24,0.53,age,french,fresh,táo,8.130733333333334,quả,49,tươi
+màu nâu,furniture,color,25,0.75,quality,brown,bad,bàn,8.130733333333334,cái,49,tệ
+mềm,furniture,texture,26,0.54,size,soft,long,ti-vi,8.130733333333334,chiếc,49,dài
+Đức,furniture,nationality,27,0.65,size,german,heavy,ti-vi,8.130733333333334,chiếc,49,nặng
+tươi,food,age,28,0.51,color,fresh,brown,phô mai,8.130733333333334,lát,49,màu nâu
+mới,furniture,age,3,0.74,nationality,new,american,bàn,8.0073,cái,50,Mỹ
+màu vàng,food,color,4,0.1,texture,yellow,smooth,phô mai,8.0073,lát,50,trơn
+tròn,food,shape,5,0.07,texture,round,soft,táo,8.0073,quả,50,mềm
+cũ,food,age,6,0.92,quality,old,bad,cà rốt,8.0073,củ,50,tệ
+Pháp,food,nationality,7,0,texture,french,smooth,chuối,8.0073,quả,50,trơn
+Pháp,food,nationality,8,0,shape,french,round,táo,8.0073,quả,50,tròn
+màu tím,furniture,color,9,0,shape,purple,round,ti-vi,8.0073,chiếc,50,tròn
+dài,furniture,size,10,0.05,nationality,long,german,tủ,8.0073,cái,50,Đức
+mắc,food,quality,11,0.07,size,expensive,heavy,cà chua,8.0073,quả,50,nặng
+tươi,furniture,age,12,0.07,size,fresh,heavy,quạt máy,8.0073,chiếc,50,nặng
+mắc,food,quality,13,0.95,color,expensive,purple,cà chua,8.0073,quả,50,màu tím
+dài,food,size,14,0.95,color,long,green,phô mai,8.0073,lát,50,màu xanh lá
+to,food,size,15,0.05,nationality,big,french,phô mai,8.0073,lát,50,Pháp
+vuông,food,shape,16,0.07,quality,square,expensive,chuối,8.0073,quả,50,mắc
+màu nâu,furniture,color,17,0.08,size,brown,small,quạt máy,8.0073,chiếc,50,nhỏ
+dài,food,size,18,0.97,color,long,green,cà chua,8.0073,quả,50,màu xanh lá
+mềm,furniture,texture,19,0.07,age,soft,rotten,bàn,8.0073,cái,50,hư
+hư,food,age,20,0.99,color,rotten,purple,táo,8.0073,quả,50,màu tím
+Đức,furniture,nationality,21,0.95,color,german,brown,quạt máy,8.0073,chiếc,50,màu nâu
+Mỹ,food,nationality,22,0.06,quality,american,expensive,cà chua,8.0073,quả,50,mắc
+nhẹ,food,size,23,0.05,texture,light,smooth,chuối,8.0073,quả,50,trơn
+mới,furniture,age,24,0.06,size,new,short,tủ,8.0073,cái,50,ngắn
+nhẹ,furniture,size,25,0.06,texture,light,smooth,tủ,8.0073,cái,50,trơn
+tươi,food,age,26,0.96,shape,fresh,square,chuối,8.0073,quả,50,vuông
+màu xanh lá,food,color,27,0.03,size,green,big,cà rốt,8.0073,củ,50,to
+tròn,furniture,shape,28,0.98,color,round,brown,ti-vi,8.0073,chiếc,50,màu nâu
+cũ,furniture,age,3,0.42,quality,old,bad,tủ,2.157766666666667,cái,51,tệ
+mới,food,age,4,0.54,nationality,new,american,chuối,2.157766666666667,quả,51,Mỹ
+vuông,food,shape,5,0.61,color,square,blue,cà rốt,2.157766666666667,củ,51,màu xanh dương
+Pháp,food,nationality,6,0.51,color,french,yellow,chuối,2.157766666666667,quả,51,màu vàng
+tệ,food,quality,7,0.41,texture,bad,hard,chuối,2.157766666666667,quả,51,rắn
+vuông,food,shape,8,0.58,color,square,red,chuối,2.157766666666667,quả,51,màu đỏ
+tươi,food,age,9,0.56,color,fresh,blue,phô mai,2.157766666666667,lát,51,màu xanh dương
+màu tím,furniture,color,10,0.65,size,purple,big,bàn,2.157766666666667,cái,51,to
+dài,food,size,11,0.57,age,long,new,phô mai,2.157766666666667,lát,51,mới
+vuông,food,shape,12,0.61,size,square,big,táo,2.157766666666667,quả,51,to
+Đức,food,nationality,13,0.67,texture,german,hard,phô mai,2.157766666666667,lát,51,rắn
+to,food,size,14,0.67,nationality,big,american,cà rốt,2.157766666666667,củ,51,Mỹ
+tròn,furniture,shape,15,0.36,quality,round,bad,tủ,2.157766666666667,cái,51,tệ
+màu xanh dương,food,color,16,0.63,quality,blue,expensive,cà chua,2.157766666666667,quả,51,mắc
+Đức,furniture,nationality,17,0.55,color,german,purple,ti-vi,2.157766666666667,chiếc,51,màu tím
+cũ,food,age,18,0.53,color,old,purple,cà rốt,2.157766666666667,củ,51,màu tím
+màu nâu,furniture,color,19,0.57,texture,brown,soft,tủ,2.157766666666667,cái,51,mềm
+hư,furniture,age,20,0.49,texture,rotten,soft,ghế,2.157766666666667,chiếc,51,mềm
+tròn,food,shape,21,0.49,color,round,yellow,chuối,2.157766666666667,quả,51,màu vàng
+màu xanh dương,furniture,color,22,0.62,age,blue,old,ghế,2.157766666666667,chiếc,51,cũ
+nhẹ,food,size,23,0.57,color,light,blue,cà rốt,2.157766666666667,củ,51,màu xanh dương
+nhẹ,furniture,size,24,0.61,color,light,red,ti-vi,2.157766666666667,chiếc,51,màu đỏ
+tệ,food,quality,25,0.6,age,bad,old,phô mai,2.157766666666667,lát,51,cũ
+màu vàng,food,color,26,0.52,shape,yellow,round,táo,2.157766666666667,quả,51,tròn
+tệ,food,quality,27,0.59,age,bad,new,phô mai,2.157766666666667,lát,51,mới
+ngắn,food,size,28,0.3,texture,short,soft,chuối,2.157766666666667,quả,51,mềm
+cũ,furniture,age,3,0.03,size,old,light,quạt máy,2.4939666666666667,chiếc,52,nhẹ
+mới,furniture,age,4,0.08,color,new,red,quạt máy,2.4939666666666667,chiếc,52,màu đỏ
+nặng,food,size,5,0.9,color,heavy,yellow,chuối,2.4939666666666667,quả,52,màu vàng
+Pháp,furniture,nationality,6,0.98,age,french,rotten,tủ,2.4939666666666667,cái,52,hư
+Mỹ,food,nationality,7,0.5,color,american,brown,táo,2.4939666666666667,quả,52,màu nâu
+to,food,size,8,0.61,texture,big,smooth,cà rốt,2.4939666666666667,củ,52,trơn
+tệ,furniture,quality,9,0.64,size,bad,heavy,tủ,2.4939666666666667,cái,52,nặng
+cũ,food,age,10,0.3,texture,old,hard,cà chua,2.4939666666666667,quả,52,rắn
+tròn,food,shape,11,0.19,texture,round,smooth,táo,2.4939666666666667,quả,52,trơn
+màu đỏ,food,color,12,0.79,age,red,fresh,cà chua,2.4939666666666667,quả,52,tươi
+màu xanh lá,food,color,13,0.91,size,green,light,cà rốt,2.4939666666666667,củ,52,nhẹ
+màu đỏ,food,color,14,0.57,shape,red,square,chuối,2.4939666666666667,quả,52,vuông
+màu vàng,food,color,15,0.66,size,yellow,small,táo,2.4939666666666667,quả,52,nhỏ
+vuông,furniture,shape,16,0.48,size,square,heavy,bàn,2.4939666666666667,cái,52,nặng
+trơn,furniture,texture,17,0.68,size,smooth,big,tủ,2.4939666666666667,cái,52,to
+màu đỏ,furniture,color,18,0.85,quality,red,expensive,ghế,2.4939666666666667,chiếc,52,mắc
+ngắn,furniture,size,19,0.11,quality,short,expensive,ghế,2.4939666666666667,chiếc,52,mắc
+tươi,food,age,20,0.12,size,fresh,short,phô mai,2.4939666666666667,lát,52,ngắn
+nặng,furniture,size,21,0.13,color,heavy,blue,tủ,2.4939666666666667,cái,52,màu xanh dương
+tươi,furniture,age,22,0.85,color,fresh,purple,tủ,2.4939666666666667,cái,52,màu tím
+Đức,food,nationality,23,0.51,color,german,purple,phô mai,2.4939666666666667,lát,52,màu tím
+hư,furniture,age,24,0.51,size,rotten,light,ti-vi,2.4939666666666667,chiếc,52,nhẹ
+Mỹ,food,nationality,25,0.78,shape,american,round,chuối,2.4939666666666667,quả,52,tròn
+cũ,food,age,26,0.79,color,old,brown,chuối,2.4939666666666667,quả,52,màu nâu
+rắn,food,texture,27,0.83,nationality,hard,french,chuối,2.4939666666666667,quả,52,Pháp
+ngắn,food,size,28,0.84,quality,short,expensive,phô mai,2.4939666666666667,lát,52,mắc
+trơn,furniture,texture,3,0.45,size,smooth,heavy,ghế,0.9919333333333333,chiếc,53,nặng
+Đức,furniture,nationality,4,0.27,size,german,big,ghế,0.9919333333333333,chiếc,53,to
+Pháp,furniture,nationality,5,0.48,size,french,long,bàn,0.9919333333333333,cái,53,dài
+tròn,furniture,shape,6,0.29,size,round,long,ti-vi,0.9919333333333333,chiếc,53,dài
+trơn,furniture,texture,7,0.31,shape,smooth,square,ghế,0.9919333333333333,chiếc,53,vuông
+Mỹ,furniture,nationality,8,0.32,texture,american,hard,quạt máy,0.9919333333333333,chiếc,53,rắn
+Mỹ,food,nationality,9,0.38,color,american,red,cà rốt,0.9919333333333333,củ,53,màu đỏ
+nhẹ,furniture,size,10,0.24,color,light,brown,ti-vi,0.9919333333333333,chiếc,53,màu nâu
+mắc,furniture,quality,11,0.42,age,expensive,new,quạt máy,0.9919333333333333,chiếc,53,mới
+tệ,furniture,quality,12,0.61,color,bad,green,ghế,0.9919333333333333,chiếc,53,màu xanh lá
+màu xanh lá,furniture,color,13,0.7,size,green,small,tủ,0.9919333333333333,cái,53,nhỏ
+màu xanh lá,furniture,color,14,0.5,nationality,green,german,ghế,0.9919333333333333,chiếc,53,Đức
+Đức,furniture,nationality,15,0.23,color,german,green,ti-vi,0.9919333333333333,chiếc,53,màu xanh lá
+Đức,furniture,nationality,16,0.36,age,german,rotten,bàn,0.9919333333333333,cái,53,hư
+nhỏ,furniture,size,17,0.51,quality,small,bad,tủ,0.9919333333333333,cái,53,tệ
+ngắn,furniture,size,18,0.38,color,short,brown,bàn,0.9919333333333333,cái,53,màu nâu
+nhỏ,furniture,size,19,0.67,nationality,small,french,bàn,0.9919333333333333,cái,53,Pháp
+tròn,furniture,shape,20,0.49,size,round,light,bàn,0.9919333333333333,cái,53,nhẹ
+tệ,food,quality,21,0.3,texture,bad,soft,táo,0.9919333333333333,quả,53,mềm
+tròn,furniture,shape,22,0.21,size,round,small,quạt máy,0.9919333333333333,chiếc,53,nhỏ
+nhỏ,furniture,size,23,0.44,nationality,small,american,ti-vi,0.9919333333333333,chiếc,53,Mỹ
+Đức,food,nationality,24,0.78,size,german,short,táo,0.9919333333333333,quả,53,ngắn
+mới,furniture,age,25,0.82,shape,new,square,quạt máy,0.9919333333333333,chiếc,53,vuông
+mới,furniture,age,26,0.7,color,new,blue,ghế,0.9919333333333333,chiếc,53,màu xanh dương
+dài,food,size,27,0.56,nationality,long,american,phô mai,0.9919333333333333,lát,53,Mỹ
+tươi,furniture,age,28,0.13,color,fresh,red,ti-vi,0.9919333333333333,chiếc,53,màu đỏ
+hư,food,age,3,0.75,color,rotten,yellow,cà rốt,5.087,củ,54,màu vàng
+mới,furniture,age,4,0.58,texture,new,soft,quạt máy,5.087,chiếc,54,mềm
+màu nâu,furniture,color,5,0.86,size,brown,light,quạt máy,5.087,chiếc,54,nhẹ
+mắc,food,quality,6,0.18,age,expensive,fresh,chuối,5.087,quả,54,tươi
+mềm,food,texture,7,0.82,quality,soft,expensive,cà chua,5.087,quả,54,mắc
+mềm,food,texture,8,0.31,quality,soft,bad,cà rốt,5.087,củ,54,tệ
+tròn,food,shape,9,0.85,size,round,light,táo,5.087,quả,54,nhẹ
+Đức,furniture,nationality,10,0.12,age,german,rotten,ghế,5.087,chiếc,54,hư
+ngắn,food,size,11,0.87,color,short,blue,phô mai,5.087,lát,54,màu xanh dương
+Mỹ,food,nationality,12,0.38,color,american,yellow,táo,5.087,quả,54,màu vàng
+rắn,food,texture,13,0.8,nationality,hard,german,chuối,5.087,quả,54,Đức
+tròn,food,shape,14,0.42,size,round,light,cà rốt,5.087,củ,54,nhẹ
+tươi,food,age,15,0.71,size,fresh,long,chuối,5.087,quả,54,dài
+ngắn,food,size,16,0.5,age,short,rotten,táo,5.087,quả,54,hư
+màu nâu,food,color,17,0.78,age,brown,fresh,táo,5.087,quả,54,tươi
+Mỹ,furniture,nationality,18,0.34,color,american,purple,ti-vi,5.087,chiếc,54,màu tím
+màu xanh lá,furniture,color,19,0.9,size,green,small,quạt máy,5.087,chiếc,54,nhỏ
+Pháp,furniture,nationality,20,0.31,texture,french,hard,bàn,5.087,cái,54,rắn
+mềm,food,texture,21,0.51,color,soft,red,cà chua,5.087,quả,54,màu đỏ
+mềm,food,texture,22,0.82,color,soft,green,phô mai,5.087,lát,54,màu xanh lá
+Đức,food,nationality,23,0.5,size,german,heavy,cà chua,5.087,quả,54,nặng
+mềm,food,texture,24,0.89,size,soft,light,cà chua,5.087,quả,54,nhẹ
+dài,furniture,size,25,0.44,shape,long,round,bàn,5.087,cái,54,tròn
+nặng,furniture,size,26,0.8,quality,heavy,bad,quạt máy,5.087,chiếc,54,tệ
+tươi,food,age,27,0.38,size,fresh,light,cà rốt,5.087,củ,54,nhẹ
+ngắn,furniture,size,28,0.68,color,short,green,bàn,5.087,cái,54,màu xanh lá
+hư,furniture,age,3,0.71,shape,rotten,round,tủ,3.49995,cái,55,tròn
+trơn,furniture,texture,4,0.86,color,smooth,green,ti-vi,3.49995,chiếc,55,màu xanh lá
+màu nâu,furniture,color,5,0.74,age,brown,new,quạt máy,3.49995,chiếc,55,mới
+màu nâu,food,color,6,0.55,size,brown,light,chuối,3.49995,quả,55,nhẹ
+Mỹ,food,nationality,7,0.51,color,american,green,chuối,3.49995,quả,55,màu xanh lá
+cũ,furniture,age,8,0.64,shape,old,round,ghế,3.49995,chiếc,55,tròn
+Pháp,furniture,nationality,9,0.82,age,french,old,quạt máy,3.49995,chiếc,55,cũ
+tệ,furniture,quality,10,0.49,color,bad,blue,tủ,3.49995,cái,55,màu xanh dương
+hư,furniture,age,11,0.51,color,rotten,brown,quạt máy,3.49995,chiếc,55,màu nâu
+cũ,food,age,12,0.55,color,old,blue,phô mai,3.49995,lát,55,màu xanh dương
+màu xanh dương,furniture,color,13,0.72,quality,blue,bad,ti-vi,3.49995,chiếc,55,tệ
+trơn,food,texture,14,0.63,age,smooth,old,cà chua,3.49995,quả,55,cũ
+tươi,food,age,15,0.59,color,fresh,green,táo,3.49995,quả,55,màu xanh lá
+màu xanh dương,food,color,16,0.68,shape,blue,round,phô mai,3.49995,lát,55,tròn
+trơn,food,texture,17,0.68,quality,smooth,expensive,cà chua,3.49995,quả,55,mắc
+nhỏ,furniture,size,18,0.65,color,small,red,bàn,3.49995,cái,55,màu đỏ
+vuông,furniture,shape,19,0.29,size,square,small,ghế,3.49995,chiếc,55,nhỏ
+tươi,furniture,age,20,0.63,color,fresh,yellow,bàn,3.49995,cái,55,màu vàng
+hư,furniture,age,21,0.67,texture,rotten,soft,quạt máy,3.49995,chiếc,55,mềm
+nặng,food,size,22,0.54,texture,heavy,hard,táo,3.49995,quả,55,rắn
+màu xanh dương,furniture,color,23,0.67,size,blue,small,ti-vi,3.49995,chiếc,55,nhỏ
+cũ,furniture,age,24,0.68,color,old,red,quạt máy,3.49995,chiếc,55,màu đỏ
+màu nâu,food,color,25,0.68,size,brown,long,cà chua,3.49995,quả,55,dài
+Mỹ,furniture,nationality,26,0.62,shape,american,round,ti-vi,3.49995,chiếc,55,tròn
+rắn,furniture,texture,27,0.92,shape,hard,round,ghế,3.49995,chiếc,55,tròn
+to,furniture,size,28,0.58,color,big,yellow,ghế,3.49995,chiếc,55,màu vàng
+hư,furniture,age,3,0.76,nationality,rotten,american,ghế,26.295983333333332,chiếc,56,Mỹ
+màu xanh dương,furniture,color,4,1,size,blue,short,ghế,26.295983333333332,chiếc,56,ngắn
+trơn,food,texture,5,1,color,smooth,yellow,phô mai,26.295983333333332,lát,56,màu vàng
+Mỹ,furniture,nationality,6,1,quality,american,expensive,ti-vi,26.295983333333332,chiếc,56,mắc
+trơn,food,texture,7,1,age,smooth,old,cà chua,26.295983333333332,quả,56,cũ
+trơn,food,texture,8,1,size,smooth,big,cà rốt,26.295983333333332,củ,56,to
+tươi,furniture,age,9,0.05,quality,fresh,expensive,bàn,26.295983333333332,cái,56,mắc
+tròn,food,shape,10,0,nationality,round,german,táo,26.295983333333332,quả,56,Đức
+màu đỏ,furniture,color,11,1,age,red,fresh,ghế,26.295983333333332,chiếc,56,tươi
+tròn,furniture,shape,12,1,nationality,round,german,ti-vi,26.295983333333332,chiếc,56,Đức
+cũ,food,age,13,1,color,old,blue,phô mai,26.295983333333332,lát,56,màu xanh dương
+tệ,food,quality,14,0.03,size,bad,short,cà rốt,26.295983333333332,củ,56,ngắn
+nhỏ,furniture,size,15,0,nationality,small,german,tủ,26.295983333333332,cái,56,Đức
+Pháp,furniture,nationality,16,0.99,size,french,heavy,ti-vi,26.295983333333332,chiếc,56,nặng
+trơn,food,texture,17,1,color,smooth,purple,cà chua,26.295983333333332,quả,56,màu tím
+mắc,furniture,quality,18,0.94,nationality,expensive,american,ghế,26.295983333333332,chiếc,56,Mỹ
+Pháp,furniture,nationality,19,0.95,texture,french,smooth,bàn,26.295983333333332,cái,56,trơn
+nhỏ,furniture,size,20,1,texture,small,smooth,ti-vi,26.295983333333332,chiếc,56,trơn
+rắn,furniture,texture,21,0.01,nationality,hard,french,tủ,26.295983333333332,cái,56,Pháp
+tròn,furniture,shape,22,0.97,color,round,green,quạt máy,26.295983333333332,chiếc,56,màu xanh lá
+trơn,food,texture,23,0.99,nationality,smooth,french,phô mai,26.295983333333332,lát,56,Pháp
+màu tím,food,color,24,0.96,quality,purple,expensive,táo,26.295983333333332,quả,56,mắc
+mới,furniture,age,25,0.95,quality,new,bad,quạt máy,26.295983333333332,chiếc,56,tệ
+rắn,food,texture,26,1,age,hard,new,phô mai,26.295983333333332,lát,56,mới
+màu nâu,furniture,color,27,1,size,brown,long,bàn,26.295983333333332,cái,56,dài
+rắn,furniture,texture,28,1,age,hard,rotten,tủ,26.295983333333332,cái,56,hư
+nhỏ,food,size,3,0.34,nationality,small,american,cà rốt,2.5035333333333334,củ,57,Mỹ
+cũ,furniture,age,4,0.8,color,old,purple,ti-vi,2.5035333333333334,chiếc,57,màu tím
+màu tím,furniture,color,5,0.49,size,purple,big,tủ,2.5035333333333334,cái,57,to
+rắn,furniture,texture,6,0.87,color,hard,green,ghế,2.5035333333333334,chiếc,57,màu xanh lá
+màu xanh lá,furniture,color,7,0.63,quality,green,bad,ti-vi,2.5035333333333334,chiếc,57,tệ
+màu xanh lá,food,color,8,0.56,quality,green,bad,cà rốt,2.5035333333333334,củ,57,tệ
+to,food,size,9,0.84,color,big,blue,phô mai,2.5035333333333334,lát,57,màu xanh dương
+ngắn,furniture,size,10,0.31,texture,short,hard,bàn,2.5035333333333334,cái,57,rắn
+màu xanh dương,furniture,color,11,0.88,age,blue,fresh,bàn,2.5035333333333334,cái,57,tươi
+mềm,food,texture,12,0.67,shape,soft,square,phô mai,2.5035333333333334,lát,57,vuông
+nhẹ,food,size,13,0.85,color,light,brown,cà chua,2.5035333333333334,quả,57,màu nâu
+Mỹ,furniture,nationality,14,0.49,texture,american,soft,bàn,2.5035333333333334,cái,57,mềm
+mềm,furniture,texture,15,0.89,size,soft,short,quạt máy,2.5035333333333334,chiếc,57,ngắn
+màu xanh dương,food,color,16,0.62,size,blue,heavy,táo,2.5035333333333334,quả,57,nặng
+màu nâu,furniture,color,17,0.8,size,brown,big,tủ,2.5035333333333334,cái,57,to
+màu xanh lá,furniture,color,18,0.59,quality,green,bad,quạt máy,2.5035333333333334,chiếc,57,tệ
+cũ,food,age,19,0.88,color,old,red,cà rốt,2.5035333333333334,củ,57,màu đỏ
+vuông,food,shape,20,0.66,color,square,blue,cà chua,2.5035333333333334,quả,57,màu xanh dương
+mềm,food,texture,21,0.74,color,soft,brown,cà chua,2.5035333333333334,quả,57,màu nâu
+tròn,furniture,shape,22,0.62,age,round,fresh,tủ,2.5035333333333334,cái,57,tươi
+cũ,food,age,23,0.76,nationality,old,american,cà rốt,2.5035333333333334,củ,57,Mỹ
+nặng,furniture,size,24,0.54,color,heavy,purple,tủ,2.5035333333333334,cái,57,màu tím
+mềm,food,texture,25,0.76,size,soft,small,chuối,2.5035333333333334,quả,57,nhỏ
+hư,furniture,age,26,0.83,texture,rotten,soft,ghế,2.5035333333333334,chiếc,57,mềm
+Pháp,food,nationality,27,0.68,size,french,light,táo,2.5035333333333334,quả,57,nhẹ
+vuông,furniture,shape,28,0.8,size,square,big,tủ,2.5035333333333334,cái,57,to
+mềm,food,texture,3,0.54,color,soft,purple,cà rốt,3.296133333333333,củ,58,màu tím
+nhỏ,food,size,4,0.46,nationality,small,american,chuối,3.296133333333333,quả,58,Mỹ
+mềm,furniture,texture,5,0.61,color,soft,brown,tủ,3.296133333333333,cái,58,màu nâu
+nhỏ,food,size,6,0.54,quality,small,bad,cà chua,3.296133333333333,quả,58,tệ
+trơn,food,texture,7,0.58,color,smooth,red,chuối,3.296133333333333,quả,58,màu đỏ
+màu xanh lá,furniture,color,8,0.87,size,green,small,ti-vi,3.296133333333333,chiếc,58,nhỏ
+Đức,food,nationality,9,0.39,color,german,brown,cà rốt,3.296133333333333,củ,58,màu nâu
+mềm,food,texture,10,0.46,shape,soft,round,cà chua,3.296133333333333,quả,58,tròn
+trơn,food,texture,11,0.42,color,smooth,green,phô mai,3.296133333333333,lát,58,màu xanh lá
+to,furniture,size,12,0.79,color,big,purple,ti-vi,3.296133333333333,chiếc,58,màu tím
+mềm,food,texture,13,0.32,color,soft,purple,táo,3.296133333333333,quả,58,màu tím
+trơn,furniture,texture,14,0.53,size,smooth,long,quạt máy,3.296133333333333,chiếc,58,dài
+màu vàng,furniture,color,15,0.64,size,yellow,heavy,ghế,3.296133333333333,chiếc,58,nặng
+trơn,furniture,texture,16,0.52,color,smooth,blue,quạt máy,3.296133333333333,chiếc,58,màu xanh dương
+màu vàng,furniture,color,17,0.46,size,yellow,heavy,bàn,3.296133333333333,cái,58,nặng
+trơn,furniture,texture,18,0.65,quality,smooth,expensive,ghế,3.296133333333333,chiếc,58,mắc
+tươi,furniture,age,19,0.37,nationality,fresh,french,bàn,3.296133333333333,cái,58,Pháp
+màu tím,food,color,20,0.66,age,purple,new,chuối,3.296133333333333,quả,58,mới
+màu tím,food,color,21,0.47,age,purple,rotten,phô mai,3.296133333333333,lát,58,hư
+mắc,food,quality,22,0.6,color,expensive,yellow,chuối,3.296133333333333,quả,58,màu vàng
+tròn,food,shape,23,0.55,size,round,short,cà rốt,3.296133333333333,củ,58,ngắn
+mềm,food,texture,24,0.77,size,soft,long,chuối,3.296133333333333,quả,58,dài
+nhỏ,food,size,25,0.37,color,small,blue,táo,3.296133333333333,quả,58,màu xanh dương
+màu xanh lá,food,color,26,0.53,age,green,new,cà rốt,3.296133333333333,củ,58,mới
+Pháp,furniture,nationality,27,0.51,color,french,blue,tủ,3.296133333333333,cái,58,màu xanh dương
+ngắn,food,size,28,0.48,age,short,fresh,chuối,3.296133333333333,quả,58,tươi
+Đức,furniture,nationality,3,0.8,color,german,brown,bàn,2.6651666666666665,cái,59,màu nâu
+màu xanh lá,furniture,color,4,0.22,texture,green,soft,quạt máy,2.6651666666666665,chiếc,59,mềm
+nhỏ,furniture,size,5,0.89,texture,small,hard,bàn,2.6651666666666665,cái,59,rắn
+tệ,furniture,quality,6,0.05,size,bad,short,quạt máy,2.6651666666666665,chiếc,59,ngắn
+rắn,food,texture,7,0.87,shape,hard,round,phô mai,2.6651666666666665,lát,59,tròn
+dài,food,size,8,0.12,nationality,long,american,táo,2.6651666666666665,quả,59,Mỹ
+nặng,food,size,9,0.87,quality,heavy,expensive,chuối,2.6651666666666665,quả,59,mắc
+mới,food,age,10,0.17,size,new,big,chuối,2.6651666666666665,quả,59,to
+mềm,food,texture,11,0.82,size,soft,heavy,phô mai,2.6651666666666665,lát,59,nặng
+mắc,food,quality,12,0.18,color,expensive,brown,cà rốt,2.6651666666666665,củ,59,màu nâu
+mới,furniture,age,13,0.87,color,new,blue,bàn,2.6651666666666665,cái,59,màu xanh dương
+tươi,furniture,age,14,0.21,color,fresh,brown,ghế,2.6651666666666665,chiếc,59,màu nâu
+tươi,food,age,15,0.88,size,fresh,long,cà rốt,2.6651666666666665,củ,59,dài
+Mỹ,furniture,nationality,16,0.15,age,american,old,tủ,2.6651666666666665,cái,59,cũ
+nặng,food,size,17,0.86,color,heavy,purple,cà rốt,2.6651666666666665,củ,59,màu tím
+Pháp,furniture,nationality,18,0.17,size,french,short,tủ,2.6651666666666665,cái,59,ngắn
+mắc,furniture,quality,19,0.88,age,expensive,rotten,tủ,2.6651666666666665,cái,59,hư
+mềm,food,texture,20,0.12,shape,soft,round,chuối,2.6651666666666665,quả,59,tròn
+tệ,food,quality,21,0.87,size,bad,heavy,chuối,2.6651666666666665,quả,59,nặng
+Đức,food,nationality,22,0.15,size,german,big,chuối,2.6651666666666665,quả,59,to
+màu xanh dương,furniture,color,23,0.85,size,blue,big,ghế,2.6651666666666665,chiếc,59,to
+vuông,furniture,shape,24,0.13,color,square,brown,bàn,2.6651666666666665,cái,59,màu nâu
+nhỏ,food,size,25,0.91,age,small,old,phô mai,2.6651666666666665,lát,59,cũ
+Mỹ,furniture,nationality,26,0.18,texture,american,hard,tủ,2.6651666666666665,cái,59,rắn
+tươi,furniture,age,27,0.87,color,fresh,purple,quạt máy,2.6651666666666665,chiếc,59,màu tím
+nhẹ,food,size,28,0.09,color,light,green,táo,2.6651666666666665,quả,59,màu xanh lá
+màu xanh dương,food,color,3,0.51,quality,blue,bad,cà rốt,14.27075,củ,60,tệ
+màu nâu,furniture,color,4,1,size,brown,long,ghế,14.27075,chiếc,60,dài
+tệ,furniture,quality,5,0.48,age,bad,rotten,ghế,14.27075,chiếc,60,hư
+mắc,furniture,quality,6,0.33,size,expensive,long,ghế,14.27075,chiếc,60,dài
+tròn,furniture,shape,7,0.95,size,round,small,tủ,14.27075,cái,60,nhỏ
+màu xanh dương,food,color,8,0.96,size,blue,big,phô mai,14.27075,lát,60,to
+vuông,food,shape,9,0.47,age,square,new,táo,14.27075,quả,60,mới
+nặng,food,size,10,0.51,age,heavy,rotten,táo,14.27075,quả,60,hư
+mới,furniture,age,11,0.99,texture,new,smooth,bàn,14.27075,cái,60,trơn
+mắc,food,quality,12,0,color,expensive,brown,táo,14.27075,quả,60,màu nâu
+nặng,furniture,size,13,0,texture,heavy,soft,bàn,14.27075,cái,60,mềm
+hư,food,age,14,0.44,shape,rotten,round,cà chua,14.27075,quả,60,tròn
+cũ,food,age,15,0.99,color,old,green,chuối,14.27075,quả,60,màu xanh lá
+vuông,furniture,shape,16,0.49,age,square,new,ti-vi,14.27075,chiếc,60,mới
+nhẹ,furniture,size,17,0.92,age,light,new,quạt máy,14.27075,chiếc,60,mới
+Đức,furniture,nationality,18,0.04,color,german,yellow,ghế,14.27075,chiếc,60,màu vàng
+vuông,food,shape,19,0.88,nationality,square,french,táo,14.27075,quả,60,Pháp
+Pháp,furniture,nationality,20,0.03,color,french,yellow,bàn,14.27075,cái,60,màu vàng
+mắc,food,quality,21,0.03,size,expensive,big,phô mai,14.27075,lát,60,to
+tươi,furniture,age,22,0.91,color,fresh,yellow,bàn,14.27075,cái,60,màu vàng
+tệ,furniture,quality,23,0.04,color,bad,blue,ghế,14.27075,chiếc,60,màu xanh dương
+tệ,furniture,quality,24,0.05,color,bad,blue,quạt máy,14.27075,chiếc,60,màu xanh dương
+mềm,furniture,texture,25,0.05,age,soft,new,tủ,14.27075,cái,60,mới
+tươi,furniture,age,26,0.31,color,fresh,blue,quạt máy,14.27075,chiếc,60,màu xanh dương
+Mỹ,furniture,nationality,27,0.52,texture,american,hard,bàn,14.27075,cái,60,rắn
+ngắn,food,size,28,0.12,color,short,purple,táo,14.27075,quả,60,màu tím
+màu đỏ,furniture,color,3,0.67,shape,red,round,quạt máy,2.088,chiếc,61,tròn
+màu đỏ,furniture,color,4,0.39,shape,red,square,tủ,2.088,cái,61,vuông
+to,furniture,size,5,0.73,nationality,big,american,ti-vi,2.088,chiếc,61,Mỹ
+to,furniture,size,6,0.35,quality,big,expensive,tủ,2.088,cái,61,mắc
+màu xanh dương,furniture,color,7,0.83,size,blue,long,ti-vi,2.088,chiếc,61,dài
+trơn,furniture,texture,8,0.08,color,smooth,brown,tủ,2.088,cái,61,màu nâu
+trơn,food,texture,9,0.61,size,smooth,long,cà rốt,2.088,củ,61,dài
+Đức,food,nationality,10,0.29,texture,german,soft,cà rốt,2.088,củ,61,mềm
+rắn,furniture,texture,11,0.72,size,hard,long,tủ,2.088,cái,61,dài
+rắn,furniture,texture,12,0.78,size,hard,light,ti-vi,2.088,chiếc,61,nhẹ
+trơn,food,texture,13,0.53,color,smooth,blue,chuối,2.088,quả,61,màu xanh dương
+rắn,food,texture,14,0.14,age,hard,fresh,táo,2.088,quả,61,tươi
+nhỏ,food,size,15,0.7,color,small,purple,táo,2.088,quả,61,màu tím
+Mỹ,furniture,nationality,16,0.36,age,american,old,ti-vi,2.088,chiếc,61,cũ
+màu vàng,furniture,color,17,0.9,size,yellow,light,quạt máy,2.088,chiếc,61,nhẹ
+màu xanh lá,food,color,18,0.69,size,green,small,cà rốt,2.088,củ,61,nhỏ
+màu đỏ,furniture,color,19,0.24,nationality,red,german,bàn,2.088,cái,61,Đức
+tươi,furniture,age,20,0.77,quality,fresh,expensive,quạt máy,2.088,chiếc,61,mắc
+dài,furniture,size,21,0.52,age,long,new,ti-vi,2.088,chiếc,61,mới
+dài,furniture,size,22,0.78,texture,long,smooth,ti-vi,2.088,chiếc,61,trơn
+rắn,food,texture,23,0.43,nationality,hard,german,cà rốt,2.088,củ,61,Đức
+mắc,food,quality,24,0.86,shape,expensive,square,phô mai,2.088,lát,61,vuông
+màu đỏ,food,color,25,0.64,age,red,old,cà rốt,2.088,củ,61,cũ
+mắc,food,quality,26,0.29,color,expensive,brown,táo,2.088,quả,61,màu nâu
+màu tím,furniture,color,27,0.74,texture,purple,soft,bàn,2.088,cái,61,mềm
+nặng,furniture,size,28,0.52,quality,heavy,bad,tủ,2.088,cái,61,tệ
+màu tím,furniture,color,3,0.68,size,purple,heavy,ti-vi,5.435783333333333,chiếc,62,nặng
+rắn,food,texture,4,0.66,color,hard,purple,táo,5.435783333333333,quả,62,màu tím
+hư,furniture,age,5,0.69,shape,rotten,square,ghế,5.435783333333333,chiếc,62,vuông
+dài,food,size,6,0.59,texture,long,soft,táo,5.435783333333333,quả,62,mềm
+nhỏ,furniture,size,7,0.62,color,small,blue,quạt máy,5.435783333333333,chiếc,62,màu xanh dương
+to,furniture,size,8,0.54,color,big,green,ghế,5.435783333333333,chiếc,62,màu xanh lá
+vuông,furniture,shape,9,0.77,quality,square,expensive,ghế,5.435783333333333,chiếc,62,mắc
+tươi,food,age,10,0.74,size,fresh,light,táo,5.435783333333333,quả,62,nhẹ
+màu đỏ,food,color,11,0.78,size,red,small,chuối,5.435783333333333,quả,62,nhỏ
+Pháp,food,nationality,12,0.67,age,french,old,phô mai,5.435783333333333,lát,62,cũ
+tươi,food,age,13,0.84,quality,fresh,expensive,chuối,5.435783333333333,quả,62,mắc
+mới,furniture,age,14,0.68,texture,new,smooth,quạt máy,5.435783333333333,chiếc,62,trơn
+tròn,food,shape,15,0.8,nationality,round,german,cà rốt,5.435783333333333,củ,62,Đức
+màu vàng,furniture,color,16,0.74,size,yellow,long,ghế,5.435783333333333,chiếc,62,dài
+dài,food,size,17,0.77,color,long,blue,táo,5.435783333333333,quả,62,màu xanh dương
+màu nâu,food,color,18,0.69,age,brown,rotten,phô mai,5.435783333333333,lát,62,hư
+mới,food,age,19,0.75,quality,new,expensive,phô mai,5.435783333333333,lát,62,mắc
+màu tím,food,color,20,0.75,nationality,purple,german,phô mai,5.435783333333333,lát,62,Đức
+trơn,furniture,texture,21,0.68,quality,smooth,expensive,quạt máy,5.435783333333333,chiếc,62,mắc
+vuông,food,shape,22,0.61,age,square,old,cà rốt,5.435783333333333,củ,62,cũ
+trơn,food,texture,23,0.66,nationality,smooth,american,chuối,5.435783333333333,quả,62,Mỹ
+dài,food,size,24,0.75,shape,long,round,cà rốt,5.435783333333333,củ,62,tròn
+tươi,furniture,age,25,0.66,color,fresh,purple,quạt máy,5.435783333333333,chiếc,62,màu tím
+to,food,size,26,0.58,color,big,green,chuối,5.435783333333333,quả,62,màu xanh lá
+màu tím,furniture,color,27,0.71,size,purple,long,ti-vi,5.435783333333333,chiếc,62,dài
+dài,furniture,size,28,0.73,color,long,red,ti-vi,5.435783333333333,chiếc,62,màu đỏ
+mềm,furniture,texture,3,0.71,color,soft,blue,ghế,3.2234833333333333,chiếc,63,màu xanh dương
+nặng,food,size,4,0.59,texture,heavy,soft,táo,3.2234833333333333,quả,63,mềm
+mắc,furniture,quality,5,0.74,color,expensive,brown,quạt máy,3.2234833333333333,chiếc,63,màu nâu
+trơn,food,texture,6,0.71,size,smooth,big,chuối,3.2234833333333333,quả,63,to
+trơn,furniture,texture,7,0.76,color,smooth,red,ghế,3.2234833333333333,chiếc,63,màu đỏ
+màu nâu,furniture,color,8,0.79,size,brown,long,bàn,3.2234833333333333,cái,63,dài
+to,food,size,9,0.77,texture,big,soft,táo,3.2234833333333333,quả,63,mềm
+tươi,furniture,age,10,0.76,quality,fresh,bad,ti-vi,3.2234833333333333,chiếc,63,tệ
+mới,furniture,age,11,0.82,color,new,yellow,ghế,3.2234833333333333,chiếc,63,màu vàng
+vuông,furniture,shape,12,0.84,nationality,square,german,ghế,3.2234833333333333,chiếc,63,Đức
+màu xanh dương,food,color,13,0.73,size,blue,short,chuối,3.2234833333333333,quả,63,ngắn
+màu vàng,food,color,14,0.71,age,yellow,old,cà rốt,3.2234833333333333,củ,63,cũ
+mắc,food,quality,15,0.65,shape,expensive,square,cà rốt,3.2234833333333333,củ,63,vuông
+trơn,furniture,texture,16,0.6,nationality,smooth,american,quạt máy,3.2234833333333333,chiếc,63,Mỹ
+màu đỏ,food,color,17,0.62,texture,red,smooth,phô mai,3.2234833333333333,lát,63,trơn
+hư,food,age,18,0.71,color,rotten,brown,táo,3.2234833333333333,quả,63,màu nâu
+nhẹ,food,size,19,0.71,texture,light,smooth,chuối,3.2234833333333333,quả,63,trơn
+trơn,furniture,texture,20,0.76,shape,smooth,round,tủ,3.2234833333333333,cái,63,tròn
+tươi,furniture,age,21,0.73,color,fresh,blue,tủ,3.2234833333333333,cái,63,màu xanh dương
+mềm,food,texture,22,0.7,quality,soft,expensive,phô mai,3.2234833333333333,lát,63,mắc
+nhỏ,food,size,23,0.77,color,small,red,chuối,3.2234833333333333,quả,63,màu đỏ
+nhẹ,furniture,size,24,0.75,color,light,yellow,ti-vi,3.2234833333333333,chiếc,63,màu vàng
+tươi,furniture,age,25,0.55,nationality,fresh,french,tủ,3.2234833333333333,cái,63,Pháp
+màu đỏ,furniture,color,26,0.93,shape,red,round,bàn,3.2234833333333333,cái,63,tròn
+cũ,food,age,27,0.64,nationality,old,french,phô mai,3.2234833333333333,lát,63,Pháp
+to,food,size,28,0.63,texture,big,hard,táo,3.2234833333333333,quả,63,rắn
+hư,food,age,3,0.57,quality,rotten,bad,cà rốt,2.4847166666666665,củ,64,tệ
+mềm,food,texture,4,0.29,size,soft,short,cà chua,2.4847166666666665,quả,64,ngắn
+Đức,food,nationality,5,0.68,texture,german,hard,chuối,2.4847166666666665,quả,64,rắn
+tệ,furniture,quality,6,0.29,nationality,bad,american,ti-vi,2.4847166666666665,chiếc,64,Mỹ
+to,furniture,size,7,0.69,texture,big,hard,bàn,2.4847166666666665,cái,64,rắn
+nhỏ,food,size,8,0.18,texture,small,hard,phô mai,2.4847166666666665,lát,64,rắn
+to,food,size,9,0.67,age,big,new,táo,2.4847166666666665,quả,64,mới
+màu xanh dương,food,color,10,0.32,texture,blue,hard,táo,2.4847166666666665,quả,64,rắn
+tròn,furniture,shape,11,0.24,color,round,yellow,tủ,2.4847166666666665,cái,64,màu vàng
+mới,furniture,age,12,0.6,quality,new,bad,tủ,2.4847166666666665,cái,64,tệ
+Mỹ,food,nationality,13,0.31,size,american,short,táo,2.4847166666666665,quả,64,ngắn
+màu xanh lá,furniture,color,14,0.6,size,green,light,ghế,2.4847166666666665,chiếc,64,nhẹ
+màu xanh lá,food,color,15,0.32,nationality,green,american,phô mai,2.4847166666666665,lát,64,Mỹ
+rắn,furniture,texture,16,0.63,size,hard,big,ghế,2.4847166666666665,chiếc,64,to
+màu xanh dương,furniture,color,17,0.33,size,blue,heavy,tủ,2.4847166666666665,cái,64,nặng
+to,furniture,size,18,0.64,color,big,green,bàn,2.4847166666666665,cái,64,màu xanh lá
+Mỹ,furniture,nationality,19,0.36,texture,american,hard,ghế,2.4847166666666665,chiếc,64,rắn
+mềm,food,texture,20,0.62,color,soft,blue,phô mai,2.4847166666666665,lát,64,màu xanh dương
+tươi,furniture,age,21,0.38,texture,fresh,soft,quạt máy,2.4847166666666665,chiếc,64,mềm
+màu xanh dương,furniture,color,22,0.37,size,blue,light,ti-vi,2.4847166666666665,chiếc,64,nhẹ
+màu nâu,furniture,color,23,0.61,texture,brown,smooth,ghế,2.4847166666666665,chiếc,64,trơn
+màu xanh lá,food,color,24,0.37,shape,green,round,chuối,2.4847166666666665,quả,64,tròn
+Đức,food,nationality,25,0.72,size,german,heavy,phô mai,2.4847166666666665,lát,64,nặng
+vuông,food,shape,26,0.42,quality,square,expensive,phô mai,2.4847166666666665,lát,64,mắc
+màu xanh lá,furniture,color,27,0.63,nationality,green,american,bàn,2.4847166666666665,cái,64,Mỹ
+màu đỏ,furniture,color,28,0.45,age,red,rotten,ti-vi,2.4847166666666665,chiếc,64,hư
+ngắn,food,size,3,0.9,nationality,short,french,phô mai,13.1624,lát,65,Pháp
+Pháp,furniture,nationality,4,0.9,size,french,light,ti-vi,13.1624,chiếc,65,nhẹ
+Mỹ,food,nationality,5,0.97,texture,american,hard,phô mai,13.1624,lát,65,rắn
+tệ,furniture,quality,6,0.95,color,bad,purple,quạt máy,13.1624,chiếc,65,màu tím
+Đức,furniture,nationality,7,0.93,color,german,blue,ti-vi,13.1624,chiếc,65,màu xanh dương
+nhỏ,furniture,size,8,0.85,quality,small,bad,ghế,13.1624,chiếc,65,tệ
+mới,furniture,age,9,0.93,texture,new,soft,quạt máy,13.1624,chiếc,65,mềm
+tệ,food,quality,10,0.95,nationality,bad,german,chuối,13.1624,quả,65,Đức
+mềm,furniture,texture,11,0.89,quality,soft,bad,ghế,13.1624,chiếc,65,tệ
+mới,food,age,12,0.92,color,new,green,chuối,13.1624,quả,65,màu xanh lá
+màu xanh dương,food,color,13,0.93,age,blue,rotten,cà chua,13.1624,quả,65,hư
+màu đỏ,food,color,14,0.93,age,red,rotten,phô mai,13.1624,lát,65,hư
+màu tím,food,color,15,0.9,shape,purple,round,cà rốt,13.1624,củ,65,tròn
+màu xanh dương,furniture,color,16,0.94,size,blue,short,ghế,13.1624,chiếc,65,ngắn
+màu xanh lá,food,color,17,0.9,quality,green,expensive,cà rốt,13.1624,củ,65,mắc
+trơn,furniture,texture,18,0.91,quality,smooth,expensive,quạt máy,13.1624,chiếc,65,mắc
+màu tím,food,color,19,0.91,age,purple,old,phô mai,13.1624,lát,65,cũ
+mềm,furniture,texture,20,0.97,nationality,soft,french,quạt máy,13.1624,chiếc,65,Pháp
+rắn,furniture,texture,21,0.86,nationality,hard,french,quạt máy,13.1624,chiếc,65,Pháp
+dài,furniture,size,22,0.92,nationality,long,american,ghế,13.1624,chiếc,65,Mỹ
+tệ,food,quality,23,0.9,age,bad,rotten,táo,13.1624,quả,65,hư
+mềm,food,texture,24,0.97,shape,soft,round,cà rốt,13.1624,củ,65,tròn
+trơn,food,texture,25,0.92,size,smooth,long,cà chua,13.1624,quả,65,dài
+dài,food,size,26,0.97,texture,long,soft,táo,13.1624,quả,65,mềm
+Pháp,furniture,nationality,27,0.93,age,french,fresh,ghế,13.1624,chiếc,65,tươi
+màu tím,furniture,color,28,0.9,shape,purple,round,bàn,13.1624,cái,65,tròn
+dài,food,size,3,0.72,age,long,old,cà chua,5.544816666666667,quả,66,cũ
+trơn,furniture,texture,4,0.7,color,smooth,brown,ti-vi,5.544816666666667,chiếc,66,màu nâu
+hư,furniture,age,5,0.34,size,rotten,light,ghế,5.544816666666667,chiếc,66,nhẹ
+màu vàng,furniture,color,6,0.69,age,yellow,new,ti-vi,5.544816666666667,chiếc,66,mới
+tệ,furniture,quality,7,0.64,color,bad,red,ghế,5.544816666666667,chiếc,66,màu đỏ
+màu đỏ,food,color,8,0.44,size,red,big,cà chua,5.544816666666667,quả,66,to
+mắc,furniture,quality,9,0.76,texture,expensive,hard,ti-vi,5.544816666666667,chiếc,66,rắn
+nhẹ,food,size,10,0.28,nationality,light,german,cà rốt,5.544816666666667,củ,66,Đức
+màu tím,furniture,color,11,0.73,nationality,purple,french,quạt máy,5.544816666666667,chiếc,66,Pháp
+hư,furniture,age,12,0.46,color,rotten,blue,tủ,5.544816666666667,cái,66,màu xanh dương
+nhỏ,food,size,13,0.56,age,small,fresh,táo,5.544816666666667,quả,66,tươi
+tệ,food,quality,14,0.65,age,bad,new,táo,5.544816666666667,quả,66,mới
+Đức,food,nationality,15,0.33,size,german,light,cà chua,5.544816666666667,quả,66,nhẹ
+nhỏ,furniture,size,16,0.69,quality,small,bad,ti-vi,5.544816666666667,chiếc,66,tệ
+ngắn,food,size,17,0.66,age,short,new,phô mai,5.544816666666667,lát,66,mới
+tệ,food,quality,18,0.38,color,bad,blue,phô mai,5.544816666666667,lát,66,màu xanh dương
+nhẹ,food,size,19,0.7,quality,light,expensive,táo,5.544816666666667,quả,66,mắc
+màu tím,furniture,color,20,0.76,size,purple,big,ghế,5.544816666666667,chiếc,66,to
+màu đỏ,food,color,21,0.63,nationality,red,german,phô mai,5.544816666666667,lát,66,Đức
+Mỹ,furniture,nationality,22,0.63,size,american,long,ghế,5.544816666666667,chiếc,66,dài
+nặng,furniture,size,23,0.63,age,heavy,old,tủ,5.544816666666667,cái,66,cũ
+màu tím,furniture,color,24,0.32,shape,purple,round,quạt máy,5.544816666666667,chiếc,66,tròn
+Pháp,furniture,nationality,25,0.73,texture,french,hard,tủ,5.544816666666667,cái,66,rắn
+Pháp,food,nationality,26,0.69,quality,french,bad,phô mai,5.544816666666667,lát,66,tệ
+nặng,food,size,27,0.73,quality,heavy,bad,phô mai,5.544816666666667,lát,66,tệ
+mới,food,age,28,0.72,nationality,new,french,táo,5.544816666666667,quả,66,Pháp
+rắn,furniture,texture,3,0.45,color,hard,red,bàn,1.8487666666666667,cái,67,màu đỏ
+tròn,food,shape,4,0.37,age,round,new,cà chua,1.8487666666666667,quả,67,mới
+to,furniture,size,5,0.28,texture,big,smooth,tủ,1.8487666666666667,cái,67,trơn
+màu vàng,furniture,color,6,0.79,nationality,yellow,german,tủ,1.8487666666666667,cái,67,Đức
+mềm,furniture,texture,7,0.67,age,soft,old,tủ,1.8487666666666667,cái,67,cũ
+màu nâu,furniture,color,8,0.08,shape,brown,round,ghế,1.8487666666666667,chiếc,67,tròn
+vuông,furniture,shape,9,0.87,size,square,small,ti-vi,1.8487666666666667,chiếc,67,nhỏ
+màu vàng,food,color,10,0.48,texture,yellow,smooth,phô mai,1.8487666666666667,lát,67,trơn
+mới,furniture,age,11,0.72,size,new,heavy,quạt máy,1.8487666666666667,chiếc,67,nặng
+tròn,food,shape,12,0.73,size,round,heavy,cà chua,1.8487666666666667,quả,67,nặng
+màu tím,food,color,13,0.58,nationality,purple,american,chuối,1.8487666666666667,quả,67,Mỹ
+Pháp,furniture,nationality,14,0.83,quality,french,bad,ti-vi,1.8487666666666667,chiếc,67,tệ
+to,food,size,15,0.56,color,big,brown,cà rốt,1.8487666666666667,củ,67,màu nâu
+mới,food,age,16,0.51,color,new,yellow,cà chua,1.8487666666666667,quả,67,màu vàng
+màu xanh lá,food,color,17,0.89,texture,green,hard,chuối,1.8487666666666667,quả,67,rắn
+màu tím,furniture,color,18,0.79,texture,purple,smooth,tủ,1.8487666666666667,cái,67,trơn
+Đức,food,nationality,19,0.75,color,german,yellow,cà rốt,1.8487666666666667,củ,67,màu vàng
+rắn,furniture,texture,20,0.61,size,hard,light,bàn,1.8487666666666667,cái,67,nhẹ
+ngắn,furniture,size,21,0.81,age,short,new,bàn,1.8487666666666667,cái,67,mới
+tệ,food,quality,22,0.62,nationality,bad,german,chuối,1.8487666666666667,quả,67,Đức
+màu đỏ,furniture,color,23,0.79,age,red,new,tủ,1.8487666666666667,cái,67,mới
+hư,food,age,24,0.75,texture,rotten,hard,phô mai,1.8487666666666667,lát,67,rắn
+rắn,food,texture,25,0.4,size,hard,heavy,cà rốt,1.8487666666666667,củ,67,nặng
+to,food,size,26,0.66,nationality,big,french,chuối,1.8487666666666667,quả,67,Pháp
+cũ,furniture,age,27,0.41,nationality,old,american,quạt máy,1.8487666666666667,chiếc,67,Mỹ
+màu tím,food,color,28,0.76,age,purple,rotten,táo,1.8487666666666667,quả,67,hư
+tệ,food,quality,3,0.48,size,bad,heavy,chuối,2.0459833333333335,quả,68,nặng
+màu tím,furniture,color,4,0.4,shape,purple,square,bàn,2.0459833333333335,cái,68,vuông
+Mỹ,food,nationality,5,0.47,color,american,red,phô mai,2.0459833333333335,lát,68,màu đỏ
+tươi,food,age,6,0.67,quality,fresh,expensive,phô mai,2.0459833333333335,lát,68,mắc
+màu xanh dương,food,color,7,0.44,size,blue,heavy,phô mai,2.0459833333333335,lát,68,nặng
+mới,furniture,age,8,0.6,color,new,yellow,ti-vi,2.0459833333333335,chiếc,68,màu vàng
+Pháp,food,nationality,9,0.56,size,french,heavy,phô mai,2.0459833333333335,lát,68,nặng
+ngắn,food,size,10,0.6,nationality,short,german,cà rốt,2.0459833333333335,củ,68,Đức
+Pháp,furniture,nationality,11,0.64,quality,french,expensive,tủ,2.0459833333333335,cái,68,mắc
+Mỹ,food,nationality,12,0.39,shape,american,square,táo,2.0459833333333335,quả,68,vuông
+màu tím,furniture,color,13,0.64,age,purple,rotten,bàn,2.0459833333333335,cái,68,hư
+tươi,furniture,age,14,0.54,color,fresh,green,bàn,2.0459833333333335,cái,68,màu xanh lá
+dài,furniture,size,15,0.67,color,long,yellow,quạt máy,2.0459833333333335,chiếc,68,màu vàng
+màu xanh lá,furniture,color,16,0.53,size,green,short,ti-vi,2.0459833333333335,chiếc,68,ngắn
+ngắn,food,size,17,0.66,color,short,blue,táo,2.0459833333333335,quả,68,màu xanh dương
+màu vàng,food,color,18,0.58,shape,yellow,round,cà chua,2.0459833333333335,quả,68,tròn
+cũ,furniture,age,19,0.46,color,old,red,bàn,2.0459833333333335,cái,68,màu đỏ
+trơn,food,texture,20,0.77,size,smooth,short,cà chua,2.0459833333333335,quả,68,ngắn
+màu xanh dương,food,color,21,0.37,shape,blue,square,phô mai,2.0459833333333335,lát,68,vuông
+mắc,furniture,quality,22,0.71,size,expensive,heavy,bàn,2.0459833333333335,cái,68,nặng
+Đức,furniture,nationality,23,0.59,color,german,brown,ghế,2.0459833333333335,chiếc,68,màu nâu
+trơn,furniture,texture,24,0.62,age,smooth,rotten,bàn,2.0459833333333335,cái,68,hư
+mới,food,age,25,0.66,size,new,short,cà chua,2.0459833333333335,quả,68,ngắn
+tròn,food,shape,26,0.64,texture,round,hard,táo,2.0459833333333335,quả,68,rắn
+cũ,food,age,27,0.63,texture,old,smooth,cà rốt,2.0459833333333335,củ,68,trơn
+tệ,food,quality,28,0.67,age,bad,old,phô mai,2.0459833333333335,lát,68,cũ
+rắn,food,texture,3,0.68,color,hard,yellow,cà rốt,2.2093,củ,69,màu vàng
+Đức,furniture,nationality,4,0.64,texture,german,smooth,bàn,2.2093,cái,69,trơn
+tròn,food,shape,5,0.64,size,round,short,cà chua,2.2093,quả,69,ngắn
+mềm,food,texture,6,0.73,nationality,soft,german,phô mai,2.2093,lát,69,Đức
+Đức,food,nationality,7,0.74,color,german,blue,cà chua,2.2093,quả,69,màu xanh dương
+to,furniture,size,8,0.79,texture,big,smooth,quạt máy,2.2093,chiếc,69,trơn
+rắn,furniture,texture,9,0.59,color,hard,purple,ti-vi,2.2093,chiếc,69,màu tím
+mới,food,age,10,0.72,size,new,long,táo,2.2093,quả,69,dài
+to,furniture,size,11,0.69,color,big,yellow,ti-vi,2.2093,chiếc,69,màu vàng
+tươi,furniture,age,12,0.66,color,fresh,blue,quạt máy,2.2093,chiếc,69,màu xanh dương
+tệ,food,quality,13,0.73,color,bad,green,táo,2.2093,quả,69,màu xanh lá
+màu vàng,food,color,14,0.74,size,yellow,small,phô mai,2.2093,lát,69,nhỏ
+màu tím,food,color,15,0.6,size,purple,light,chuối,2.2093,quả,69,nhẹ
+Pháp,food,nationality,16,0.61,color,french,purple,phô mai,2.2093,lát,69,màu tím
+trơn,food,texture,17,0.67,color,smooth,purple,táo,2.2093,quả,69,màu tím
+cũ,furniture,age,18,0.66,size,old,long,tủ,2.2093,cái,69,dài
+rắn,furniture,texture,19,0.74,quality,hard,bad,ghế,2.2093,chiếc,69,tệ
+màu đỏ,food,color,20,0.76,quality,red,bad,chuối,2.2093,quả,69,tệ
+to,furniture,size,21,0.76,color,big,blue,bàn,2.2093,cái,69,màu xanh dương
+hư,food,age,22,0.37,color,rotten,green,cà chua,2.2093,quả,69,màu xanh lá
+Mỹ,food,nationality,23,0.81,shape,american,round,táo,2.2093,quả,69,tròn
+màu xanh lá,furniture,color,24,0.63,age,green,new,tủ,2.2093,cái,69,mới
+dài,furniture,size,25,0.68,age,long,rotten,quạt máy,2.2093,chiếc,69,hư
+Đức,furniture,nationality,26,0.76,age,german,fresh,ghế,2.2093,chiếc,69,tươi
+tệ,furniture,quality,27,0.61,size,bad,big,ti-vi,2.2093,chiếc,69,to
+tươi,furniture,age,28,0.71,nationality,fresh,french,ghế,2.2093,chiếc,69,Pháp
+hư,food,age,3,0.43,quality,rotten,expensive,táo,5.2787,quả,70,mắc
+ngắn,food,size,4,0.61,age,short,rotten,phô mai,5.2787,lát,70,hư
+màu xanh lá,furniture,color,5,0.41,texture,green,soft,ti-vi,5.2787,chiếc,70,mềm
+vuông,food,shape,6,0.56,size,square,short,cà chua,5.2787,quả,70,ngắn
+to,furniture,size,7,0.57,nationality,big,german,tủ,5.2787,cái,70,Đức
+tệ,furniture,quality,8,0.48,shape,bad,round,ti-vi,5.2787,chiếc,70,tròn
+to,food,size,9,0.51,texture,big,smooth,cà chua,5.2787,quả,70,trơn
+nhẹ,food,size,10,0.58,texture,light,soft,táo,5.2787,quả,70,mềm
+tươi,furniture,age,11,0.41,nationality,fresh,german,bàn,5.2787,cái,70,Đức
+to,food,size,12,0.56,color,big,green,cà rốt,5.2787,củ,70,màu xanh lá
+tệ,food,quality,13,0.49,size,bad,big,táo,5.2787,quả,70,to
+màu xanh dương,furniture,color,14,0.56,size,blue,small,ti-vi,5.2787,chiếc,70,nhỏ
+màu xanh lá,furniture,color,15,0.44,nationality,green,french,ti-vi,5.2787,chiếc,70,Pháp
+nhẹ,food,size,16,0.51,age,light,fresh,cà chua,5.2787,quả,70,tươi
+cũ,food,age,17,0.49,nationality,old,german,cà chua,5.2787,quả,70,Đức
+màu xanh lá,furniture,color,18,0.66,nationality,green,german,ti-vi,5.2787,chiếc,70,Đức
+màu nâu,furniture,color,19,0.44,age,brown,new,ghế,5.2787,chiếc,70,mới
+nhẹ,food,size,20,0.53,quality,light,expensive,chuối,5.2787,quả,70,mắc
+nhẹ,furniture,size,21,0.67,quality,light,bad,bàn,5.2787,cái,70,tệ
+nặng,furniture,size,22,0.34,age,heavy,fresh,ghế,5.2787,chiếc,70,tươi
+to,food,size,23,0.53,age,big,fresh,cà chua,5.2787,quả,70,tươi
+tệ,furniture,quality,24,0.42,color,bad,blue,tủ,5.2787,cái,70,màu xanh dương
+rắn,food,texture,25,0.55,size,hard,short,cà chua,5.2787,quả,70,ngắn
+nhẹ,food,size,26,0.61,quality,light,bad,táo,5.2787,quả,70,tệ
+hư,food,age,27,0.41,quality,rotten,expensive,cà chua,5.2787,quả,70,mắc
+nhẹ,food,size,28,0.7,age,light,old,cà rốt,5.2787,củ,70,cũ
+cũ,food,age,3,0.51,quality,old,expensive,chuối,1.1674166666666668,quả,71,mắc
+nhẹ,food,size,4,0.53,color,light,blue,cà rốt,1.1674166666666668,củ,71,màu xanh dương
+nhỏ,food,size,5,0.55,nationality,small,french,chuối,1.1674166666666668,quả,71,Pháp
+rắn,food,texture,6,0.6,quality,hard,expensive,cà rốt,1.1674166666666668,củ,71,mắc
+vuông,furniture,shape,7,0.55,age,square,new,tủ,1.1674166666666668,cái,71,mới
+Đức,furniture,nationality,8,0.59,size,german,small,tủ,1.1674166666666668,cái,71,nhỏ
+vuông,furniture,shape,9,0.57,texture,square,hard,ghế,1.1674166666666668,chiếc,71,rắn
+Đức,furniture,nationality,10,0.59,color,german,purple,ghế,1.1674166666666668,chiếc,71,màu tím
+Đức,furniture,nationality,11,0.4,color,german,brown,tủ,1.1674166666666668,cái,71,màu nâu
+mắc,food,quality,12,0.62,color,expensive,purple,chuối,1.1674166666666668,quả,71,màu tím
+nhỏ,food,size,13,0.49,color,small,brown,chuối,1.1674166666666668,quả,71,màu nâu
+Đức,food,nationality,14,0.49,color,german,blue,cà chua,1.1674166666666668,quả,71,màu xanh dương
+cũ,furniture,age,15,0.59,size,old,short,ti-vi,1.1674166666666668,chiếc,71,ngắn
+nặng,furniture,size,16,0.45,quality,heavy,bad,bàn,1.1674166666666668,cái,71,tệ
+nhỏ,furniture,size,17,0.62,nationality,small,german,bàn,1.1674166666666668,cái,71,Đức
+tươi,food,age,18,0.54,size,fresh,heavy,cà chua,1.1674166666666668,quả,71,nặng
+màu tím,food,color,19,0.63,age,purple,new,chuối,1.1674166666666668,quả,71,mới
+nặng,furniture,size,20,0.47,texture,heavy,soft,bàn,1.1674166666666668,cái,71,mềm
+nhẹ,furniture,size,21,0.58,color,light,brown,bàn,1.1674166666666668,cái,71,màu nâu
+màu nâu,food,color,22,0.46,age,brown,old,chuối,1.1674166666666668,quả,71,cũ
+mới,food,age,23,0.56,size,new,heavy,táo,1.1674166666666668,quả,71,nặng
+Mỹ,furniture,nationality,24,0.47,color,american,purple,ti-vi,1.1674166666666668,chiếc,71,màu tím
+rắn,food,texture,25,0.42,color,hard,purple,cà rốt,1.1674166666666668,củ,71,màu tím
+Đức,food,nationality,26,0.54,texture,german,hard,táo,1.1674166666666668,quả,71,rắn
+Mỹ,furniture,nationality,27,0.54,color,american,brown,ghế,1.1674166666666668,chiếc,71,màu nâu
+Mỹ,food,nationality,28,0.54,color,american,brown,cà chua,1.1674166666666668,quả,71,màu nâu
+Đức,furniture,nationality,3,0.94,size,german,long,quạt máy,2.5079666666666665,chiếc,72,dài
+tệ,furniture,quality,4,0.78,size,bad,heavy,tủ,2.5079666666666665,cái,72,nặng
+cũ,furniture,age,5,0.49,color,old,purple,bàn,2.5079666666666665,cái,72,màu tím
+nhẹ,furniture,size,6,0.32,quality,light,bad,quạt máy,2.5079666666666665,chiếc,72,tệ
+Pháp,food,nationality,7,0.65,color,french,blue,táo,2.5079666666666665,quả,72,màu xanh dương
+màu xanh lá,food,color,8,0.14,size,green,big,chuối,2.5079666666666665,quả,72,to
+Pháp,furniture,nationality,9,0.79,age,french,new,tủ,2.5079666666666665,cái,72,mới
+tươi,food,age,10,0.56,color,fresh,purple,phô mai,2.5079666666666665,lát,72,màu tím
+mềm,furniture,texture,11,0.86,nationality,soft,american,ghế,2.5079666666666665,chiếc,72,Mỹ
+tệ,food,quality,12,0.68,color,bad,blue,cà rốt,2.5079666666666665,củ,72,màu xanh dương
+trơn,furniture,texture,13,0.79,age,smooth,new,tủ,2.5079666666666665,cái,72,mới
+màu đỏ,food,color,14,0.93,age,red,rotten,chuối,2.5079666666666665,quả,72,hư
+cũ,food,age,15,0.11,quality,old,bad,cà rốt,2.5079666666666665,củ,72,tệ
+màu xanh lá,furniture,color,16,0.71,size,green,long,quạt máy,2.5079666666666665,chiếc,72,dài
+màu tím,furniture,color,17,0.4,texture,purple,hard,bàn,2.5079666666666665,cái,72,rắn
+vuông,furniture,shape,18,0.79,size,square,short,bàn,2.5079666666666665,cái,72,ngắn
+tròn,food,shape,19,0.71,texture,round,smooth,chuối,2.5079666666666665,quả,72,trơn
+to,food,size,20,0.67,age,big,old,táo,2.5079666666666665,quả,72,cũ
+mềm,furniture,texture,21,0.68,size,soft,big,ti-vi,2.5079666666666665,chiếc,72,to
+màu vàng,furniture,color,22,0.61,age,yellow,fresh,ghế,2.5079666666666665,chiếc,72,tươi
+rắn,food,texture,23,0.37,color,hard,brown,chuối,2.5079666666666665,quả,72,màu nâu
+màu đỏ,food,color,24,0.83,size,red,short,cà rốt,2.5079666666666665,củ,72,ngắn
+mắc,food,quality,25,0.64,size,expensive,light,cà rốt,2.5079666666666665,củ,72,nhẹ
+màu xanh lá,furniture,color,26,0.84,texture,green,smooth,quạt máy,2.5079666666666665,chiếc,72,trơn
+nhỏ,food,size,27,0.92,color,small,brown,chuối,2.5079666666666665,quả,72,màu nâu
+ngắn,furniture,size,28,0.77,age,short,rotten,bàn,2.5079666666666665,cái,72,hư
+mềm,food,texture,3,0.8,age,soft,rotten,chuối,1.5718333333333334,quả,73,hư
+màu xanh dương,furniture,color,4,0.8,age,blue,new,ti-vi,1.5718333333333334,chiếc,73,mới
+Pháp,furniture,nationality,5,0.65,age,french,old,tủ,1.5718333333333334,cái,73,cũ
+mềm,food,texture,6,0.79,color,soft,brown,cà rốt,1.5718333333333334,củ,73,màu nâu
+mắc,food,quality,7,0.74,color,expensive,brown,cà rốt,1.5718333333333334,củ,73,màu nâu
+ngắn,food,size,8,0.81,color,short,red,táo,1.5718333333333334,quả,73,màu đỏ
+mắc,food,quality,9,0.69,size,expensive,heavy,chuối,1.5718333333333334,quả,73,nặng
+Pháp,food,nationality,10,0.76,age,french,new,phô mai,1.5718333333333334,lát,73,mới
+trơn,furniture,texture,11,0.68,size,smooth,light,ghế,1.5718333333333334,chiếc,73,nhẹ
+trơn,furniture,texture,12,0.73,size,smooth,light,quạt máy,1.5718333333333334,chiếc,73,nhẹ
+mắc,furniture,quality,13,0.75,texture,expensive,hard,quạt máy,1.5718333333333334,chiếc,73,rắn
+tươi,food,age,14,0.67,quality,fresh,bad,cà rốt,1.5718333333333334,củ,73,tệ
+tệ,food,quality,15,0.7,color,bad,blue,chuối,1.5718333333333334,quả,73,màu xanh dương
+màu tím,food,color,16,0.58,size,purple,long,táo,1.5718333333333334,quả,73,dài
+vuông,food,shape,17,0.71,size,square,short,cà rốt,1.5718333333333334,củ,73,ngắn
+nặng,furniture,size,18,0.69,quality,heavy,bad,quạt máy,1.5718333333333334,chiếc,73,tệ
+mềm,food,texture,19,0.69,size,soft,small,chuối,1.5718333333333334,quả,73,nhỏ
+màu xanh dương,food,color,20,0.71,shape,blue,square,táo,1.5718333333333334,quả,73,vuông
+màu tím,food,color,21,0.73,nationality,purple,german,chuối,1.5718333333333334,quả,73,Đức
+tệ,food,quality,22,0.75,size,bad,big,phô mai,1.5718333333333334,lát,73,to
+trơn,food,texture,23,0.69,size,smooth,long,táo,1.5718333333333334,quả,73,dài
+cũ,furniture,age,24,0.68,texture,old,hard,bàn,1.5718333333333334,cái,73,rắn
+tươi,furniture,age,25,0.85,size,fresh,heavy,tủ,1.5718333333333334,cái,73,nặng
+rắn,furniture,texture,26,0.74,nationality,hard,french,quạt máy,1.5718333333333334,chiếc,73,Pháp
+tệ,food,quality,27,0.79,nationality,bad,american,cà rốt,1.5718333333333334,củ,73,Mỹ
+nhỏ,furniture,size,28,0.83,nationality,small,american,tủ,1.5718333333333334,cái,73,Mỹ
+mới,food,age,3,0.66,color,new,red,chuối,2.18585,quả,74,màu đỏ
+mới,food,age,4,0.62,color,new,purple,cà chua,2.18585,quả,74,màu tím
+màu xanh dương,furniture,color,5,0.59,size,blue,long,quạt máy,2.18585,chiếc,74,dài
+màu xanh lá,furniture,color,6,0.63,shape,green,square,ti-vi,2.18585,chiếc,74,vuông
+nhỏ,furniture,size,7,0.38,age,small,old,bàn,2.18585,cái,74,cũ
+tệ,furniture,quality,8,0.66,nationality,bad,american,ghế,2.18585,chiếc,74,Mỹ
+màu vàng,food,color,9,0.46,texture,yellow,soft,táo,2.18585,quả,74,mềm
+màu đỏ,food,color,10,0.71,texture,red,soft,chuối,2.18585,quả,74,mềm
+màu tím,furniture,color,11,0.54,age,purple,old,bàn,2.18585,cái,74,cũ
+mới,food,age,12,0.76,color,new,yellow,phô mai,2.18585,lát,74,màu vàng
+trơn,furniture,texture,13,0.32,age,smooth,new,bàn,2.18585,cái,74,mới
+dài,food,size,14,0.59,texture,long,soft,cà rốt,2.18585,củ,74,mềm
+dài,furniture,size,15,0.4,nationality,long,french,tủ,2.18585,cái,74,Pháp
+vuông,food,shape,16,0.71,age,square,old,táo,2.18585,quả,74,cũ
+cũ,food,age,17,0.38,color,old,brown,táo,2.18585,quả,74,màu nâu
+mềm,furniture,texture,18,0.76,color,soft,purple,ghế,2.18585,chiếc,74,màu tím
+Pháp,food,nationality,19,0.45,age,french,fresh,phô mai,2.18585,lát,74,tươi
+Pháp,food,nationality,20,0.69,age,french,fresh,cà rốt,2.18585,củ,74,tươi
+tròn,food,shape,21,0.38,texture,round,hard,táo,2.18585,quả,74,rắn
+mắc,food,quality,22,0.71,size,expensive,short,phô mai,2.18585,lát,74,ngắn
+cũ,food,age,23,0.4,size,old,long,cà rốt,2.18585,củ,74,dài
+vuông,food,shape,24,0.77,color,square,yellow,cà rốt,2.18585,củ,74,màu vàng
+Pháp,food,nationality,25,0.41,age,french,fresh,chuối,2.18585,quả,74,tươi
+ngắn,furniture,size,26,0.8,age,short,rotten,tủ,2.18585,cái,74,hư
+màu xanh lá,food,color,27,0.37,size,green,light,cà rốt,2.18585,củ,74,nhẹ
+to,food,size,28,0.5,shape,big,round,cà rốt,2.18585,củ,74,tròn
+Đức,food,nationality,3,1,color,german,blue,cà chua,5.097533333333334,quả,75,màu xanh dương
+tệ,food,quality,4,0,size,bad,heavy,cà rốt,5.097533333333334,củ,75,nặng
+mềm,furniture,texture,5,0,size,soft,light,ti-vi,5.097533333333334,chiếc,75,nhẹ
+Mỹ,food,nationality,6,1,age,american,fresh,cà chua,5.097533333333334,quả,75,tươi
+cũ,furniture,age,7,0,color,old,purple,quạt máy,5.097533333333334,chiếc,75,màu tím
+tròn,food,shape,8,0,nationality,round,german,phô mai,5.097533333333334,lát,75,Đức
+tệ,furniture,quality,9,0,color,bad,yellow,ghế,5.097533333333334,chiếc,75,màu vàng
+Mỹ,food,nationality,10,1,texture,american,smooth,cà rốt,5.097533333333334,củ,75,trơn
+Pháp,furniture,nationality,11,1,quality,french,bad,ghế,5.097533333333334,chiếc,75,tệ
+nhỏ,food,size,12,1,shape,small,round,phô mai,5.097533333333334,lát,75,tròn
+Pháp,food,nationality,13,1,quality,french,expensive,cà chua,5.097533333333334,quả,75,mắc
+to,furniture,size,14,1,age,big,rotten,ti-vi,5.097533333333334,chiếc,75,hư
+tươi,food,age,15,0,nationality,fresh,american,cà chua,5.097533333333334,quả,75,Mỹ
+tròn,furniture,shape,16,1,age,round,new,quạt máy,5.097533333333334,chiếc,75,mới
+nặng,furniture,size,17,0,nationality,heavy,german,ghế,5.097533333333334,chiếc,75,Đức
+trơn,food,texture,18,0,nationality,smooth,german,táo,5.097533333333334,quả,75,Đức
+màu đỏ,furniture,color,19,0.01,size,red,small,bàn,5.097533333333334,cái,75,nhỏ
+Pháp,food,nationality,20,1,color,french,brown,táo,5.097533333333334,quả,75,màu nâu
+Mỹ,furniture,nationality,21,0.98,size,american,small,tủ,5.097533333333334,cái,75,nhỏ
+mới,food,age,22,1,texture,new,soft,táo,5.097533333333334,quả,75,mềm
+nhẹ,furniture,size,23,0,age,light,new,quạt máy,5.097533333333334,chiếc,75,mới
+mềm,food,texture,24,1,age,soft,rotten,cà chua,5.097533333333334,quả,75,hư
+màu xanh dương,food,color,25,0,age,blue,old,cà chua,5.097533333333334,quả,75,cũ
+dài,furniture,size,26,0.99,age,long,fresh,quạt máy,5.097533333333334,chiếc,75,tươi
+tệ,furniture,quality,27,0,nationality,bad,american,tủ,5.097533333333334,cái,75,Mỹ
+nhỏ,furniture,size,28,1,color,small,purple,quạt máy,5.097533333333334,chiếc,75,màu tím
+nhỏ,food,size,3,0.57,age,small,old,chuối,1.0555166666666667,quả,76,cũ
+nặng,furniture,size,4,0.32,color,heavy,brown,tủ,1.0555166666666667,cái,76,màu nâu
+Đức,food,nationality,5,0.66,color,german,yellow,phô mai,1.0555166666666667,lát,76,màu vàng
+màu vàng,food,color,6,0.48,quality,yellow,expensive,phô mai,1.0555166666666667,lát,76,mắc
+tròn,food,shape,7,0.76,texture,round,soft,táo,1.0555166666666667,quả,76,mềm
+tươi,furniture,age,8,0.54,size,fresh,big,ghế,1.0555166666666667,chiếc,76,to
+rắn,food,texture,9,0.39,color,hard,brown,phô mai,1.0555166666666667,lát,76,màu nâu
+nhẹ,food,size,10,0.59,color,light,red,chuối,1.0555166666666667,quả,76,màu đỏ
+nhỏ,food,size,11,0.44,quality,small,bad,cà chua,1.0555166666666667,quả,76,tệ
+Pháp,food,nationality,12,0.66,shape,french,square,chuối,1.0555166666666667,quả,76,vuông
+to,furniture,size,13,0.48,texture,big,soft,ti-vi,1.0555166666666667,chiếc,76,mềm
+màu nâu,furniture,color,14,0.69,shape,brown,round,ti-vi,1.0555166666666667,chiếc,76,tròn
+to,furniture,size,15,0.42,texture,big,smooth,tủ,1.0555166666666667,cái,76,trơn
+màu xanh lá,furniture,color,16,0.58,nationality,green,american,tủ,1.0555166666666667,cái,76,Mỹ
+hư,food,age,17,0.51,size,rotten,small,chuối,1.0555166666666667,quả,76,nhỏ
+Mỹ,food,nationality,18,0.68,age,american,new,cà chua,1.0555166666666667,quả,76,mới
+màu xanh dương,food,color,19,0.53,texture,blue,soft,táo,1.0555166666666667,quả,76,mềm
+màu vàng,food,color,20,0.31,nationality,yellow,german,táo,1.0555166666666667,quả,76,Đức
+mắc,furniture,quality,21,0.44,texture,expensive,hard,bàn,1.0555166666666667,cái,76,rắn
+màu nâu,furniture,color,22,0.57,quality,brown,expensive,quạt máy,1.0555166666666667,chiếc,76,mắc
+nặng,furniture,size,23,0.69,color,heavy,purple,quạt máy,1.0555166666666667,chiếc,76,màu tím
+rắn,food,texture,24,0.55,age,hard,rotten,táo,1.0555166666666667,quả,76,hư
+Mỹ,food,nationality,25,0.77,shape,american,round,phô mai,1.0555166666666667,lát,76,tròn
+trơn,food,texture,26,0.59,age,smooth,old,phô mai,1.0555166666666667,lát,76,cũ
+màu tím,food,color,27,0.5,age,purple,rotten,táo,1.0555166666666667,quả,76,hư
+Đức,food,nationality,28,0.73,shape,german,square,cà rốt,1.0555166666666667,củ,76,vuông
+hư,furniture,age,3,0.18,shape,rotten,round,tủ,18.8701,cái,77,tròn
+nhỏ,furniture,size,4,0.44,quality,small,expensive,tủ,18.8701,cái,77,mắc
+trơn,food,texture,5,0.28,shape,smooth,round,chuối,18.8701,quả,77,tròn
+màu đỏ,food,color,6,0.52,size,red,heavy,cà chua,18.8701,quả,77,nặng
+màu đỏ,furniture,color,7,0.48,size,red,heavy,quạt máy,18.8701,chiếc,77,nặng
+rắn,furniture,texture,8,0.77,size,hard,heavy,ti-vi,18.8701,chiếc,77,nặng
+cũ,food,age,9,0.66,size,old,light,táo,18.8701,quả,77,nhẹ
+trơn,food,texture,10,0.69,color,smooth,blue,phô mai,18.8701,lát,77,màu xanh dương
+Pháp,food,nationality,11,0.23,color,french,purple,cà rốt,18.8701,củ,77,màu tím
+trơn,furniture,texture,12,0.23,shape,smooth,round,bàn,18.8701,cái,77,tròn
+to,food,size,13,0.43,color,big,purple,cà chua,18.8701,quả,77,màu tím
+dài,furniture,size,14,0.82,age,long,rotten,bàn,18.8701,cái,77,hư
+tròn,furniture,shape,15,0.77,age,round,fresh,ti-vi,18.8701,chiếc,77,tươi
+to,furniture,size,16,0.24,shape,big,round,ti-vi,18.8701,chiếc,77,tròn
+mới,food,age,17,0.21,quality,new,bad,táo,18.8701,quả,77,tệ
+mắc,furniture,quality,18,0.24,color,expensive,yellow,quạt máy,18.8701,chiếc,77,màu vàng
+mềm,furniture,texture,19,0.25,color,soft,purple,tủ,18.8701,cái,77,màu tím
+nặng,food,size,20,0.68,age,heavy,rotten,cà rốt,18.8701,củ,77,hư
+màu vàng,furniture,color,21,0.71,shape,yellow,round,ghế,18.8701,chiếc,77,tròn
+màu xanh lá,furniture,color,22,0.84,age,green,old,bàn,18.8701,cái,77,cũ
+trơn,food,texture,23,0.79,age,smooth,new,cà rốt,18.8701,củ,77,mới
+màu nâu,food,color,24,0.52,size,brown,light,chuối,18.8701,quả,77,nhẹ
+trơn,furniture,texture,25,0.49,quality,smooth,expensive,ghế,18.8701,chiếc,77,mắc
+dài,furniture,size,26,0.47,color,long,blue,quạt máy,18.8701,chiếc,77,màu xanh dương
+ngắn,furniture,size,27,0.17,color,short,purple,bàn,18.8701,cái,77,màu tím
+tươi,food,age,28,0.47,nationality,fresh,french,cà chua,18.8701,quả,77,Pháp
+nhỏ,furniture,size,3,0.72,color,small,blue,bàn,15.362033333333333,cái,78,màu xanh dương
+màu xanh lá,furniture,color,4,0.57,quality,green,bad,tủ,15.362033333333333,cái,78,tệ
+tệ,furniture,quality,5,0.55,size,bad,big,bàn,15.362033333333333,cái,78,to
+màu xanh lá,furniture,color,6,0.68,size,green,light,ghế,15.362033333333333,chiếc,78,nhẹ
+to,furniture,size,7,0.36,age,big,fresh,ti-vi,15.362033333333333,chiếc,78,tươi
+nhỏ,food,size,8,0.68,texture,small,hard,phô mai,15.362033333333333,lát,78,rắn
+to,food,size,9,0.53,quality,big,expensive,cà rốt,15.362033333333333,củ,78,mắc
+cũ,food,age,10,0.77,color,old,red,chuối,15.362033333333333,quả,78,màu đỏ
+to,food,size,11,0.63,color,big,purple,táo,15.362033333333333,quả,78,màu tím
+trơn,food,texture,12,0.4,size,smooth,light,chuối,15.362033333333333,quả,78,nhẹ
+Mỹ,furniture,nationality,13,0.79,size,american,long,bàn,15.362033333333333,cái,78,dài
+mắc,food,quality,14,0.22,nationality,expensive,french,phô mai,15.362033333333333,lát,78,Pháp
+Đức,furniture,nationality,15,0.86,size,german,small,quạt máy,15.362033333333333,chiếc,78,nhỏ
+Đức,furniture,nationality,16,0.44,size,german,big,tủ,15.362033333333333,cái,78,to
+vuông,food,shape,17,0.56,color,square,brown,cà rốt,15.362033333333333,củ,78,màu nâu
+rắn,furniture,texture,18,0.7,age,hard,new,ti-vi,15.362033333333333,chiếc,78,mới
+tươi,food,age,19,0.38,size,fresh,big,cà chua,15.362033333333333,quả,78,to
+mềm,furniture,texture,20,0.73,color,soft,yellow,bàn,15.362033333333333,cái,78,màu vàng
+dài,furniture,size,21,0.45,age,long,fresh,quạt máy,15.362033333333333,chiếc,78,tươi
+màu tím,furniture,color,22,0.75,shape,purple,round,ghế,15.362033333333333,chiếc,78,tròn
+Mỹ,food,nationality,23,0.21,color,american,purple,cà chua,15.362033333333333,quả,78,màu tím
+nhẹ,food,size,24,0.8,color,light,red,cà chua,15.362033333333333,quả,78,màu đỏ
+dài,furniture,size,25,0.46,texture,long,hard,quạt máy,15.362033333333333,chiếc,78,rắn
+màu xanh lá,food,color,26,0.67,texture,green,smooth,phô mai,15.362033333333333,lát,78,trơn
+Mỹ,food,nationality,27,0.49,color,american,red,táo,15.362033333333333,quả,78,màu đỏ
+rắn,furniture,texture,28,0.55,size,hard,long,ghế,15.362033333333333,chiếc,78,dài
+mới,food,age,3,0.26,quality,new,bad,cà chua,7.2571,quả,79,tệ
+nhẹ,furniture,size,4,0.65,color,light,red,quạt máy,7.2571,chiếc,79,màu đỏ
+Mỹ,food,nationality,5,0.4,size,american,short,cà rốt,7.2571,củ,79,ngắn
+màu xanh dương,food,color,6,0.62,size,blue,light,táo,7.2571,quả,79,nhẹ
+màu xanh lá,furniture,color,7,0.36,quality,green,bad,ti-vi,7.2571,chiếc,79,tệ
+rắn,furniture,texture,8,0.73,size,hard,small,ti-vi,7.2571,chiếc,79,nhỏ
+rắn,food,texture,9,0.44,color,hard,blue,cà chua,7.2571,quả,79,màu xanh dương
+rắn,food,texture,10,0.69,size,hard,short,chuối,7.2571,quả,79,ngắn
+nhẹ,furniture,size,11,0.36,color,light,purple,ghế,7.2571,chiếc,79,màu tím
+Pháp,food,nationality,12,0.61,size,french,small,phô mai,7.2571,lát,79,nhỏ
+nhẹ,furniture,size,13,0.81,texture,light,smooth,bàn,7.2571,cái,79,trơn
+trơn,food,texture,14,0.67,quality,smooth,bad,táo,7.2571,quả,79,tệ
+hư,furniture,age,15,0.26,nationality,rotten,american,ti-vi,7.2571,chiếc,79,Mỹ
+Đức,furniture,nationality,16,0.42,size,german,small,tủ,7.2571,cái,79,nhỏ
+mắc,furniture,quality,17,0.69,nationality,expensive,german,tủ,7.2571,cái,79,Đức
+trơn,food,texture,18,0.37,age,smooth,fresh,chuối,7.2571,quả,79,tươi
+mắc,food,quality,19,0.65,age,expensive,old,cà rốt,7.2571,củ,79,cũ
+tròn,food,shape,20,0.71,color,round,green,chuối,7.2571,quả,79,màu xanh lá
+màu xanh lá,furniture,color,21,0.64,nationality,green,french,ti-vi,7.2571,chiếc,79,Pháp
+cũ,furniture,age,22,0.39,size,old,short,ti-vi,7.2571,chiếc,79,ngắn
+Pháp,furniture,nationality,23,0.69,texture,french,smooth,bàn,7.2571,cái,79,trơn
+rắn,food,texture,24,0.35,color,hard,yellow,phô mai,7.2571,lát,79,màu vàng
+Đức,furniture,nationality,25,0.72,color,german,green,bàn,7.2571,cái,79,màu xanh lá
+trơn,food,texture,26,0.45,color,smooth,red,táo,7.2571,quả,79,màu đỏ
+màu xanh lá,furniture,color,27,0.76,quality,green,expensive,ti-vi,7.2571,chiếc,79,mắc
+Đức,furniture,nationality,28,0.35,quality,german,bad,bàn,7.2571,cái,79,tệ
+vuông,furniture,shape,3,0.58,texture,square,smooth,quạt máy,4.3893,chiếc,80,trơn
+mắc,food,quality,4,0.51,color,expensive,brown,cà chua,4.3893,quả,80,màu nâu
+hư,furniture,age,5,0.49,color,rotten,red,ti-vi,4.3893,chiếc,80,màu đỏ
+Pháp,food,nationality,6,0.5,shape,french,round,táo,4.3893,quả,80,tròn
+mới,furniture,age,7,0.63,color,new,red,quạt máy,4.3893,chiếc,80,màu đỏ
+mắc,furniture,quality,8,0.73,size,expensive,small,bàn,4.3893,cái,80,nhỏ
+màu nâu,food,color,9,0.39,texture,brown,smooth,phô mai,4.3893,lát,80,trơn
+màu nâu,furniture,color,10,0.67,size,brown,big,quạt máy,4.3893,chiếc,80,to
+mới,furniture,age,11,0.43,size,new,long,ghế,4.3893,chiếc,80,dài
+nhẹ,furniture,size,12,0.69,color,light,purple,tủ,4.3893,cái,80,màu tím
+trơn,food,texture,13,0.47,color,smooth,brown,cà rốt,4.3893,củ,80,màu nâu
+to,food,size,14,0.57,nationality,big,french,cà chua,4.3893,quả,80,Pháp
+màu nâu,food,color,15,0.54,shape,brown,square,táo,4.3893,quả,80,vuông
+tệ,food,quality,16,0.46,size,bad,heavy,cà chua,4.3893,quả,80,nặng
+nhẹ,furniture,size,17,0.56,texture,light,hard,bàn,4.3893,cái,80,rắn
+vuông,furniture,shape,18,0.51,size,square,short,tủ,4.3893,cái,80,ngắn
+rắn,food,texture,19,0.6,nationality,hard,german,chuối,4.3893,quả,80,Đức
+Pháp,furniture,nationality,20,0.54,color,french,brown,ti-vi,4.3893,chiếc,80,màu nâu
+vuông,furniture,shape,21,0.56,size,square,short,quạt máy,4.3893,chiếc,80,ngắn
+tệ,furniture,quality,22,0.51,shape,bad,round,quạt máy,4.3893,chiếc,80,tròn
+Đức,food,nationality,23,0.44,size,german,light,cà chua,4.3893,quả,80,nhẹ
+nhẹ,food,size,24,0.54,nationality,light,american,cà rốt,4.3893,củ,80,Mỹ
+rắn,furniture,texture,25,0.57,age,hard,fresh,tủ,4.3893,cái,80,tươi
+nhẹ,furniture,size,26,0.59,quality,light,expensive,ti-vi,4.3893,chiếc,80,mắc
+Đức,food,nationality,27,0.56,texture,german,smooth,táo,4.3893,quả,80,trơn
+hư,food,age,28,0.54,color,rotten,green,chuối,4.3893,quả,80,màu xanh lá
+màu xanh dương,furniture,color,3,0,nationality,blue,american,tủ,3.7622666666666666,cái,81,Mỹ
+Pháp,food,nationality,4,0.99,age,french,old,táo,3.7622666666666666,quả,81,cũ
+nhỏ,furniture,size,5,0,nationality,small,french,bàn,3.7622666666666666,cái,81,Pháp
+mềm,food,texture,6,0.97,color,soft,brown,cà chua,3.7622666666666666,quả,81,màu nâu
+tệ,food,quality,7,0.03,size,bad,heavy,táo,3.7622666666666666,quả,81,nặng
+nhẹ,furniture,size,8,0.01,shape,light,square,quạt máy,3.7622666666666666,chiếc,81,vuông
+màu vàng,food,color,9,0.01,size,yellow,long,cà chua,3.7622666666666666,quả,81,dài
+mềm,food,texture,10,0.01,age,soft,new,cà rốt,3.7622666666666666,củ,81,mới
+nhẹ,food,size,11,0.01,color,light,red,táo,3.7622666666666666,quả,81,màu đỏ
+màu đỏ,furniture,color,12,0,quality,red,expensive,ghế,3.7622666666666666,chiếc,81,mắc
+Pháp,food,nationality,13,0.97,color,french,yellow,táo,3.7622666666666666,quả,81,màu vàng
+tròn,food,shape,14,1,quality,round,bad,táo,3.7622666666666666,quả,81,tệ
+Đức,food,nationality,15,0.01,age,german,fresh,cà rốt,3.7622666666666666,củ,81,tươi
+tệ,food,quality,16,0.01,size,bad,heavy,cà chua,3.7622666666666666,quả,81,nặng
+nhẹ,food,size,17,0.01,nationality,light,german,cà chua,3.7622666666666666,quả,81,Đức
+ngắn,food,size,18,0.01,texture,short,soft,chuối,3.7622666666666666,quả,81,mềm
+tệ,food,quality,19,0.98,color,bad,brown,cà chua,3.7622666666666666,quả,81,màu nâu
+màu đỏ,food,color,20,0,texture,red,hard,phô mai,3.7622666666666666,lát,81,rắn
+màu xanh dương,furniture,color,21,0.03,age,blue,new,bàn,3.7622666666666666,cái,81,mới
+tệ,food,quality,22,0,size,bad,big,táo,3.7622666666666666,quả,81,to
+màu đỏ,furniture,color,23,0.01,quality,red,expensive,tủ,3.7622666666666666,cái,81,mắc
+tròn,food,shape,24,0.03,nationality,round,american,chuối,3.7622666666666666,quả,81,Mỹ
+màu vàng,furniture,color,25,0.02,texture,yellow,soft,ghế,3.7622666666666666,chiếc,81,mềm
+màu tím,furniture,color,26,0.03,age,purple,rotten,ti-vi,3.7622666666666666,chiếc,81,hư
+rắn,furniture,texture,27,0.04,nationality,hard,french,bàn,3.7622666666666666,cái,81,Pháp
+ngắn,furniture,size,28,0.97,color,short,green,ti-vi,3.7622666666666666,chiếc,81,màu xanh lá
+cũ,food,age,3,0.67,texture,old,hard,cà chua,5.464416666666667,quả,82,rắn
+dài,furniture,size,4,0.83,nationality,long,german,tủ,5.464416666666667,cái,82,Đức
+Đức,furniture,nationality,5,0.36,color,german,brown,ti-vi,5.464416666666667,chiếc,82,màu nâu
+nặng,food,size,6,0.82,quality,heavy,bad,cà chua,5.464416666666667,quả,82,tệ
+rắn,furniture,texture,7,0.27,color,hard,blue,ti-vi,5.464416666666667,chiếc,82,màu xanh dương
+màu xanh dương,furniture,color,8,0.82,nationality,blue,american,ghế,5.464416666666667,chiếc,82,Mỹ
+tệ,food,quality,9,0.56,texture,bad,soft,cà rốt,5.464416666666667,củ,82,mềm
+rắn,food,texture,10,0.83,color,hard,red,cà chua,5.464416666666667,quả,82,màu đỏ
+màu nâu,food,color,11,0.54,age,brown,fresh,chuối,5.464416666666667,quả,82,tươi
+cũ,food,age,12,0.83,nationality,old,american,táo,5.464416666666667,quả,82,Mỹ
+tươi,food,age,13,0.43,size,fresh,heavy,cà rốt,5.464416666666667,củ,82,nặng
+màu nâu,food,color,14,0.88,size,brown,light,cà chua,5.464416666666667,quả,82,nhẹ
+tròn,furniture,shape,15,0.23,quality,round,expensive,bàn,5.464416666666667,cái,82,mắc
+màu xanh dương,food,color,16,0.92,nationality,blue,french,chuối,5.464416666666667,quả,82,Pháp
+nhỏ,food,size,17,0.37,age,small,old,cà rốt,5.464416666666667,củ,82,cũ
+màu tím,food,color,18,0.16,size,purple,heavy,cà rốt,5.464416666666667,củ,82,nặng
+màu nâu,furniture,color,19,0.8,size,brown,light,tủ,5.464416666666667,cái,82,nhẹ
+màu xanh dương,furniture,color,20,0.47,size,blue,long,ghế,5.464416666666667,chiếc,82,dài
+to,food,size,21,0.9,shape,big,round,cà rốt,5.464416666666667,củ,82,tròn
+nhẹ,food,size,22,0.59,nationality,light,french,phô mai,5.464416666666667,lát,82,Pháp
+to,food,size,23,0.84,color,big,red,cà rốt,5.464416666666667,củ,82,màu đỏ
+màu xanh dương,furniture,color,24,0.5,texture,blue,hard,quạt máy,5.464416666666667,chiếc,82,rắn
+tệ,food,quality,25,0.93,color,bad,green,phô mai,5.464416666666667,lát,82,màu xanh lá
+mềm,furniture,texture,26,0.74,nationality,soft,american,ti-vi,5.464416666666667,chiếc,82,Mỹ
+dài,furniture,size,27,0.93,shape,long,square,quạt máy,5.464416666666667,chiếc,82,vuông
+to,furniture,size,28,0.63,texture,big,soft,bàn,5.464416666666667,cái,82,mềm
+mới,food,age,3,0.56,size,new,heavy,cà chua,3.726783333333333,quả,83,nặng
+rắn,furniture,texture,4,0.74,nationality,hard,german,tủ,3.726783333333333,cái,83,Đức
+tươi,food,age,5,0.73,size,fresh,big,cà rốt,3.726783333333333,củ,83,to
+rắn,furniture,texture,6,0.7,color,hard,blue,tủ,3.726783333333333,cái,83,màu xanh dương
+mềm,food,texture,7,0.5,age,soft,old,chuối,3.726783333333333,quả,83,cũ
+nhỏ,furniture,size,8,0.73,texture,small,hard,ti-vi,3.726783333333333,chiếc,83,rắn
+tròn,furniture,shape,9,0.52,size,round,long,ti-vi,3.726783333333333,chiếc,83,dài
+màu xanh dương,furniture,color,10,0.58,nationality,blue,french,ti-vi,3.726783333333333,chiếc,83,Pháp
+tệ,furniture,quality,11,0.66,age,bad,new,ti-vi,3.726783333333333,chiếc,83,mới
+nặng,furniture,size,12,0.73,color,heavy,brown,quạt máy,3.726783333333333,chiếc,83,màu nâu
+hư,furniture,age,13,0.6,texture,rotten,smooth,bàn,3.726783333333333,cái,83,trơn
+màu đỏ,furniture,color,14,0.63,age,red,new,bàn,3.726783333333333,cái,83,mới
+trơn,food,texture,15,0.4,nationality,smooth,german,cà rốt,3.726783333333333,củ,83,Đức
+tệ,food,quality,16,0.58,size,bad,heavy,cà rốt,3.726783333333333,củ,83,nặng
+tệ,furniture,quality,17,0.45,age,bad,fresh,ti-vi,3.726783333333333,chiếc,83,tươi
+tươi,food,age,18,0.54,size,fresh,small,phô mai,3.726783333333333,lát,83,nhỏ
+mềm,food,texture,19,0.55,color,soft,purple,chuối,3.726783333333333,quả,83,màu tím
+cũ,food,age,20,0.44,color,old,brown,phô mai,3.726783333333333,lát,83,màu nâu
+màu xanh lá,food,color,21,0.64,size,green,heavy,táo,3.726783333333333,quả,83,nặng
+trơn,food,texture,22,0.56,nationality,smooth,french,chuối,3.726783333333333,quả,83,Pháp
+Đức,food,nationality,23,0.62,size,german,long,phô mai,3.726783333333333,lát,83,dài
+to,furniture,size,24,0.48,texture,big,smooth,quạt máy,3.726783333333333,chiếc,83,trơn
+màu đỏ,food,color,25,0.57,texture,red,hard,táo,3.726783333333333,quả,83,rắn
+cũ,food,age,26,0.57,nationality,old,american,chuối,3.726783333333333,quả,83,Mỹ
+Mỹ,food,nationality,27,0.68,size,american,long,chuối,3.726783333333333,quả,83,dài
+trơn,furniture,texture,28,0.46,color,smooth,purple,ghế,3.726783333333333,chiếc,83,màu tím
+cũ,food,age,3,0.5,size,old,short,cà chua,1.9054166666666668,quả,84,ngắn
+màu nâu,food,color,4,0.83,size,brown,big,phô mai,1.9054166666666668,lát,84,to
+tròn,furniture,shape,5,0.58,quality,round,bad,quạt máy,1.9054166666666668,chiếc,84,tệ
+to,food,size,6,0.18,color,big,red,chuối,1.9054166666666668,quả,84,màu đỏ
+nặng,furniture,size,7,0.9,texture,heavy,hard,bàn,1.9054166666666668,cái,84,rắn
+ngắn,furniture,size,8,0.55,age,short,old,ti-vi,1.9054166666666668,chiếc,84,cũ
+vuông,food,shape,9,0.42,color,square,green,phô mai,1.9054166666666668,lát,84,màu xanh lá
+màu xanh dương,furniture,color,10,0.74,nationality,blue,american,bàn,1.9054166666666668,cái,84,Mỹ
+nhẹ,food,size,11,0.54,age,light,new,phô mai,1.9054166666666668,lát,84,mới
+tệ,furniture,quality,12,0.25,age,bad,old,quạt máy,1.9054166666666668,chiếc,84,cũ
+mắc,food,quality,13,0.82,size,expensive,small,cà rốt,1.9054166666666668,củ,84,nhỏ
+màu xanh lá,food,color,14,0.51,nationality,green,american,cà chua,1.9054166666666668,quả,84,Mỹ
+Pháp,furniture,nationality,15,0.1,size,french,heavy,bàn,1.9054166666666668,cái,84,nặng
+rắn,furniture,texture,16,0.83,age,hard,fresh,quạt máy,1.9054166666666668,chiếc,84,tươi
+màu xanh lá,furniture,color,17,0.64,size,green,long,tủ,1.9054166666666668,cái,84,dài
+nhỏ,furniture,size,18,0.97,texture,small,smooth,ti-vi,1.9054166666666668,chiếc,84,trơn
+màu xanh lá,food,color,19,0.47,age,green,new,cà rốt,1.9054166666666668,củ,84,mới
+nhẹ,furniture,size,20,0.04,color,light,green,ti-vi,1.9054166666666668,chiếc,84,màu xanh lá
+nặng,food,size,21,0.71,color,heavy,yellow,cà chua,1.9054166666666668,quả,84,màu vàng
+rắn,furniture,texture,22,0.42,color,hard,brown,ti-vi,1.9054166666666668,chiếc,84,màu nâu
+tròn,food,shape,23,0.79,texture,round,hard,cà chua,1.9054166666666668,quả,84,rắn
+cũ,food,age,24,0.53,color,old,brown,cà rốt,1.9054166666666668,củ,84,màu nâu
+màu đỏ,food,color,25,0.87,nationality,red,french,táo,1.9054166666666668,quả,84,Pháp
+nặng,food,size,26,0.23,nationality,heavy,french,cà chua,1.9054166666666668,quả,84,Pháp
+màu xanh lá,food,color,27,0.65,nationality,green,french,chuối,1.9054166666666668,quả,84,Pháp
+cũ,furniture,age,28,0.41,color,old,red,bàn,1.9054166666666668,cái,84,màu đỏ
+mắc,furniture,quality,3,0.8,size,expensive,small,tủ,9.570983333333333,cái,85,nhỏ
+tệ,food,quality,4,0.77,size,bad,heavy,cà chua,9.570983333333333,quả,85,nặng
+mềm,food,texture,5,0.71,size,soft,small,táo,9.570983333333333,quả,85,nhỏ
+cũ,food,age,6,0.91,texture,old,hard,cà rốt,9.570983333333333,củ,85,rắn
+mềm,furniture,texture,7,0.74,age,soft,old,quạt máy,9.570983333333333,chiếc,85,cũ
+mới,furniture,age,8,0.8,size,new,long,ti-vi,9.570983333333333,chiếc,85,dài
+hư,furniture,age,9,0.6,color,rotten,yellow,ti-vi,9.570983333333333,chiếc,85,màu vàng
+rắn,food,texture,10,0.86,size,hard,heavy,cà rốt,9.570983333333333,củ,85,nặng
+mới,furniture,age,11,0.83,color,new,blue,ti-vi,9.570983333333333,chiếc,85,màu xanh dương
+ngắn,furniture,size,12,0.86,nationality,short,french,bàn,9.570983333333333,cái,85,Pháp
+mới,furniture,age,13,0.71,size,new,long,bàn,9.570983333333333,cái,85,dài
+màu xanh lá,food,color,14,0.86,shape,green,round,chuối,9.570983333333333,quả,85,tròn
+mềm,food,texture,15,0.78,nationality,soft,american,phô mai,9.570983333333333,lát,85,Mỹ
+dài,food,size,16,0.87,age,long,rotten,cà rốt,9.570983333333333,củ,85,hư
+rắn,food,texture,17,0.8,nationality,hard,german,cà chua,9.570983333333333,quả,85,Đức
+ngắn,food,size,18,0.86,age,short,rotten,phô mai,9.570983333333333,lát,85,hư
+màu vàng,furniture,color,19,0.76,age,yellow,rotten,quạt máy,9.570983333333333,chiếc,85,hư
+nhẹ,food,size,20,0.8,shape,light,round,phô mai,9.570983333333333,lát,85,tròn
+nặng,furniture,size,21,0.82,age,heavy,fresh,quạt máy,9.570983333333333,chiếc,85,tươi
+tươi,food,age,22,0.88,quality,fresh,expensive,táo,9.570983333333333,quả,85,mắc
+vuông,food,shape,23,0.86,quality,square,expensive,cà rốt,9.570983333333333,củ,85,mắc
+mới,furniture,age,24,0.68,size,new,light,quạt máy,9.570983333333333,chiếc,85,nhẹ
+dài,food,size,25,0.56,age,long,old,táo,9.570983333333333,quả,85,cũ
+Pháp,food,nationality,26,0.85,quality,french,bad,táo,9.570983333333333,quả,85,tệ
+cũ,food,age,27,0.83,texture,old,hard,phô mai,9.570983333333333,lát,85,rắn
+nhẹ,food,size,28,0.62,texture,light,soft,chuối,9.570983333333333,quả,85,mềm
+tệ,furniture,quality,3,0.59,age,bad,fresh,ti-vi,8.60145,chiếc,86,tươi
+dài,furniture,size,4,0.73,color,long,brown,tủ,8.60145,cái,86,màu nâu
+mềm,food,texture,5,0.67,age,soft,new,cà rốt,8.60145,củ,86,mới
+tệ,food,quality,6,0.71,age,bad,rotten,chuối,8.60145,quả,86,hư
+màu đỏ,furniture,color,7,0.75,shape,red,square,tủ,8.60145,cái,86,vuông
+màu vàng,furniture,color,8,0.66,size,yellow,light,bàn,8.60145,cái,86,nhẹ
+cũ,furniture,age,9,0.49,size,old,small,ghế,8.60145,chiếc,86,nhỏ
+màu xanh dương,food,color,10,0.66,age,blue,fresh,chuối,8.60145,quả,86,tươi
+màu xanh dương,furniture,color,11,0.51,size,blue,light,ghế,8.60145,chiếc,86,nhẹ
+Đức,furniture,nationality,12,0.67,size,german,small,ti-vi,8.60145,chiếc,86,nhỏ
+nặng,furniture,size,13,0.54,quality,heavy,expensive,ti-vi,8.60145,chiếc,86,mắc
+màu đỏ,furniture,color,14,0.7,size,red,short,ghế,8.60145,chiếc,86,ngắn
+mới,furniture,age,15,0.38,quality,new,bad,quạt máy,8.60145,chiếc,86,tệ
+mềm,food,texture,16,0.66,size,soft,small,cà chua,8.60145,quả,86,nhỏ
+rắn,food,texture,17,0.44,color,hard,brown,táo,8.60145,quả,86,màu nâu
+Pháp,furniture,nationality,18,0.62,quality,french,expensive,quạt máy,8.60145,chiếc,86,mắc
+Pháp,food,nationality,19,0.44,color,french,blue,cà rốt,8.60145,củ,86,màu xanh dương
+mềm,furniture,texture,20,0.63,size,soft,long,tủ,8.60145,cái,86,dài
+mềm,furniture,texture,21,0.6,size,soft,short,quạt máy,8.60145,chiếc,86,ngắn
+mềm,food,texture,22,0.71,color,soft,red,phô mai,8.60145,lát,86,màu đỏ
+vuông,furniture,shape,23,0.59,size,square,heavy,ti-vi,8.60145,chiếc,86,nặng
+Đức,food,nationality,24,0.37,size,german,small,táo,8.60145,quả,86,nhỏ
+nhẹ,food,size,25,0.59,texture,light,soft,cà rốt,8.60145,củ,86,mềm
+tròn,furniture,shape,26,0.42,color,round,yellow,bàn,8.60145,cái,86,màu vàng
+Mỹ,furniture,nationality,27,0.66,shape,american,round,ti-vi,8.60145,chiếc,86,tròn
+mắc,food,quality,28,0.46,size,expensive,long,cà rốt,8.60145,củ,86,dài
+Pháp,furniture,nationality,3,0.78,size,french,big,bàn,2.0325,cái,87,to
+tròn,food,shape,4,0.02,nationality,round,american,cà chua,2.0325,quả,87,Mỹ
+nhỏ,food,size,5,0.31,age,small,fresh,phô mai,2.0325,lát,87,tươi
+rắn,food,texture,6,0.57,size,hard,big,chuối,2.0325,quả,87,to
+trơn,food,texture,7,0.17,color,smooth,brown,cà chua,2.0325,quả,87,màu nâu
+mềm,furniture,texture,8,0.8,age,soft,rotten,ghế,2.0325,chiếc,87,hư
+Mỹ,food,nationality,9,0.8,size,american,long,cà rốt,2.0325,củ,87,dài
+trơn,furniture,texture,10,0.85,size,smooth,light,quạt máy,2.0325,chiếc,87,nhẹ
+Đức,food,nationality,11,0.18,age,german,new,cà rốt,2.0325,củ,87,mới
+Mỹ,furniture,nationality,12,0.27,texture,american,soft,quạt máy,2.0325,chiếc,87,mềm
+mắc,furniture,quality,13,0.68,color,expensive,yellow,ghế,2.0325,chiếc,87,màu vàng
+Đức,food,nationality,14,0.19,quality,german,bad,cà chua,2.0325,quả,87,tệ
+Đức,furniture,nationality,15,0.07,age,german,rotten,quạt máy,2.0325,chiếc,87,hư
+tươi,furniture,age,16,0.9,texture,fresh,soft,bàn,2.0325,cái,87,mềm
+ngắn,furniture,size,17,0.86,age,short,old,tủ,2.0325,cái,87,cũ
+màu xanh lá,furniture,color,18,0.69,texture,green,hard,bàn,2.0325,cái,87,rắn
+màu tím,furniture,color,19,0.12,size,purple,long,ti-vi,2.0325,chiếc,87,dài
+tươi,food,age,20,0.11,color,fresh,yellow,cà rốt,2.0325,củ,87,màu vàng
+màu vàng,furniture,color,21,0.83,size,yellow,light,ti-vi,2.0325,chiếc,87,nhẹ
+to,furniture,size,22,0.85,age,big,new,ghế,2.0325,chiếc,87,mới
+Pháp,furniture,nationality,23,0.83,texture,french,soft,bàn,2.0325,cái,87,mềm
+hư,furniture,age,24,0.8,texture,rotten,soft,ghế,2.0325,chiếc,87,mềm
+rắn,food,texture,25,0.16,size,hard,small,phô mai,2.0325,lát,87,nhỏ
+tròn,furniture,shape,26,0.16,nationality,round,german,ghế,2.0325,chiếc,87,Đức
+tươi,food,age,27,0.89,color,fresh,blue,phô mai,2.0325,lát,87,màu xanh dương
+màu đỏ,food,color,28,0.17,nationality,red,american,phô mai,2.0325,lát,87,Mỹ
+Mỹ,food,nationality,3,0.94,color,american,green,chuối,5.770666666666667,quả,88,màu xanh lá
+nặng,furniture,size,4,0.47,color,heavy,yellow,ti-vi,5.770666666666667,chiếc,88,màu vàng
+rắn,food,texture,5,0.03,quality,hard,expensive,phô mai,5.770666666666667,lát,88,mắc
+trơn,food,texture,6,0.95,nationality,smooth,french,phô mai,5.770666666666667,lát,88,Pháp
+mới,furniture,age,7,0.46,size,new,light,ghế,5.770666666666667,chiếc,88,nhẹ
+nhẹ,food,size,8,0.5,color,light,red,cà chua,5.770666666666667,quả,88,màu đỏ
+Đức,food,nationality,9,0.98,quality,german,expensive,cà rốt,5.770666666666667,củ,88,mắc
+mắc,food,quality,10,0.98,size,expensive,light,chuối,5.770666666666667,quả,88,nhẹ
+Mỹ,furniture,nationality,11,0,color,american,blue,quạt máy,5.770666666666667,chiếc,88,màu xanh dương
+tròn,food,shape,12,0.53,size,round,heavy,cà chua,5.770666666666667,quả,88,nặng
+Mỹ,furniture,nationality,13,0.46,color,american,purple,quạt máy,5.770666666666667,chiếc,88,màu tím
+màu đỏ,furniture,color,14,0.39,size,red,small,quạt máy,5.770666666666667,chiếc,88,nhỏ
+màu đỏ,food,color,15,0.97,size,red,short,chuối,5.770666666666667,quả,88,ngắn
+trơn,food,texture,16,0.93,size,smooth,short,táo,5.770666666666667,quả,88,ngắn
+màu đỏ,food,color,17,0.45,shape,red,round,táo,5.770666666666667,quả,88,tròn
+tươi,food,age,18,0.93,nationality,fresh,american,chuối,5.770666666666667,quả,88,Mỹ
+Đức,furniture,nationality,19,0.95,age,german,rotten,quạt máy,5.770666666666667,chiếc,88,hư
+to,furniture,size,20,0.51,nationality,big,american,quạt máy,5.770666666666667,chiếc,88,Mỹ
+màu nâu,furniture,color,21,0.69,texture,brown,smooth,ti-vi,5.770666666666667,chiếc,88,trơn
+tệ,food,quality,22,0.08,texture,bad,smooth,phô mai,5.770666666666667,lát,88,trơn
+màu xanh dương,furniture,color,23,0.84,shape,blue,square,tủ,5.770666666666667,cái,88,vuông
+Pháp,food,nationality,24,0.06,color,french,yellow,táo,5.770666666666667,quả,88,màu vàng
+tươi,food,age,25,0.86,shape,fresh,round,phô mai,5.770666666666667,lát,88,tròn
+trơn,furniture,texture,26,0.93,quality,smooth,expensive,ghế,5.770666666666667,chiếc,88,mắc
+mềm,food,texture,27,0.03,age,soft,old,cà chua,5.770666666666667,quả,88,cũ
+Đức,food,nationality,28,0.9,age,german,fresh,cà rốt,5.770666666666667,củ,88,tươi
+màu xanh dương,food,color,3,0.84,nationality,blue,american,chuối,2.3135,quả,89,Mỹ
+màu đỏ,food,color,4,0.81,nationality,red,american,cà rốt,2.3135,củ,89,Mỹ
+màu xanh lá,furniture,color,5,0.91,size,green,short,tủ,2.3135,cái,89,ngắn
+Mỹ,food,nationality,6,0.83,age,american,rotten,chuối,2.3135,quả,89,hư
+tròn,food,shape,7,0.92,size,round,heavy,phô mai,2.3135,lát,89,nặng
+màu vàng,food,color,8,0.89,size,yellow,short,phô mai,2.3135,lát,89,ngắn
+mềm,food,texture,9,0.83,color,soft,yellow,chuối,2.3135,quả,89,màu vàng
+tươi,food,age,10,0.79,size,fresh,heavy,phô mai,2.3135,lát,89,nặng
+nhỏ,furniture,size,11,0.73,shape,small,round,bàn,2.3135,cái,89,tròn
+màu nâu,food,color,12,0.14,nationality,brown,american,cà rốt,2.3135,củ,89,Mỹ
+tươi,furniture,age,13,0.38,nationality,fresh,american,bàn,2.3135,cái,89,Mỹ
+dài,food,size,14,0.59,nationality,long,french,cà rốt,2.3135,củ,89,Pháp
+nhỏ,food,size,15,0.66,texture,small,smooth,chuối,2.3135,quả,89,trơn
+Pháp,furniture,nationality,16,0.85,size,french,small,bàn,2.3135,cái,89,nhỏ
+rắn,furniture,texture,17,0.86,age,hard,new,ti-vi,2.3135,chiếc,89,mới
+rắn,food,texture,18,0.54,quality,hard,bad,phô mai,2.3135,lát,89,tệ
+rắn,furniture,texture,19,0.86,age,hard,old,ghế,2.3135,chiếc,89,cũ
+tệ,food,quality,20,0.76,texture,bad,soft,chuối,2.3135,quả,89,mềm
+tươi,furniture,age,21,0.96,size,fresh,long,quạt máy,2.3135,chiếc,89,dài
+nặng,food,size,22,0.77,age,heavy,old,chuối,2.3135,quả,89,cũ
+màu nâu,furniture,color,23,0.7,texture,brown,soft,tủ,2.3135,cái,89,mềm
+màu tím,furniture,color,24,0.88,age,purple,fresh,ghế,2.3135,chiếc,89,tươi
+Pháp,food,nationality,25,0.8,texture,french,smooth,chuối,2.3135,quả,89,trơn
+màu tím,furniture,color,26,0.86,size,purple,small,bàn,2.3135,cái,89,nhỏ
+tươi,furniture,age,27,0.64,nationality,fresh,american,quạt máy,2.3135,chiếc,89,Mỹ
+Pháp,food,nationality,28,0.83,quality,french,expensive,cà rốt,2.3135,củ,89,mắc

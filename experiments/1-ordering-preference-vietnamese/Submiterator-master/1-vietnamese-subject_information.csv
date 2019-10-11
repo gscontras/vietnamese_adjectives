@@ -1,0 +1,94 @@
+school,education,describe,family,language,college,enjoyment,assess,lived,age,workerid,level,comments,years,gender
+small,0,VietEng,eng,India,onesem,1,No,over8,26,0,int,,shortlive,Male
+small,2,VietEng,Viet, ANH,onesem,1,No,under8,31,1,advanced,,shortlive,Male
+small,1,VietViet,Viet,UK,midsem,1,No,under8,26,2,int,,shortlive,Male
+small,0,L2,eng,Tiên,nocollege,0,Yes,neverlived,27,3,advanced,,neverlived,Male
+small,1,VietViet,eng,United States,midsem,0,Confused,neverlived,4,4,near native,,midlive,Female
+small,1,VietEng,Viet,Malte,onesem,1,No,over8,22,5,near native,,neverlived,Male
+mid,2,VietEng,Viet,,midsem,-1,Yes,under8,27,6,int,,shortlive,Female
+small,2,VietEng,eng,India,onesem,0,Yes,neverlived,thong,7,near native,Thông Tin Phụ,neverlived,Other
+most,4,VietEng,Vieteng,tiếng việt,nocollege,1,Yes,both8,27,8,native,không có bình luận,mostlive,Female
+small,1,VietEng,Viet,Ngữ Đầu Tiên: ,onesem,0,No,over8,27,9,basic,,neverlived,Female
+none,0,otherL2,Viet,Tiếng Việt,onesem,1,Yes,over8,28,10,advanced,khảo sát tốt,shortlive,Male
+small,1,VietViet,Viet,English,nocollege,1,No,over8,47,11,near native,,shortlive,Male
+most,3,VietEng,Vieteng,vietnamese,midsem,1,Yes,both8,28,12,native,,mostlive,Female
+small,1,VietEng,Viet,english,onesem,0,Yes,under8,25,13,int,good experience,shortlive,Male
+small,0,VietEng,eng,yes,onesem,0,No,neverlived,28,14,int,nice,shortlive,Male
+mid,3,L2,Viet,ENGLISH,onesem,1,Yes,under8,25,15,int,TỐT,midlive,Female
+mid,2,VietViet,Vieteng,EN,midsem,1,Yes,over8,25,16,near native,GOOD,midlive,Female
+small,1,VietViet,other,,onesem,1,Confused,both8,,17,native,GOOD,mostlive,Female
+most,3,L2,Viet,,midsem,0,No,both8,,18,int,,shortlive,Male
+mid,1,VietViet,Vieteng,22,midsem,1,Yes,over8,27,19,near native,nice ,midlive,Female
+mid,1,VietViet,Viet,ENGLISH,onesem,0,Yes,neverlived,24,20,basic,"NÓ CÓ MỘT VỊ TRÍ RẤT TỐT
+",midlive,Male
+small,0,VietViet,eng,yes,onesem,0,No,over8,28,21,basic,nice,shortlive,Male
+mid,1,VietViet,Vieteng,English,midsem,0,Yes,over8,24,22,int,,midlive,Male
+small,1,VietEng,eng,Tiếng Việt,midsem,2,Yes,under8,26,23,advanced,,midlive,Male
+mid,2,VietViet,Viet,english,onesem,1,Yes,under8,25,24,advanced,good,shortlive,Other
+small,2,VietViet,Viet,"Vietnamese,ENGLISH",midsem,0,Yes,under8,25,25,advanced,GOOD,midlive,Female
+small,2,L2,Viet,ENGLISH,onesem,1,Yes,over8,25,26,advanced,GOOD,shortlive,Female
+mid,2,VietEng,Viet,India,onesem,1,No,under8,31,27,advanced,,midlive,Male
+mid,3,VietEng,Vieteng,Vietnam,nocollege,1,Confused,under8,24,28,basic,,midlive,Female
+most,3,VietEng,eng,,mostsem,0,No,under8,33,29,basic,very nice,neverlived,Female
+small,0,VietEng,eng,India,onesem,0,No,under8,25,30,int,GOOD,shortlive,Male
+small,1,VietViet,Viet,english,onesem,0,Yes,under8,25,31,basic,good,neverlived,Female
+small,0,VietEng,Viet,37931,onesem,0,Yes,under8,26,32,near native,,midlive,Female
+most,2,VietViet,Vieteng,Vietnamese,mostsem,0,Yes,over8,24,33,native,,mostlive,Male
+small,2,VietEng,Viet,"Ngôn ngữ đầu tiên hay tiếng mẹ đẻ (thường viết tắt là L1 theo tiếng Anh: First Language) là một ngôn ngữ mà người ta được thừa hưởng trong thời thơ ấu,[1] và có thể không được giảng dạy chính thức trong trường học. ",onesem,0,No,under8,26,34,int,"Nếu đang đọc những dòng này, bạn hẳn đã nhận thấy mình, hoặc sếp của mình, có chuyện cần nói với thế giới. Dù là trường hợp nào, điều bạn cần là một nơi để thường xuyên đăng những bài viết dí dỏm hoặc những nội dung khác như hình ảnh hay video. Một nơi hoàn toàn trong tầm kiểm soát của bạn, không như những bài đăng Instagram hay trang Facebook vô danh, nhiều hạn chế, tôi nói đúng chứ? Nói cách khác – một weblog!",shortlive,Male
+small,1,VietViet,Viet,english,onesem,1,Yes,under8,25,35,int,good,shortlive,Male
+none,1,VietEng,Viet,English,onesem,0,No,neverlived,28,36,int,,mostlive,Male
+mid,3,VietViet,eng,ANH,onesem,1,No,over8,31,37,near native,,midlive,Male
+small,1,VietViet,eng,United States,onesem,0,Yes,under8,25,38,int,,shortlive,Female
+most,3,VietEng,eng,,mostsem,0,No,neverlived,33,39,basic,VERY NICE,mostlive,Male
+none,3,otherL2,eng,tiếng anh,nocollege,2,Yes,neverlived,25,40,advanced,"Tôi chưa bao giờ sống ở Việt Nam và chưa bao giờ có lớp học tiếng Việt, nhưng tôi có các thành viên gia đình đến từ Việt Nam, vì vậy tôi đã học ngôn ngữ này.",neverlived,Male
+small,2,L2,Vieteng,,onesem,1,No,over8,27,41,near native,,midlive,Female
+most,2,VietViet,Vieteng,Việt Nam,nocollege,2,Yes,both8,22,42,native,,mostlive,Female
+mid,3,L2,eng,ANH,midsem,1,Yes,under8,25,43,advanced,TỐT,midlive,Male
+small,1,L2,Viet,english,onesem,1,No,under8,66,44,near native,good,midlive,Male
+small,3,L2,Vieteng,ENGLISH,midsem,0,Yes,over8,25,45,advanced,,shortlive,Male
+small,3,VietEng,Viet,Tiếng Việt,nocollege,2,Yes,under8,25,46,int,,mostlive,Male
+most,3,VietEng,eng,,mostsem,0,No,under8,33,47,int,VERY NICE,midlive,Female
+most,3,VietEng,eng,,mostsem,0,No,neverlived,33,48,basic,VERY NICE,neverlived,Male
+mid,2,L2,Vieteng,tamil,midsem,1,No,over8,34,49,near native,đẹp,shortlive,Male
+,-1,,,,,-1,,,,50,,,,
+,-1,,,,,-1,,,,51,,,,
+small,3,VietViet,eng,English,onesem,1,Yes,under8,31,52,int,,shortlive,Female
+,1,,,,,-1,No,,T,53,,,,Female
+mid,0,VietEng,Viet,Tiếng Việt,nocollege,0,No,under8,25,54,int,Tôi thích nghiên cứu này,neverlived,Male
+mid,3,VietViet,other,"ENGLISH,HINDI",midsem,1,Yes,under8,25,55,advanced,LIKE INAWAY,midlive,Male
+most,2,VietViet,Viet,Tiếng Việt,mostsem,2,Yes,over8,40,56,near native,"Chúng tôi có thú vị về lời bình luận của bạn.
+",mostlive,Male
+mid,3,L2,other,40,midsem,1,No,under8,30,57,near native,very good,midlive,Female
+small,2,VietViet,Viet,Ngôn,onesem,2,No,neverlived,30,58,near native,very good,shortlive,Male
+none,0,VietEng,eng,tamil,nocollege,0,No,neverlived,25,59,basic,We have fun about your comment.,neverlived,Male
+small,2,VietViet,Viet,English,midsem,1,Yes,over8,31,60,advanced,,shortlive,Female
+mid,2,L2,Viet,English,midsem,0,Yes,under8,24,61,int,,midlive,Female
+mid,3,VietViet,Vieteng,Ngôn Ngữ Mẹ Đẻ ,midsem,0,Yes,over8,25,62,advanced,"
+TỐT",midlive,Female
+small,2,L2,Viet,,midsem,2,,under8,,63,advanced,,neverlived,Male
+small,2,VietEng,Viet,,onesem,1,No,neverlived,31,64,advanced,,midlive,Male
+mid,2,L2,Vieteng,NA,midsem,1,Yes,over8,26,65,near native,NICE,shortlive,Female
+small,4,VietViet,Vieteng,anh,onesem,1,No,under8,31,66,advanced,,shortlive,Male
+small,2,L2,eng,,midsem,1,Yes,under8,18,67,advanced,27,shortlive,Male
+small,2,VietEng,Viet,ENGLISH,onesem,0,No,under8,26,68,advanced,good,midlive,Male
+small,0,VietEng,Vieteng,NO,nocollege,0,No,under8,22,69,int,NO,mostlive,Male
+small,1,VietViet,Viet, हिंदी,onesem,1,Yes,under8,24,70,basic,good,shortlive,Male
+mid,1,VietViet,Vieteng,,midsem,1,No,under8,,71,advanced,,shortlive,Male
+small,0,VietViet,eng,India,onesem,0,No,under8,26,72,int,,shortlive,Male
+small,0,L2,eng,English,onesem,0,Yes,neverlived,27,73,int,,neverlived,Male
+small,1,VietViet,eng,India,onesem,0,Yes,under8,26,74,basic,I LIKE IT,shortlive,Female
+most,3,VietEng,eng,Vietnamese,nocollege,2,Yes,under8,34,75,advanced,,mostlive,Female
+,-1,,,,,-1,,,,76,,,,
+mid,0,VietEng,eng,english,midsem,1,Yes,under8,28,77,int,,shortlive,Male
+none,3,VietViet,Vieteng,English,onesem,0,No,under8,35,78,near native,,shortlive,Female
+small,1,L2,Viet,Vietenamese,midsem,1,No,neverlived,36,79,near native,cảm ơn,midlive,Female
+small,3,VietViet,Viet,Vietnamese,onesem,1,Yes,neverlived,25,80,advanced,TỐT,midlive,Female
+most,3,VietViet,Viet,Tieng Viet,nocollege,1,Yes,both8,22,81,native,,mostlive,Male
+none,2,VietViet,eng,Tiếng Việt,onesem,0,No,under8,27,82,near native,Tôi thích nghiên cứu này,shortlive,Other
+small,1,VietViet,eng,ANH,onesem,0,No,under8,31,83,int,,midlive,Male
+small,0,VietEng,Viet,ENGLISH,nocollege,0,No,neverlived,33,84,int,Chúng tôi,shortlive,Male
+most,3,VietEng,eng,,mostsem,0,No,neverlived,34,85,basic,VERY NICE,neverlived,Male
+mid,3,L2,Viet,English,onesem,0,Yes,over8,28,86,advanced,"Vâng, rất vui",shortlive,Male
+small,1,L2,Viet,United States,onesem,2,No,neverlived,25,87,int,,midlive,Male
+small,2,VietEng,Viet,portugues,nocollege,2,No,neverlived,21,88,int,ok,midlive,Male
+mid,1,VietViet,Viet,United States,midsem,1,No,under8,28,89,int,no,midlive,Male
