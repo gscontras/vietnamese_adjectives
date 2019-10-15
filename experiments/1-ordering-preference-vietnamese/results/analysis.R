@@ -15,7 +15,7 @@ d$years = s$years[match(d$workerid,s$workerid)]
 unique(d$language)
 
 all <- d
-# only native Vietnamese speakers (n=2)
+# only native Vietnamese speakers (n=1)
 d = d[d$language=="tiếng việt"|
         d$language=="Tiếng Việt"|
         d$language=="vietnamese"|
