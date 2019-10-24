@@ -5,6 +5,7 @@
 //		{"Sentence": "box big", "Predicate": "big", "Noun": "box"}
 //		]
 
+//testing corpus in Viet-Faultless-Disagreement-TEST file
 var adjectives = _.shuffle([
 		{"Predicate":"màu đỏ", "EnglishPredicate": "red", "Class":"color"},
 		{"Predicate":"màu vàng", "EnglishPredicate": "yellow", "Class":"color"},
