@@ -6,45 +6,46 @@
 //		]
 
 var adjectives = _.shuffle([
-		{"Predicate":"red", "Class":"color"},
-		{"Predicate":"yellow", "Class":"color"},
-		{"Predicate":"green", "Class":"color"},
-		{"Predicate":"blue", "Class":"color"},
-		{"Predicate":"purple", "Class":"color"},
-		{"Predicate":"brown", "Class":"color"},											
-		{"Predicate":"big", "Class":"size"},
-		{"Predicate":"small", "Class":"size"},					
-		{"Predicate":"huge", "Class":"size"},					
-		{"Predicate":"tiny", "Class":"size"},					
-		{"Predicate":"short", "Class":"size"},					
-		{"Predicate":"long", "Class":"size"},							
-		{"Predicate":"wooden", "Class":"material"},
-		{"Predicate":"plastic", "Class":"material"},
-		{"Predicate":"metal", "Class":"material"},
-		{"Predicate":"smooth", "Class":"texture"},
-		{"Predicate":"hard", "Class":"texture"},
-		{"Predicate":"soft", "Class":"texture"},
-		{"Predicate":"old", "Class":"age"},
-		{"Predicate":"new", "Class":"age"},
-		{"Predicate":"rotten", "Class":"age"},
-		{"Predicate":"fresh", "Class":"age"},
-		{"Predicate":"good", "Class":"quality"},
-		{"Predicate":"bad", "Class":"quality"},
-		{"Predicate":"round", "Class":"shape"},						
-		{"Predicate":"square", "Class":"shape"}
+		{"Predicate":"màu đỏ", "EnglishPredicate": "red", "Class":"color"},
+		{"Predicate":"màu vàng", "EnglishPredicate": "yellow", "Class":"color"},
+		{"Predicate":"màu xanh lá", "EnglishPredicate": "green", "Class":"color"},
+		{"Predicate":"màu xanh dương", "EnglishPredicate": "blue", "Class":"color"},
+		{"Predicate":"màu tím", "EnglishPredicate": "purple", "Class":"color"},
+		{"Predicate":"màu nâu", "EnglishPredicate": "brown", "Class":"color"},											
+		{"Predicate":"to", "EnglishPredicate": "big", "Class":"size"},
+		{"Predicate":"nhỏ", "EnglishPredicate": "small", "Class":"size"},					
+		{"Predicate":"nặng", "EnglishPredicate": "heavy", "Class":"size"},					
+		{"Predicate":"nhẹ", "EnglishPredicate": "light", "Class":"size"},					
+		{"Predicate":"ngắn", "EnglishPredicate": "short", "Class":"size"},					
+		{"Predicate":"dài", "EnglishPredicate": "long", "Class":"size"},							
+		{"Predicate":"Mỹ", "EnglishPredicate": "american", "Class":"nationality"},
+		{"Predicate":"Đức", "EnglishPredicate": "german", "Class":"nationality"},
+		{"Predicate":"Pháp", "EnglishPredicate": "french", "Class":"nationality"},
+		{"Predicate":"trơn", "EnglishPredicate": "smooth", "Class":"texture"},
+		{"Predicate":"rắn", "EnglishPredicate": "hard", "Class":"texture"},
+		{"Predicate":"mềm", "EnglishPredicate": "soft", "Class":"texture"},
+		{"Predicate":"cũ", "EnglishPredicate": "old", "Class":"age"},
+		{"Predicate":"mới", "EnglishPredicate": "new", "Class":"age"},
+		{"Predicate":"hư", "EnglishPredicate": "rotten", "Class":"age"},
+		{"Predicate":"tươi", "EnglishPredicate": "fresh", "Class":"age"},
+		{"Predicate":"mắc", "EnglishPredicate": "expensive", "Class":"quality"},
+		{"Predicate":"tệ", "EnglishPredicate": "bad", "Class":"quality"},
+		{"Predicate":"tròn", "EnglishPredicate": "round", "Class":"shape"},						
+		{"Predicate":"vuông", "EnglishPredicate": "square", "Class":"shape"}
 ]);
 
+//added classifiers
 var nouns = [
-		{"Noun":"apple", "NounClass":"food"},
-		{"Noun":"banana", "NounClass":"food"},
-		{"Noun":"carrot", "NounClass":"food"},
-		{"Noun":"cheese", "NounClass":"food"},
-		{"Noun":"tomato", "NounClass":"food"},								
-		{"Noun":"chair", "NounClass":"furniture"},								
-		{"Noun":"couch", "NounClass":"furniture"},								
-		{"Noun":"fan", "NounClass":"furniture"},								
-		{"Noun":"TV", "NounClass":"furniture"},								
-		{"Noun":"desk", "NounClass":"furniture"}								
+		{"Noun":"táo", "NounClass":"food", "Classifier":"quả"},
+		{"Noun":"chuối", "NounClass":"food", "Classifier":"quả"},
+		{"Noun":"cà rốt", "NounClass":"food", "Classifier":"củ"},
+		{"Noun":"phô mai", "NounClass":"food", "Classifier":"lát"},
+		{"Noun":"cà chua", "NounClass":"food", "Classifier":"quả"},								
+		{"Noun":"ghế", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"tủ", "NounClass":"furniture", "Classifier":"cái"},								
+		{"Noun":"quạt máy", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"ti-vi", "NounClass":"furniture", "Classifier":"chiếc"},								
+		{"Noun":"bàn", "NounClass":"furniture", "Classifier":"cái"}								
 ];
 
 var stimuli =  makeStims();
@@ -52,17 +53,26 @@ var stimuli =  makeStims();
 function makeStims() {
 	stims = [];
 
-	for (var i=0; i<adjectives.length; i++) {
+	while (stims.length < 26) {
 		noun = _.sample(nouns);
-		stims.push(
-			{
-				"Predicate":adjectives[i].Predicate,
-				"Class":adjectives[i].Class,				
-				"Noun":noun.Noun,
-				"NounClass":noun.NounClass
-			}
+		pred1 = _.sample(adjectives);
+		pred2 = _.sample(adjectives);
+		if (pred1.Class!=pred2.Class) {
+			stims.push(
+				{
+					"Predicate1":pred1.Predicate,
+					"Predicate1English":pred1.EnglishPredicate,
+					"Class1":pred1.Class,	
+					"Predicate2":pred2.Predicate,
+					"Predicate2English":pred2.EnglishPredicate,
+					"Class2":pred2.Class,			
+					"Noun":noun.Noun,
+					"NounClass":noun.NounClass,
+					"Classifier":noun.Classifier,
+				}			
 			);
 		}
+	}
 		
 	return stims;
 	
