@@ -1,7 +1,8 @@
 <html>
 
 <head>
-    <title>Corpus-based faultless disagreement</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Vietnamese faultless disagreement</title>
 
     <!--JS-->
 
@@ -28,7 +29,7 @@
 
     <!--CSS-->
     <link href="../_shared/full-projects/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
-    <link href="../_shared/css/cocolab-style.css" rel="stylesheet" type="text/css"/>
+    <link href="../_shared/css/meaningLab-style.css" rel="stylesheet" type="text/css"/>
     <link href="css/local-style.css" rel="stylesheet" type="text/css"/>
 
     <!-- experiment file -->
@@ -36,15 +37,6 @@
     <script src="expt-files/corpus.js"></script>
     <script src="expt-files/names.js"></script>
 
-    <script> 
-      var myimages=new Array("../expt-files/images/context1.1.png","../expt-files/images/context1.3.png","../expt-files/images/context1.3reg.png","../expt-files/images/context2.1.png","../expt-files/images/context2.3.png","../expt-files/images/context2.3reg.png","../expt-files/images/context3.1.png","../expt-files/images/context3.3.png","../expt-files/images/context3.3reg.png","../expt-files/images/context4.1.png","../expt-files/images/context4.3.png","../expt-files/images/context4.3reg.png","../expt-files/images/contextX.2.png")
-      function preloadimages(){
-        for (i=0;i<preloadimages.arguments.length;i++){
-          myimages[i]=new Image()
-          myimages[i].src=preloadimages.arguments[i]
-          }
-          }
-    </script>
     
 </head>
 
@@ -52,8 +44,7 @@
   <noscript>This task requires JavaScript.</noscript>
 
   <div class="slide" id="i0" >
-    <img src="../_shared/images/cocologo.png" alt="Stanford CoCoLab" id="cocologo"></img>
-    <p id="cocolab">The Meaning Lab</p>
+    <img src="../_shared/images/meaningLab.png" alt="UCI meaning lab" id="meaningLabLogo"></img>
     <p id="instruct-text">HIT này đòi hỏi bạn phiên dịch vài câu tiếng Anh. Làm nhiệm vụ này sẽ mất khoảng sáu phút. Xin bạn chú ý. Cảm ơn bạn nhiều lắm! </p>
     <button id="start_button" type="button">Bắt Đầu Thí Nghiệm</button>
     <p id="legal">Thông Tin Pháp Luật: Nếu bạn trả lời các câu hỏi sau đây, bạn đã đồng ý tham gia vào việc nghiên cứu của những nhà khoa học trong Đại Học California Irvine. Nếu bạn có bất kì thắc mắc gì, xin bạn hay liên hệ với <a href="mailto://g.scontras@uci.edu">g.scontras@uci.edu</a>. Bạn phải ít nhất 18 tuổi để tham gia vào việc nghiên cứu này. Sự tham gia của bạn trong việc nghiên cứu này hoàn toàn là do bạn quyết định tình nguyện làm. Bạn có thể từ chối trả lời bất cứ câu hỏi nào hay dừng tham gia bất cứ khi nào nếu bạn muốn. Danh tính của bạn sẽ được chúng tôi giữ bí mật hoàn toàn và không chia sẽ cho bất cứ ai khác.</p>

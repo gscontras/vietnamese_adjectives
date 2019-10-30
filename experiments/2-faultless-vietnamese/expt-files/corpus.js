@@ -6,8 +6,8 @@
 //		]
 
 //testing corpus in Viet-Faultless-Disagreement-TEST file
-var adjectives = _.shuffle([
-		{"Predicate":"màu đỏ", "EnglishPredicate": "red", "Class":"color"},
+var adjectives = [
+		{"Predicate":"màu đỏ", "EnglishPredicate": "red", "Class":"color", "Positive": "màu đỏ", "Negative": "không phải là màu đỏ"},
 		{"Predicate":"màu vàng", "EnglishPredicate": "yellow", "Class":"color"},
 		{"Predicate":"màu xanh lá", "EnglishPredicate": "green", "Class":"color"},
 		{"Predicate":"màu xanh dương", "EnglishPredicate": "blue", "Class":"color"},
@@ -33,20 +33,20 @@ var adjectives = _.shuffle([
 		{"Predicate":"tệ", "EnglishPredicate": "bad", "Class":"quality"},
 		{"Predicate":"tròn", "EnglishPredicate": "round", "Class":"shape"},						
 		{"Predicate":"vuông", "EnglishPredicate": "square", "Class":"shape"}
-]);
+];
 
 //added classifiers
 var nouns = [
-		{"Noun":"táo", "NounClass":"food", "Classifier":"quả"},
-		{"Noun":"chuối", "NounClass":"food", "Classifier":"quả"},
-		{"Noun":"cà rốt", "NounClass":"food", "Classifier":"củ"},
-		{"Noun":"phô mai", "NounClass":"food", "Classifier":"lát"},
-		{"Noun":"cà chua", "NounClass":"food", "Classifier":"quả"},								
-		{"Noun":"ghế", "NounClass":"furniture", "Classifier":"chiếc"},								
-		{"Noun":"tủ", "NounClass":"furniture", "Classifier":"cái"},								
-		{"Noun":"quạt máy", "NounClass":"furniture", "Classifier":"chiếc"},								
-		{"Noun":"ti-vi", "NounClass":"furniture", "Classifier":"chiếc"},								
-		{"Noun":"bàn", "NounClass":"furniture", "Classifier":"cái"}								
+		{"Noun":"táo", "NounClass":"food", "Classifier":"Quả"},
+		{"Noun":"chuối", "NounClass":"food", "Classifier":"Quả"},
+		{"Noun":"cà rốt", "NounClass":"food", "Classifier":"Củ"},
+		{"Noun":"phô mai", "NounClass":"food", "Classifier":"Lát"},
+		{"Noun":"cà chua", "NounClass":"food", "Classifier":"Quả"},								
+		{"Noun":"ghế", "NounClass":"furniture", "Classifier":"Chiếc"},								
+		{"Noun":"tủ", "NounClass":"furniture", "Classifier":"Cái"},								
+		{"Noun":"quạt máy", "NounClass":"furniture", "Classifier":"Chiếc"},								
+		{"Noun":"ti-vi", "NounClass":"furniture", "Classifier":"Chiếc"},								
+		{"Noun":"bàn", "NounClass":"furniture", "Classifier":"Cái"}								
 ];
 
 var stimuli =  makeStims();
@@ -54,26 +54,21 @@ var stimuli =  makeStims();
 function makeStims() {
 	stims = [];
 
-	while (stims.length < 26) {
+	for (var i=0; i<adjectives.length; i++) {
 		noun = _.sample(nouns);
-		pred1 = _.sample(adjectives);
-		pred2 = _.sample(adjectives);
-		if (pred1.Class!=pred2.Class) {
-			stims.push(
-				{
-					"Predicate1":pred1.Predicate,
-					"Predicate1English":pred1.EnglishPredicate,
-					"Class1":pred1.Class,	
-					"Predicate2":pred2.Predicate,
-					"Predicate2English":pred2.EnglishPredicate,
-					"Class2":pred2.Class,			
-					"Noun":noun.Noun,
-					"NounClass":noun.NounClass,
-					"Classifier":noun.Classifier,
-				}			
+		stims.push(
+			{
+				"Predicate":adjectives[i].Predicate,
+				"PredicateEnglish":adjectives[i].EnglishPredicate,
+				"Class":adjectives[i].Class,				
+				"Noun":noun.Noun,
+				"NounClass":noun.NounClass,
+				"Classifier":noun.Classifier,
+				"Positive": adjectives[i].Positive,
+				"Negative": adjectives[i].Negative
+			}
 			);
 		}
-	}
 		
 	return stims;
 	
