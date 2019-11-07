@@ -54,9 +54,23 @@ function make_slides(f) {
 
       //$(".woman2").html(man2);
 
-      $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[0]] + ".\"");
+      if (stim.Class=="nationality") {
+        if (this.verbs[0]=="Positive"){
+            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của nước " + stim.Predicate + ".\"");
 
-      $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[1]] + ".\"");
+            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó không phải của nước " + stim.Predicate + ".\"");
+        } else {
+            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó không phải của nước " + stim.Predicate + ".\"");
+
+            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của nước " + stim.Predicate + ".\"");
+        }
+
+      } else {
+        $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[0]] + ".\"");
+
+        $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[1]] + ".\"");
+
+      }
 
 //      this.sentence_types = _.shuffle(["yes","no"]);
 //      this.sentence_types = ["no","yes"];
