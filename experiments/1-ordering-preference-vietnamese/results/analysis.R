@@ -44,7 +44,8 @@ all <- d
 # only native Vietnamese speakers (n=1)
 d = d[d$language!="greg"&
         d$language!=""&
-        d$language!="Japanese"
+        d$language!="Japanese"&
+        d$language!="Việt Nam"
         ,]
 d = d[d$describe=="VietViet",]
 d = d[d$lived=="both8"&d$years=="mostlive",]
@@ -99,5 +100,5 @@ ggplot(data=class_s,aes(x=reorder(correctclass,-correctresponse,mean),y=correctr
   ylim(0,1)+
   #labs("order\npreference")+
   theme_bw()#+
-
+#ggsave("vietnamese-class-distance.png")
 
