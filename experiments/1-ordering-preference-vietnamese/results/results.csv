@@ -734,3 +734,81 @@
 23,age,color,cái,tủ,furniture,hư,rotten,màu xanh dương,blue,0.16,26,Việt Nam,2,No,30,Male,4,It is very interesting survey that I have participated in :) Good luck!,VietEng,most,onesem,both8,mostlive,Viet,native,Chrome,Windows,864,1536,8.029016666666667,30
 24,age,size,củ,cà rốt,food,cũ,old,dài,long,0.08,27,Việt Nam,2,No,30,Male,4,It is very interesting survey that I have participated in :) Good luck!,VietEng,most,onesem,both8,mostlive,Viet,native,Chrome,Windows,864,1536,8.029016666666667,30
 25,size,age,chiếc,ghế,furniture,dài,long,cũ,old,0.9,28,Việt Nam,2,No,30,Male,4,It is very interesting survey that I have participated in :) Good luck!,VietEng,most,onesem,both8,mostlive,Viet,native,Chrome,Windows,864,1536,8.029016666666667,30
+0,shape,color,chiếc,quạt máy,furniture,tròn,round,màu vàng,yellow,0.03,3,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+1,shape,size,quả,cà chua,food,vuông,square,nhẹ,light,0.07,4,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+2,size,color,lát,phô mai,food,dài,long,màu xanh dương,blue,0.1,5,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+3,shape,color,chiếc,ti-vi,furniture,vuông,square,màu xanh dương,blue,0.02,6,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+4,size,color,chiếc,ghế,furniture,nặng,heavy,màu vàng,yellow,0.12,7,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+5,texture,color,chiếc,quạt máy,furniture,rắn,hard,màu xanh dương,blue,0.09,8,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+6,quality,color,cái,tủ,furniture,tệ,bad,màu đỏ,red,0.1,9,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+7,color,nationality,chiếc,ti-vi,furniture,màu vàng,yellow,Pháp,french,0.96,10,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+8,nationality,size,củ,cà rốt,food,Pháp,french,nặng,heavy,0.01,11,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+9,shape,age,chiếc,quạt máy,furniture,tròn,round,cũ,old,0.4,12,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+10,quality,size,quả,chuối,food,mắc,expensive,to,big,0.91,13,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+11,color,age,củ,cà rốt,food,màu tím,purple,mới,new,0.87,14,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+12,texture,size,cái,bàn,furniture,mềm,soft,to,big,0.91,15,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+13,size,age,quả,chuối,food,ngắn,short,mới,new,0.1,16,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+14,color,size,quả,cà chua,food,màu nâu,brown,ngắn,short,0.99,17,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+15,shape,color,chiếc,quạt máy,furniture,vuông,square,màu đỏ,red,0.03,18,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+16,age,size,chiếc,ti-vi,furniture,cũ,old,to,big,0.73,19,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+17,color,quality,chiếc,ti-vi,furniture,màu nâu,brown,mắc,expensive,0.95,20,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+18,age,texture,lát,phô mai,food,cũ,old,trơn,smooth,0.94,21,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+19,texture,size,quả,cà chua,food,mềm,soft,nặng,heavy,0.5,22,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+20,nationality,shape,chiếc,ti-vi,furniture,Mỹ,american,vuông,square,0.08,23,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+21,texture,size,củ,cà rốt,food,mềm,soft,ngắn,short,0.41,24,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+22,quality,color,chiếc,quạt máy,furniture,tệ,bad,màu vàng,yellow,0.0,25,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+23,texture,color,lát,phô mai,food,trơn,smooth,màu xanh lá,green,0.04,26,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+24,quality,texture,cái,tủ,furniture,tệ,bad,trơn,smooth,0.39,27,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+25,size,age,quả,cà chua,food,nặng,heavy,mới,new,0.46,28,asdf,-1,,asdf,Male,2,dead,,,,,,,,Chrome,Windows,1024,1280,13.255,31
+0,size,color,chiếc,quạt máy,furniture,nhỏ,small,màu xanh lá,green,0.0,3,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+1,nationality,quality,quả,cà chua,food,Mỹ,american,tệ,bad,0.0,4,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+2,texture,nationality,cái,bàn,furniture,trơn,smooth,Đức,german,1.0,5,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+3,color,size,chiếc,ti-vi,furniture,màu vàng,yellow,nhẹ,light,0.0,6,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+4,age,texture,lát,phô mai,food,cũ,old,trơn,smooth,0.0,7,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+5,quality,size,chiếc,ghế,furniture,tệ,bad,nhẹ,light,0.0,8,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+6,quality,size,cái,tủ,furniture,mắc,expensive,to,big,1.0,9,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+7,nationality,color,quả,cà chua,food,Đức,german,màu nâu,brown,0.0,10,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+8,age,size,quả,cà chua,food,mới,new,ngắn,short,0.0,11,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+9,quality,age,cái,tủ,furniture,mắc,expensive,tươi,fresh,0.0,12,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+10,color,size,quả,cà chua,food,màu nâu,brown,to,big,0.0,13,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+11,nationality,color,cái,tủ,furniture,Pháp,french,màu nâu,brown,0.0,14,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+12,shape,quality,quả,chuối,food,tròn,round,tệ,bad,0.0,15,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+13,quality,color,quả,chuối,food,mắc,expensive,màu xanh lá,green,1.0,16,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+14,color,age,cái,tủ,furniture,màu nâu,brown,hư,rotten,0.0,17,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+15,nationality,texture,chiếc,ti-vi,furniture,Pháp,french,mềm,soft,0.0,18,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+16,color,shape,chiếc,quạt máy,furniture,màu xanh lá,green,tròn,round,0.0,19,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+17,size,color,quả,cà chua,food,ngắn,short,màu vàng,yellow,1.0,20,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+18,age,size,quả,táo,food,cũ,old,to,big,0.0,21,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+19,shape,nationality,quả,táo,food,tròn,round,Mỹ,american,0.0,22,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+20,color,size,lát,phô mai,food,màu nâu,brown,to,big,0.0,23,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+21,color,quality,quả,cà chua,food,màu nâu,brown,tệ,bad,0.0,24,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+22,color,nationality,chiếc,ti-vi,furniture,màu vàng,yellow,Pháp,french,0.0,25,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+23,color,texture,quả,chuối,food,màu xanh lá,green,rắn,hard,0.0,26,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+24,color,size,chiếc,ti-vi,furniture,màu xanh lá,green,nặng,heavy,0.0,27,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+25,color,size,cái,bàn,furniture,màu đỏ,red,nhỏ,small,0.0,28,Việt,1,Yes,20,Female,1,,VietViet,most,onesem,both8,mostlive,Viet,native,Firefox,Windows,1080,1920,2.6536666666666666,32
+0,color,quality,quả,táo,food,màu xanh lá,green,mắc,expensive,0.48,3,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+1,quality,color,cái,bàn,furniture,mắc,expensive,màu vàng,yellow,0.47,4,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+2,color,nationality,cái,bàn,furniture,màu vàng,yellow,Đức,german,0.67,5,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+3,texture,age,chiếc,quạt máy,furniture,rắn,hard,mới,new,0.91,6,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+4,size,color,quả,chuối,food,dài,long,màu xanh lá,green,0.09,7,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+5,size,age,chiếc,ghế,furniture,to,big,hư,rotten,0.17,8,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+6,color,texture,chiếc,quạt máy,furniture,màu đỏ,red,mềm,soft,0.23,9,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+7,color,size,chiếc,ti-vi,furniture,màu đỏ,red,dài,long,0.81,10,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+8,age,size,chiếc,quạt máy,furniture,cũ,old,to,big,0.83,11,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+9,size,color,cái,bàn,furniture,to,big,màu xanh lá,green,0.07,12,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+10,size,quality,củ,cà rốt,food,nhỏ,small,tệ,bad,0.1,13,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+11,shape,quality,lát,phô mai,food,vuông,square,tệ,bad,0.07,14,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+12,size,age,chiếc,ti-vi,furniture,nặng,heavy,hư,rotten,0.96,15,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+13,size,age,lát,phô mai,food,ngắn,short,mới,new,0.13,16,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+14,color,texture,quả,táo,food,màu tím,purple,trơn,smooth,0.87,17,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+15,nationality,texture,củ,cà rốt,food,Mỹ,american,mềm,soft,0.13,18,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+16,color,texture,chiếc,ghế,furniture,màu đỏ,red,mềm,soft,0.12,19,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+17,nationality,color,quả,chuối,food,Mỹ,american,màu vàng,yellow,0.12,20,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+18,texture,color,lát,phô mai,food,mềm,soft,màu xanh dương,blue,0.05,21,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+19,color,size,cái,tủ,furniture,màu đỏ,red,nặng,heavy,0.84,22,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+20,color,shape,chiếc,quạt máy,furniture,màu đỏ,red,tròn,round,0.84,23,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+21,texture,size,cái,tủ,furniture,rắn,hard,dài,long,0.12,24,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+22,size,nationality,củ,cà rốt,food,dài,long,Pháp,french,0.93,25,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+23,shape,texture,quả,cà chua,food,vuông,square,mềm,soft,0.06,26,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+24,nationality,age,quả,táo,food,Đức,german,tươi,fresh,0.08,27,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
+25,age,color,cái,bàn,furniture,cũ,old,màu tím,purple,0.09,28,,-1,Yes,,Female,-1,,,,,,,,,Safari,iPhone/iPod,736,414,3.7088666666666668,33
