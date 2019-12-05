@@ -56,13 +56,13 @@ function make_slides(f) {
 
       if (stim.Class=="nationality") {
         if (this.verbs[0]=="Positive"){
-            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của " + stim.Predicate + ".\"");
-
-            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó không phải là của " + stim.Predicate + ".\"");
+            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của nước " + stim.Predicate + ".\"");
+            // $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó không phải là của " + stim.Predicate + ".\"");
+            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó không phải là của nước " + stim.Predicate + ".\"");
         } else {
-            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó không phải là của " + stim.Predicate + ".\"");
+            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó không phải là của nước " + stim.Predicate + ".\"");
 
-            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của " + stim.Predicate + ".\"");
+            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của nước " + stim.Predicate + ".\"");
         }
 
       } else {
