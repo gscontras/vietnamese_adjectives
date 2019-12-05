@@ -24,72 +24,25 @@ function make_slides(f) {
 
   slides.multi_slider = slide({
     name : "multi_slider",
-    // present : _.shuffle(stimuli),
-    present : stimuli,
+    present : _.shuffle(stimuli),
     present_handle : function(stim) {
       $(".err").hide();
       this.init_sliders();      
       exp.sliderPost = null;
-      // $('input[name="sense"]:checked').attr('checked',false);
-      this.stim = stim; //FRED: allows you to access stim in helpers
-      //var noun_data = _.sample(corpus.Noun)
-      //this.noun_data = noun_data;
-      //var noun = noun_data.noun;
-      //var animacy = noun_data.animacy;
-
-      this.verbs = _.shuffle(["Positive","Negative"])
+      this.stim = stim; //allows you to access stim in helpers
 
       var names_list = _.shuffle(names);
 
-      var man1 = names_list[0];
-      var man2 = names_list[1];
-
-      $(".man1").html(man1);
-
-      $(".man2").html(man2);
+      var name = names_list[0];
 
       $(".noun").html(stim.Noun);
 
-      //$(".woman1").html(woman1);
+      $(".low").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate1 + " " + stim.Predicate2 + " là của " + name + ".\"");
 
-      //$(".woman2").html(man2);
+      $(".high").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate2 + " " + stim.Predicate1 + " là của " + name + ".\"");
+      
+		  this.n_sliders = 1;
 
-      if (stim.Class=="nationality") {
-        if (this.verbs[0]=="Positive"){
-            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của " + stim.Predicate + ".\"");
-
-            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó không phải là của " + stim.Predicate + ".\"");
-        } else {
-            $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó không phải là của " + stim.Predicate + ".\"");
-
-            $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó là " + stim.Noun + " của " + stim.Predicate + ".\"");
-        }
-
-      } else {
-        $(".utterance1").html("\"" + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[0]] + ".\"");
-
-        $(".utterance2").html("\"Không phải. " + stim.Classifier + " " + stim.Noun + " đó " + stim[this.verbs[1]] + ".\"");
-
-      }
-
-//      this.sentence_types = _.shuffle(["yes","no"]);
-//      this.sentence_types = ["no","yes"];
-//      var sentences = {
-//        "yes": "Yes, it's a matter of opinion.",
-//        "no": "No, somebody must be wrong.",
-//      };
-
-//      this.n_sliders = this.sentence_types.length;
-		this.n_sliders = 1;
-//      $(".slider_row").remove();
-//      for (var i=0; i<this.n_sliders; i++) {
-//        var sentence_type_left = this.sentence_types[0];
-//        var sentence_type_left = this.sentence_types[1];        
-//        var sentence_left = sentences[sentence_type_left];
-//        var sentence_right = sentences[sentence_type_right];        
-//        $("#multi_slider_table").append('<tr class="slider_row"><td class="slider_target" id="sentence0">' + "<font size='4'>" + sentence_left + "</font>" + '</td><td colspan="2"><div id="slider0" class="slider">-------[ ]--------</div></td><td class="slider_target" id="sentence1">' + "<font size='4'>" + sentence_right + "</font>" + '</td></tr>');
-//        utils.match_row_height("#multi_slider_table", ".slider_target");
-//      }
 
     },
 
@@ -116,12 +69,15 @@ function make_slides(f) {
     log_responses : function() {
         exp.data_trials.push({
           "response" : exp.sliderPost,
-          "noun" : this.stim.Noun,          
-          "predicate" : this.stim.Predicate,
-          "nounclass" : this.stim.NounClass,
-          "class" : this.stim.Class,                    
-          "firstutterance" : this.verbs[0],
-          // "sense" : $('input[name="sense"]:checked').val(),        
+          "noun" : this.stim.Noun,  
+          "nounclass" : this.stim.NounClass,  
+          "classifier" : this.stim.Classifier,      
+          "predicate1" : this.stim.Predicate1,
+          "predicate1English" : this.stim.Predicate1English,
+          "predicate2" : this.stim.Predicate2,
+          "predicate2English" : this.stim.Predicate2English,
+          "class1" : this.stim.Class1,
+          "class2" : this.stim.Class2,                     
           "slide_number" : exp.phase
         });
     },
@@ -134,11 +90,18 @@ function make_slides(f) {
       exp.subj_data = {
         language : $("#language").val(),
         enjoyment : $("#enjoyment").val(),
-        asses : $('input[name="assess"]:checked').val(),
+        assess : $('input[name="assess"]:checked').val(),
         age : $("#age").val(),
         gender : $("#gender").val(),
         education : $("#education").val(),
         comments : $("#comments").val(),
+        describe: $("#describe").val(),
+        school: $("#school").val(),
+        college: $("#college").val(),
+        lived: $("#lived").val(),
+        years: $("#years").val(),
+        family:$("#family").val(),
+        level: $("#level").val()
       };
       exp.go(); //use exp.go() if and only if there is no "present" data.
     }
@@ -164,6 +127,16 @@ function make_slides(f) {
 
 /// init ///
 function init() {
+  repeatWorker = false;
+  (function(){
+      var ut_id = "vietnamese-adjectives";
+      if (UTWorkerLimitReached(ut_id)) {
+        $('.slide').empty();
+        repeatWorker = true;
+        alert("You have already completed the maximum number of HITs allowed by this requester. Please click 'Return HIT' to avoid any impact on your approval rating.  Bạn đã làm số tối đa của HIT người câu xin cho phép. Vui lòng nhắp 'Return HIT' để tránh ảnh hưởng tệ trên mực độ tán thành.");
+      }
+  })();
+
   exp.trials = [];
   exp.catch_trials = [];
   exp.instruction = _.sample(["instruction1","instruction2"]);
