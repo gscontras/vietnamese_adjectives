@@ -49,7 +49,7 @@ d = d[d$language!="greg"&
         ,]
 d = d[d$describe=="VietViet",]
 d = d[d$lived=="both8"&d$years=="mostlive",]
-length(unique(d$workerid)) # n=13 (29)
+length(unique(d$workerid)) # n=13 (30)
 summary(d)
 
 #####
