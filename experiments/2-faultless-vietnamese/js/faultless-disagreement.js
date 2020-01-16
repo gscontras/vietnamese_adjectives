@@ -24,8 +24,8 @@ function make_slides(f) {
 
   slides.multi_slider = slide({
     name : "multi_slider",
-    // present : _.shuffle(stimuli),
-    present : stimuli,
+    present : _.shuffle(stimuli),
+    // present : stimuli,
     present_handle : function(stim) {
       $(".err").hide();
       this.init_sliders();      
@@ -118,6 +118,7 @@ function make_slides(f) {
           "response" : exp.sliderPost,
           "noun" : this.stim.Noun,          
           "predicate" : this.stim.Predicate,
+          "englishPredicate": this.stim.PredicateEnglish,
           "nounclass" : this.stim.NounClass,
           "class" : this.stim.Class,                    
           "firstutterance" : this.verbs[0],
@@ -134,11 +135,18 @@ function make_slides(f) {
       exp.subj_data = {
         language : $("#language").val(),
         enjoyment : $("#enjoyment").val(),
-        asses : $('input[name="assess"]:checked').val(),
+        assess : $('input[name="assess"]:checked').val(),
         age : $("#age").val(),
         gender : $("#gender").val(),
         education : $("#education").val(),
         comments : $("#comments").val(),
+        describe: $("#describe").val(),
+        school: $("#school").val(),
+        college: $("#college").val(),
+        lived: $("#lived").val(),
+        years: $("#years").val(),
+        family:$("#family").val(),
+        level: $("#level").val()
       };
       exp.go(); //use exp.go() if and only if there is no "present" data.
     }

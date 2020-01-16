@@ -37,9 +37,9 @@ function make_slides(f) {
 
       $(".noun").html(stim.Noun);
 
-      $(".low").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate1 + " " + stim.Predicate2 + " là của " + name + ".\"");
+      $(".low").html("\""+ stim.Classifier+ " " + stim.Noun + " <b>" + stim.Predicate1 + " " + stim.Predicate2 + "</b> là của " + name + ".\"");
 
-      $(".high").html("\""+ stim.Classifier+ " " + stim.Noun + " " + stim.Predicate2 + " " + stim.Predicate1 + " là của " + name + ".\"");
+      $(".high").html("\""+ stim.Classifier+ " " + stim.Noun + " <b>" + stim.Predicate2 + " " + stim.Predicate1 + "</b> là của " + name + ".\"");
       
 		  this.n_sliders = 1;
 
