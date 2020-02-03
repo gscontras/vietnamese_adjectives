@@ -2,22 +2,19 @@ library(ggplot2)
 library(reshape2)
 library(lme4)
 
-setwd("~/Documents/git/cocolab/adjective_ordering/experiments/2-faultless-disagreement/Submiterator-master")
+setwd("~/git/vietnamese_adjectives/experiments/2-faultless-vietnamese/results/")
 
-d = read.table("faultless-disagreement-2-trials.tsv",sep="\t",header=T)
+d = read.csv("results.csv",header=T)
 head(d)
-s = read.table("faultless-disagreement-2-subject_information.tsv",sep="\t",header=T)
-head(s)
-d$language = s$language[match(d$workerid,s$workerid)]
+
 summary(d)
 
-model.7 = lm(response~predicate, data=d)
-model.11 = lm(response~predicate+noun:predicate, data=d)
-anova(model.7,model.11)
-summary(model.7)
-summary(model.11)
+d = d[d$describe=="VietViet",]
+d = d[d$lived=="both8"&d$years=="mostlive",]
 
-pairwise.t.test(d$response, d$class, p.adj = "bonf")
+unique(d$language)
+
+length(unique(d$participant_id))
 
 aggregate(response~class,data=d,mean)
 
