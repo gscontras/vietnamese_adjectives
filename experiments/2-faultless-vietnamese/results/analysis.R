@@ -1,32 +1,33 @@
 library(ggplot2)
-library(reshape2)
 library(lme4)
-
+library(hydroGOF)
+library(dplyr)
+library(lmerTest)
 setwd("~/git/vietnamese_adjectives/experiments/2-faultless-vietnamese/results/")
+source("helpers.R")
 
 d = read.csv("results.csv",header=T)
 head(d)
 
-summary(d)
-
-d = d[d$describe=="VietViet",]
+#d = d[d$describe=="VietViet",]
 d = d[d$lived=="both8"&d$years=="mostlive",]
+d = d[d$language!="Vietnam"&
+        d$language!="English"&
+        d$language!="Việt Nam",]
 
 unique(d$language)
 
-length(unique(d$participant_id))
+length(unique(d$participant_id)) # n=17 (30)
 
 aggregate(response~class,data=d,mean)
+d_agr = aggregate(response~predicate,FUN=mean,data=d)
 
-d$class <- factor(d$class,levels=c("quality","size","age","texture","color","shape","material"))
-
-table(d$class,d$nounclass)
+#d$class <- factor(d$class,levels=c("quality","size","age","texture","color","shape","nationality"))
 
 ## class plot
 d_s = bootsSummary(data=d, measurevar="response", groupvars=c("class"))
 # save data for aggregate plot
 #write.csv(d_s,"~/Documents/git/cocolab/adjective_ordering/presentations/DGfS/plots/faultless.csv")
-
 class_plot <- ggplot(d_s, aes(x=reorder(class,-response,mean),y=response)) +
   geom_bar(stat="identity",position=position_dodge()) +
   geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(class,-response,mean), width=0.1),position=position_dodge(width=0.9))+
@@ -38,28 +39,30 @@ class_plot
 ggsave("../results/class_plot.pdf",height=3)
 
 
-## predicate plot by class
-p_s = bootsSummary(data=d, measurevar="response", groupvars=c("class","predicate"))
-p_s$predicate <- factor(p_s$predicate,ordered=is.ordered(p_s$predicate))
-pred_plot <- ggplot(p_s, aes(x=reorder(predicate,-response,mean),y=response)) +
-  geom_bar(stat="identity",position=position_dodge()) +
-  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(predicate,response,is.ordered=T), width=0.1),position=position_dodge(width=0.9))+
-  ylab("faultless disagreement\n")+
-  xlab("predicate") +
-  facet_wrap(~class,scale="free_x") +
-  theme(axis.text.x=element_text(angle=45,vjust=1,hjust=1))
-pred_plot
-ggsave("../results/pred_plot.pdf",height=5)
+#### comparison with faultless disgareement
 
-## predicate plot by class and noun
-n_s = bootsSummary(data=d, measurevar="response", groupvars=c("class","predicate","nounclass"))
-n_s$predicate <- factor(n_s$predicate,ordered=is.ordered(n_s$predicate))
-noun_plot <- ggplot(n_s, aes(x=reorder(predicate,-response,mean),y=response,fill=nounclass)) +
-  geom_bar(stat="identity",position=position_dodge()) +
-  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(predicate,response,is.ordered=T), width=0.1),position=position_dodge(width=0.9))+
-  ylab("faultless disagreement\n")+
-  xlab("predicate") +
-  facet_wrap(~class,scale="free_x") +
-  theme(axis.text.x=element_text(angle=45,vjust=1,hjust=1))
-noun_plot
-ggsave("../results/noun_plot.pdf",height=5)
+o = read.csv("../../1-ordering-preference-vietnamese/results/vietnamese-naturalness-duplicated.csv",header=T)
+
+o_agr = aggregate(correctresponse~predicate*correctclass,data=o,FUN=mean)
+
+o_agr$subjectivity = d_agr$response[match(o_agr$predicate,d_agr$predicate)]
+
+#### NO COLOR ADJECTIVES
+#o_agr = o_agr[o_agr$correctclass!="color",]
+
+gof(o_agr$correctresponse,o_agr$subjectivity)
+# r = 0.62, r2 = 0.39
+results <- boot(data=o_agr, statistic=rsq, R=10000, formula=correctresponse~subjectivity)
+boot.ci(results, type="bca") 
+# 95%   ( 0.0536,  0.6548 )   
+
+ggplot(o_agr, aes(x=subjectivity,y=correctresponse)) +
+  geom_point() +
+  #geom_smooth()+
+  stat_smooth(method="lm",color="black")+
+  #geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
+  ylab("preferred distance from noun\n")+
+  xlab("\nsubjectivity score")+
+  #ylim(0,1)+
+  theme_bw()
+#ggsave("../results/vietnamese-scatter-with-color.pdf",height=2.75,width=3.15)

@@ -1,6 +1,8 @@
 library(ggplot2)
 library(lme4)
 library(hydroGOF)
+library(dplyr)
+library(lmerTest)
 
 setwd("~/git/vietnamese_adjectives/experiments/1-ordering-preference-vietnamese/results")
 
@@ -74,8 +76,8 @@ agr$response = NULL
 agr$rightresponse = NULL
 agr$class1 = NULL
 agr$class2 = NULL
-nrow(agr) #624
-#write.csv(agr,"~/Documents/git/cocolab/adjective_ordering/experiments/analysis/naturalness-duplicated.csv")
+nrow(agr) #676
+#write.csv(agr,"vietnamese-naturalness-duplicated.csv")
 
 #agr = agr[!is.na(agr$correctresponse),]
 #v_agr <- agr
