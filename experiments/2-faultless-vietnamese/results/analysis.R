@@ -36,7 +36,7 @@ class_plot <- ggplot(d_s, aes(x=reorder(class,-response,mean),y=response)) +
   ylim(0,1) +
   theme_bw()
 class_plot
-ggsave("../results/class_plot.pdf",height=3)
+#ggsave("../results/class_plot.pdf",height=3)
 
 
 #### comparison with faultless disgareement
@@ -48,7 +48,7 @@ o_agr = aggregate(correctresponse~predicate*correctclass,data=o,FUN=mean)
 o_agr$subjectivity = d_agr$response[match(o_agr$predicate,d_agr$predicate)]
 
 #### NO COLOR ADJECTIVES
-#o_agr = o_agr[o_agr$correctclass!="color",]
+o_agr = o_agr[o_agr$correctclass!="color",]
 
 gof(o_agr$correctresponse,o_agr$subjectivity)
 # r = 0.62, r2 = 0.39
@@ -63,6 +63,7 @@ ggplot(o_agr, aes(x=subjectivity,y=correctresponse)) +
   #geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
   ylab("preferred distance from noun\n")+
   xlab("\nsubjectivity score")+
-  #ylim(0,1)+
+  ylim(0,1)+
   theme_bw()
+#ggsave("../results/vietnamese-scatter.pdf",height=2.75,width=3.15)
 #ggsave("../results/vietnamese-scatter-with-color.pdf",height=2.75,width=3.15)
