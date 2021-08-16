@@ -18,6 +18,7 @@ d = d[d$language!="Vietnam"&
 unique(d$language)
 
 length(unique(d$participant_id)) # n=17 (30)
+#write.csv(d,"vietnamese-faultless.csv")
 
 aggregate(response~class,data=d,mean)
 d_agr = aggregate(response~predicate,FUN=mean,data=d)
